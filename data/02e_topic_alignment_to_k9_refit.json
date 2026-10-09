@@ -1,0 +1,56 @@
+[
+ {
+  "reported_topic": 1,
+  "refit_topic": 4,
+  "term_overlap_of_20": 2,
+  "jaccard": 0.1
+ },
+ {
+  "reported_topic": 2,
+  "refit_topic": 8,
+  "term_overlap_of_20": 3,
+  "jaccard": 0.15
+ },
+ {
+  "reported_topic": 3,
+  "refit_topic": 5,
+  "term_overlap_of_20": 12,
+  "jaccard": 0.6
+ },
+ {
+  "reported_topic": 4,
+  "refit_topic": 3,
+  "term_overlap_of_20": 17,
+  "jaccard": 0.85
+ },
+ {
+  "reported_topic": 5,
+  "refit_topic": 6,
+  "term_overlap_of_20": 16,
+  "jaccard": 0.8
+ },
+ {
+  "reported_topic": 6,
+  "refit_topic": 7,
+  "term_overlap_of_20": 14,
+  "jaccard": 0.7
+ },
+ {
+  "reported_topic": 7,
+  "refit_topic": 1,
+  "term_overlap_of_20": 12,
+  "jaccard": 0.6
+ },
+ {
+  "reported_topic": 8,
+  "refit_topic": 2,
+  "term_overlap_of_20": 18,
+  "jaccard": 0.9
+ },
+ {
+  "reported_topic": 9,
+  "refit_topic": 9,
+  "term_overlap_of_20": 7,
+  "jaccard": 0.35
+ }
+]

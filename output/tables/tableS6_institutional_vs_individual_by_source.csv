@@ -1,0 +1,4 @@
+﻿subset,institutional_mean,institutional_n,individual_mean,individual_n,t,p,cohens_d
+Full corpus,-0.289,274,-0.133,1831,-4.81,<0.0001,-0.31
+Church only,-0.317,251,-0.396,631,1.95,0.051,0.14
+Press only,0.02,23,0.006,1200,0.26,0.795,0.04

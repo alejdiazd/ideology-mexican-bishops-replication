@@ -1,0 +1,56 @@
+[
+ {
+  "topic": 1,
+  "n_documents": 232,
+  "mean_prob": 0.556,
+  "percent": 10.0
+ },
+ {
+  "topic": 2,
+  "n_documents": 217,
+  "mean_prob": 0.56,
+  "percent": 9.3
+ },
+ {
+  "topic": 3,
+  "n_documents": 105,
+  "mean_prob": 0.541,
+  "percent": 4.5
+ },
+ {
+  "topic": 4,
+  "n_documents": 223,
+  "mean_prob": 0.569,
+  "percent": 9.6
+ },
+ {
+  "topic": 5,
+  "n_documents": 352,
+  "mean_prob": 0.537,
+  "percent": 15.1
+ },
+ {
+  "topic": 6,
+  "n_documents": 288,
+  "mean_prob": 0.694,
+  "percent": 12.4
+ },
+ {
+  "topic": 7,
+  "n_documents": 273,
+  "mean_prob": 0.582,
+  "percent": 11.7
+ },
+ {
+  "topic": 8,
+  "n_documents": 496,
+  "mean_prob": 0.746,
+  "percent": 21.3
+ },
+ {
+  "topic": 9,
+  "n_documents": 144,
+  "mean_prob": 0.586,
+  "percent": 6.2
+ }
+]

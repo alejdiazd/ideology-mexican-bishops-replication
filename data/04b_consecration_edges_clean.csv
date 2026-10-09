@@ -1,0 +1,629 @@
+﻿from_name,from_key,to_name,to_key,role,consec_year,source
+Bishop Manuel Jerónimo Yerena y Camarena,manuel jeronimo yerena y camarena,Bishop Arturo Lona Reyes,arturo lona reyes,principal_consecrator,1971.0,original
+Bishop Serafín Vásquez Elizalde,serafin vasquez elizalde,Bishop Arturo Lona Reyes,arturo lona reyes,co_consecrator,1971.0,original
+Archbishop Bartolomé Carrasco Briseño,bartolome carrasco briseno,Bishop Arturo Lona Reyes,arturo lona reyes,co_consecrator,1971.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Felipe Cardinal Arizmendi Esquivel,felipe arizmendi esquivel,principal_consecrator,1991.0,original
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Felipe Cardinal Arizmendi Esquivel,felipe arizmendi esquivel,co_consecrator,1991.0,original
+Archbishop Bartolomé Carrasco Briseño,bartolome carrasco briseno,Felipe Cardinal Arizmendi Esquivel,felipe arizmendi esquivel,co_consecrator,1991.0,original
+Archbishop Luis María Martínez y Rodríguez,luis maria martinez y rodriguez,Bishop Sergio Méndez Arceo,sergio mendez arceo,principal_consecrator,,original
+Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,Bishop Sergio Méndez Arceo,sergio mendez arceo,co_consecrator,,original
+Bishop José Gabriel Anaya y Diez de Bonilla,jose gabriel anaya y diez de bonilla,Bishop Sergio Méndez Arceo,sergio mendez arceo,co_consecrator,,original
+Archbishop Mario Pio Gaspari,mario pio gaspari,Archbishop Felipe Aguirre Franco,felipe aguirre franco,principal_consecrator,1974.0,original
+Archbishop Francisco Javier Nuño y Guerrero,francisco javier nuno y guerrero,Archbishop Felipe Aguirre Franco,felipe aguirre franco,co_consecrator,1974.0,original
+Bishop José Trinidad Sepúlveda Ruiz-Velasco,jose trinidad sepulveda ruiz velasco,Archbishop Felipe Aguirre Franco,felipe aguirre franco,co_consecrator,1974.0,original
+Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,Bishop Samuel Ruiz García,samuel ruiz garcia,principal_consecrator,1959.0,original
+Archbishop Lucio Torreblanca y Tapia,lucio torreblanca y tapia,Bishop Samuel Ruiz García,samuel ruiz garcia,co_consecrator,1959.0,original
+Bishop José de Jesús Clemens Alba Palacios,jose de jesus clemens alba palacios,Bishop Samuel Ruiz García,samuel ruiz garcia,co_consecrator,1959.0,original
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Archbishop José Luis Chávez Botello,jose luis chavez botello,principal_consecrator,1997.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop José Luis Chávez Botello,jose luis chavez botello,co_consecrator,1997.0,original
+Bishop Adolfo Hernández Hurtado,adolfo hernandez hurtado,Archbishop José Luis Chávez Botello,jose luis chavez botello,co_consecrator,1997.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Rafael Romo Muñoz,rafael romo munoz,principal_consecrator,1996.0,original
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Archbishop Rafael Romo Muñoz,rafael romo munoz,co_consecrator,1996.0,original
+Archbishop Luis Morales Reyes,luis morales reyes,Archbishop Rafael Romo Muñoz,rafael romo munoz,co_consecrator,1996.0,original
+Archbishop Luigi Raimondi,luigi raimondi,Bishop Manuel Talamás Camandari,manuel talamas camandari,principal_consecrator,1957.0,original
+Bishop Antonio Guízar y Valencia,antonio guizar y valencia,Bishop Manuel Talamás Camandari,manuel talamas camandari,co_consecrator,1957.0,original
+Bishop Luis Guízar y Barragán,luis guizar y barragan,Bishop Manuel Talamás Camandari,manuel talamas camandari,co_consecrator,1957.0,original
+Archbishop Antonio López Aviña,antonio lopez avina,Archbishop Héctor González Martínez,hector gonzalez martinez,principal_consecrator,1982.0,original
+Archbishop Manuel Castro Ruiz,manuel castro ruiz,Archbishop Héctor González Martínez,hector gonzalez martinez,co_consecrator,1982.0,original
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Archbishop Héctor González Martínez,hector gonzalez martinez,co_consecrator,1982.0,original
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Carlos Cardinal Aguiar Retes,carlos aguiar retes,principal_consecrator,1997.0,original
+Bishop Magín Camerino Torreblanca Reyes,magin camerino torreblanca reyes,Carlos Cardinal Aguiar Retes,carlos aguiar retes,co_consecrator,1997.0,original
+Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,Carlos Cardinal Aguiar Retes,carlos aguiar retes,co_consecrator,1997.0,original
+Bishop Manuel Talamás Camandari,manuel talamas camandari,Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,principal_consecrator,1988.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,co_consecrator,1988.0,original
+Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,co_consecrator,1988.0,original
+St. Karol Józef Wojty&#322;a,st karol jozef wojty a,"Bishop José Raúl Vera López , O.P.",jose raul vera lopez o p,principal_consecrator,1987.0,original
+Archbishop Eduardo Martínez Somalo,eduardo martinez somalo,"Bishop José Raúl Vera López , O.P.",jose raul vera lopez o p,co_consecrator,1987.0,original
+Archbishop Giovanni Battista Re,giovanni battista re,"Bishop José Raúl Vera López , O.P.",jose raul vera lopez o p,co_consecrator,1987.0,original
+Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,principal_consecrator,1992.0,original
+Archbishop Manuel Pérez-Gil y González,manuel perez gil y gonzalez,Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,co_consecrator,1992.0,original
+Bishop Francisco Raúl Villalobos Padilla,francisco raul villalobos padilla,Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,co_consecrator,1992.0,original
+Archbishop Antonio López Aviña,antonio lopez avina,Archbishop Norberto Rivera Carrera,norberto rivera carrera,principal_consecrator,1985.0,original
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Archbishop Norberto Rivera Carrera,norberto rivera carrera,co_consecrator,1985.0,original
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Archbishop Norberto Rivera Carrera,norberto rivera carrera,co_consecrator,1985.0,original
+Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,Bishop Javier Navarro Rodríguez,javier navarro rodriguez,principal_consecrator,1992.0,original
+Archbishop Manuel Pérez-Gil y González,manuel perez gil y gonzalez,Bishop Javier Navarro Rodríguez,javier navarro rodriguez,co_consecrator,1992.0,original
+Bishop Francisco Raúl Villalobos Padilla,francisco raul villalobos padilla,Bishop Javier Navarro Rodríguez,javier navarro rodriguez,co_consecrator,1992.0,original
+Archbishop José Garibi y Rivera,jose garibi y rivera,Archbishop Carlos Quintero Arce,carlos quintero arce,principal_consecrator,1961.0,original
+Archbishop Francisco Javier Nuño y Guerrero,francisco javier nuno y guerrero,Archbishop Carlos Quintero Arce,carlos quintero arce,co_consecrator,1961.0,original
+Bishop Luis Cabrera Cruz,luis cabrera cruz,Archbishop Carlos Quintero Arce,carlos quintero arce,co_consecrator,1961.0,original
+Bishop Renato Ascencio León,renato ascencio leon,Bishop José Guadalupe Torres Campos,jose guadalupe torres campos,principal_consecrator,2005.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop José Guadalupe Torres Campos,jose guadalupe torres campos,co_consecrator,2005.0,original
+Bishop José de Jesús Martínez Zepeda,jose de jesus martinez zepeda,Bishop José Guadalupe Torres Campos,jose guadalupe torres campos,co_consecrator,2005.0,original
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,"Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",ricardo manuel watty urquidi m sp s,principal_consecrator,1980.0,original
+Bishop José de Jesús Madera Uribe,jose de jesus madera uribe,"Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",ricardo manuel watty urquidi m sp s,co_consecrator,1980.0,original
+Bishop Alfredo Torres Romero,alfredo torres romero,"Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",ricardo manuel watty urquidi m sp s,co_consecrator,1980.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Carlos Garfias Merlos,carlos garfias merlos,principal_consecrator,1996.0,original
+Archbishop Rafael Bello Ruiz,rafael bello ruiz,Archbishop Carlos Garfias Merlos,carlos garfias merlos,co_consecrator,1996.0,original
+Archbishop Alberto Suárez Inda,alberto suarez inda,Archbishop Carlos Garfias Merlos,carlos garfias merlos,co_consecrator,1996.0,original
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Faustino Armendáriz Jiménez,faustino armendariz jimenez,principal_consecrator,2005.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Archbishop Faustino Armendáriz Jiménez,faustino armendariz jimenez,co_consecrator,2005.0,original
+Archbishop Francisco Javier Chavolla Ramos,francisco javier chavolla ramos,Archbishop Faustino Armendáriz Jiménez,faustino armendariz jimenez,co_consecrator,2005.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Alberto Suárez Inda,alberto suarez inda,principal_consecrator,1985.0,original
+Archbishop Estanislao Alcaraz y Figueroa,estanislao alcaraz y figueroa,Archbishop Alberto Suárez Inda,alberto suarez inda,co_consecrator,1985.0,original
+Archbishop Luis Morales Reyes,luis morales reyes,Archbishop Alberto Suárez Inda,alberto suarez inda,co_consecrator,1985.0,original
+Archbishop Justo Mullor García,justo mullor garcia,Archbishop Constancio Miranda Wechmann,constancio miranda wechmann,principal_consecrator,1998.0,original
+Archbishop Ricardo Guízar Díaz,ricardo guizar diaz,Archbishop Constancio Miranda Wechmann,constancio miranda wechmann,co_consecrator,1998.0,original
+Bishop Juan Guillermo López Soto,juan guillermo lopez soto,Archbishop Constancio Miranda Wechmann,constancio miranda wechmann,co_consecrator,1998.0,original
+Archbishop Justo Mullor García,justo mullor garcia,Bishop Rodrigo Aguilar Martínez,rodrigo aguilar martinez,principal_consecrator,1997.0,original
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Rodrigo Aguilar Martínez,rodrigo aguilar martinez,co_consecrator,1997.0,original
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Bishop Rodrigo Aguilar Martínez,rodrigo aguilar martinez,co_consecrator,1997.0,original
+Bishop Alfredo Torres Romero,alfredo torres romero,Archbishop José Francisco Robles Ortega,jose francisco robles ortega,principal_consecrator,1991.0,original
+Bishop José María Hernández González,jose maria hernandez gonzalez,Archbishop José Francisco Robles Ortega,jose francisco robles ortega,co_consecrator,1991.0,original
+Archbishop Javier Lozano Barragán,javier lozano barragan,Archbishop José Francisco Robles Ortega,jose francisco robles ortega,co_consecrator,1991.0,original
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Bishop Juan Manuel Mancilla Sánchez,juan manuel mancilla sanchez,principal_consecrator,2001.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Juan Manuel Mancilla Sánchez,juan manuel mancilla sanchez,co_consecrator,2001.0,original
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Juan Manuel Mancilla Sánchez,juan manuel mancilla sanchez,co_consecrator,2001.0,original
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Mario Espinosa Contreras,mario espinosa contreras,principal_consecrator,1996.0,original
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Mario Espinosa Contreras,mario espinosa contreras,co_consecrator,1996.0,original
+Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,Bishop Mario Espinosa Contreras,mario espinosa contreras,co_consecrator,1996.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,"Bishop Pedro Pablo Elizondo Cárdenas , L.C.",pedro pablo elizondo cardenas l c,principal_consecrator,2004.0,original
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,"Bishop Pedro Pablo Elizondo Cárdenas , L.C.",pedro pablo elizondo cardenas l c,co_consecrator,2004.0,original
+Bishop Jorge Bernal Vargas,jorge bernal vargas,"Bishop Pedro Pablo Elizondo Cárdenas , L.C.",pedro pablo elizondo cardenas l c,co_consecrator,2004.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Rogelio Cabrera López,rogelio cabrera lopez,principal_consecrator,1996.0,original
+Archbishop Alberto Suárez Inda,alberto suarez inda,Archbishop Rogelio Cabrera López,rogelio cabrera lopez,co_consecrator,1996.0,original
+Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,Archbishop Rogelio Cabrera López,rogelio cabrera lopez,co_consecrator,1996.0,original
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Marcelino Hernández Rodríguez,marcelino hernandez rodriguez,principal_consecrator,1998.0,original
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Marcelino Hernández Rodríguez,marcelino hernandez rodriguez,co_consecrator,1998.0,original
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Marcelino Hernández Rodríguez,marcelino hernandez rodriguez,co_consecrator,1998.0,original
+Archbishop Sergio Obeso Rivera,sergio obeso rivera,Archbishop Hipólito Reyes Larios,hipolito reyes larios,principal_consecrator,2000.0,original
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Archbishop Hipólito Reyes Larios,hipolito reyes larios,co_consecrator,2000.0,original
+Archbishop Leonardo Sandri,leonardo sandri,Archbishop Hipólito Reyes Larios,hipolito reyes larios,co_consecrator,2000.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Florencio Olvera Ochoa,florencio olvera ochoa,principal_consecrator,1992.0,original
+Bishop Rafael Garcia González,rafael garcia gonzalez,Bishop Florencio Olvera Ochoa,florencio olvera ochoa,co_consecrator,1992.0,original
+Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,Bishop Florencio Olvera Ochoa,florencio olvera ochoa,co_consecrator,1992.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,principal_consecrator,1983.0,original
+Archbishop Sergio Obeso Rivera,sergio obeso rivera,Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,co_consecrator,1983.0,original
+Bishop Ignacio Lehonor Arroyo,ignacio lehonor arroyo,Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,co_consecrator,1983.0,original
+Archbishop Justo Mullor García,justo mullor garcia,Bishop Fernando Mario Chávez Ruvalcaba,fernando mario chavez ruvalcaba,principal_consecrator,1999.0,original
+Archbishop Javier Lozano Barragán,javier lozano barragan,Bishop Fernando Mario Chávez Ruvalcaba,fernando mario chavez ruvalcaba,co_consecrator,1999.0,original
+Bishop Rafael Muñoz Núñez,rafael munoz nunez,Bishop Fernando Mario Chávez Ruvalcaba,fernando mario chavez ruvalcaba,co_consecrator,1999.0,original
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Bishop Ramón Castro Castro,ramon castro castro,principal_consecrator,2004.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Ramón Castro Castro,ramon castro castro,co_consecrator,2004.0,original
+Archbishop Rafael Romo Muñoz,rafael romo munoz,Bishop Ramón Castro Castro,ramon castro castro,co_consecrator,2004.0,original
+Archbishop José Garibi y Rivera,jose garibi y rivera,Bishop Manuel Jerónimo Yerena y Camarena,manuel jeronimo yerena y camarena,principal_consecrator,1940.0,original
+Bishop Anastasio Hurtado y Robles,anastasio hurtado y robles,Bishop Manuel Jerónimo Yerena y Camarena,manuel jeronimo yerena y camarena,co_consecrator,1940.0,original
+Bishop Maximino Ruiz y Flores,maximino ruiz y flores,Bishop Manuel Jerónimo Yerena y Camarena,manuel jeronimo yerena y camarena,co_consecrator,1940.0,original
+Amleto Giovanni Cardinal Cicognani,amleto giovanni cicognani,Archbishop Girolamo Prigione,girolamo prigione,principal_consecrator,1968.0,original
+Archbishop Giovanni Benelli,giovanni benelli,Archbishop Girolamo Prigione,girolamo prigione,co_consecrator,1968.0,original
+Bishop Giuseppe Almici,giuseppe almici,Archbishop Girolamo Prigione,girolamo prigione,co_consecrator,1968.0,original
+Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,Archbishop Luis María Martínez y Rodríguez,luis maria martinez y rodriguez,principal_consecrator,1923.0,original
+Bishop Francisco Banegas y Galván,francisco banegas y galvan,Archbishop Luis María Martínez y Rodríguez,luis maria martinez y rodriguez,co_consecrator,1923.0,original
+Bishop Leopoldo Lara y Torres,leopoldo lara y torres,Archbishop Luis María Martínez y Rodríguez,luis maria martinez y rodriguez,co_consecrator,1923.0,original
+St. Giovanni Battista Enrico Antonio Maria Montini,st giovanni battista enrico antonio maria montini,Archbishop Mario Pio Gaspari,mario pio gaspari,principal_consecrator,1973.0,original
+Archbishop Agostino Casaroli,agostino casaroli,Archbishop Mario Pio Gaspari,mario pio gaspari,co_consecrator,1973.0,original
+Archbishop Bernardin Gantin,bernardin gantin,Archbishop Mario Pio Gaspari,mario pio gaspari,co_consecrator,1973.0,original
+Archbishop Luis María Altamirano y Bulnes,luis maria altamirano y bulnes,Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,principal_consecrator,1946.0,original
+Archbishop Ferdinando Ruiz y Solózarno,ferdinando ruiz y solozarno,Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,co_consecrator,1946.0,original
+Bishop José Abraham Martínez Betancourt,jose abraham martinez betancourt,Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,co_consecrator,1946.0,original
+Adeodato Giovanni Cardinal Piazza,adeodato giovanni piazza,Archbishop Luigi Raimondi,luigi raimondi,principal_consecrator,1954.0,original
+Archbishop Antonio Samorè,antonio samore,Archbishop Luigi Raimondi,luigi raimondi,co_consecrator,1954.0,original
+Bishop Giuseppe Dell&rsquo;Omo,giuseppe dell rsquo omo,Archbishop Luigi Raimondi,luigi raimondi,co_consecrator,1954.0,original
+Archbishop José María González y Valencia,jose maria gonzalez y valencia,Archbishop Antonio López Aviña,antonio lopez avina,principal_consecrator,1955.0,original
+Archbishop José Garibi y Rivera,jose garibi y rivera,Archbishop Antonio López Aviña,antonio lopez avina,co_consecrator,1955.0,original
+Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,Archbishop Antonio López Aviña,antonio lopez avina,co_consecrator,1955.0,original
+Archbishop Carlo Martini,carlo martini,Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,principal_consecrator,1971.0,original
+Archbishop José Salazar López,jose salazar lopez,Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,co_consecrator,1971.0,original
+Bishop Samuel Ruiz García,samuel ruiz garcia,Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,co_consecrator,1971.0,original
+Archbishop Eugeniusz Baziak,eugeniusz baziak,Pope John Paul II,pope john paul ii,principal_consecrator,1958.0,original
+Bishop Franciszek Jop,franciszek jop,Pope John Paul II,pope john paul ii,co_consecrator,1958.0,original
+Bishop Boles&#322;aw Kominek,boles aw kominek,Pope John Paul II,pope john paul ii,co_consecrator,1958.0,original
+Archbishop Manuel Martín del Campo Padilla,manuel martin del campo padilla,Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,principal_consecrator,1970.0,original
+Bishop Alfredo Galindo Mendoza,alfredo galindo mendoza,Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,co_consecrator,1970.0,original
+Bishop Román Acevedo Rojas,roman acevedo rojas,Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,co_consecrator,1970.0,original
+Archbishop Francisco Orozco y Jiménez,francisco orozco y jimenez,Archbishop José Garibi y Rivera,jose garibi y rivera,principal_consecrator,1929.0,original
+Bishop Miguel María de la Mora y Mora,miguel maria de la mora y mora,Archbishop José Garibi y Rivera,jose garibi y rivera,co_consecrator,1929.0,original
+Bishop Ignacio Placencia y Moreira,ignacio placencia y moreira,Archbishop José Garibi y Rivera,jose garibi y rivera,co_consecrator,1929.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Renato Ascencio León,renato ascencio leon,principal_consecrator,1988.0,original
+Bishop Anselmo Zarza Bernal,anselmo zarza bernal,Bishop Renato Ascencio León,renato ascencio leon,co_consecrator,1988.0,original
+Archbishop José Ulises Macías Salcedo,jose ulises macias salcedo,Bishop Renato Ascencio León,renato ascencio leon,co_consecrator,1988.0,original
+Archbishop Octaviano Márquez y Tóriz,octaviano marquez y toriz,Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,principal_consecrator,1952.0,original
+Bishop Serafín María Armora y González,serafin maria armora y gonzalez,Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,co_consecrator,1952.0,original
+Bishop Luis Guízar y Barragán,luis guizar y barragan,Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,co_consecrator,1952.0,original
+St. Karol Józef Wojty&#322;a,st karol jozef wojty a,Archbishop Justo Mullor García,justo mullor garcia,principal_consecrator,1979.0,original
+Archbishop Duraisamy Simon Lourdusamy,duraisamy simon lourdusamy,Archbishop Justo Mullor García,justo mullor garcia,co_consecrator,1979.0,original
+Archbishop Eduardo Martínez Somalo,eduardo martinez somalo,Archbishop Justo Mullor García,justo mullor garcia,co_consecrator,1979.0,original
+Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,Bishop Alfredo Torres Romero,alfredo torres romero,principal_consecrator,1967.0,original
+Bishop Victorino Alvarez Tena,victorino alvarez tena,Bishop Alfredo Torres Romero,alfredo torres romero,co_consecrator,1967.0,original
+Archbishop Manuel Pérez-Gil y González,manuel perez gil y gonzalez,Bishop Alfredo Torres Romero,alfredo torres romero,co_consecrator,1967.0,original
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,principal_consecrator,1960.0,original
+Bishop Fidel Cortés Pérez,fidel cortes perez,Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,co_consecrator,1960.0,original
+Archbishop Estanislao Alcaraz y Figueroa,estanislao alcaraz y figueroa,Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,co_consecrator,1960.0,original
+Archbishop Agostino Casaroli,agostino casaroli,Archbishop Giuseppe Bertello,giuseppe bertello,principal_consecrator,1987.0,original
+Archbishop Albino Mensa,albino mensa,Archbishop Giuseppe Bertello,giuseppe bertello,co_consecrator,1987.0,original
+Bishop Luigi Bettazzi,luigi bettazzi,Archbishop Giuseppe Bertello,giuseppe bertello,co_consecrator,1987.0,original
+Archbishop Emilio Abascal y Salmerón,emilio abascal y salmeron,Archbishop Sergio Obeso Rivera,sergio obeso rivera,principal_consecrator,1971.0,original
+Archbishop Manuel Pío López Estrada,manuel pio lopez estrada,Archbishop Sergio Obeso Rivera,sergio obeso rivera,co_consecrator,1971.0,original
+Bishop Guillermo Ranzahuer González,guillermo ranzahuer gonzalez,Archbishop Sergio Obeso Rivera,sergio obeso rivera,co_consecrator,1971.0,original
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,principal_consecrator,1983.0,original
+Bishop Salvador Quezada Limón,salvador quezada limon,Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,co_consecrator,1983.0,original
+Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,co_consecrator,1983.0,original
+Archbishop Raffaele Carlo Rossi,raffaele carlo rossi,Amleto Giovanni Cardinal Cicognani,amleto giovanni cicognani,principal_consecrator,1933.0,original
+Archbishop Giuseppe Pizzardo,giuseppe pizzardo,Amleto Giovanni Cardinal Cicognani,amleto giovanni cicognani,co_consecrator,1933.0,original
+Archbishop Carlo Salotti,carlo salotti,Amleto Giovanni Cardinal Cicognani,amleto giovanni cicognani,co_consecrator,1933.0,original
+Archbishop Próspero María Alarcón y Sánchez de la Barquera,prospero maria alarcon y sanchez de la barquera,Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,principal_consecrator,1900.0,original
+Archbishop Santiago de los Santos Garza Zambrano,santiago de los santos garza zambrano,Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,co_consecrator,1900.0,original
+Bishop Francisco Plancarte y Navarrete,francisco plancarte y navarrete,Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,co_consecrator,1900.0,original
+Eugène-Gabriel-Gervais-Laurent Cardinal Tisserant,eugene gabriel gervais laurent tisserant,Pope Paul VI,pope paul vi,principal_consecrator,1954.0,original
+Bishop Giacinto Tredici,giacinto tredici,Pope Paul VI,pope paul vi,co_consecrator,1954.0,original
+Bishop Domenico Bernareggi,domenico bernareggi,Pope Paul VI,pope paul vi,co_consecrator,1954.0,original
+Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,Archbishop Luis María Altamirano y Bulnes,luis maria altamirano y bulnes,principal_consecrator,1923.0,original
+Bishop Manuel Fulcheri y Pietrasanta,manuel fulcheri y pietrasanta,Archbishop Luis María Altamirano y Bulnes,luis maria altamirano y bulnes,co_consecrator,1923.0,original
+Bishop Maximino Ruiz y Flores,maximino ruiz y flores,Archbishop Luis María Altamirano y Bulnes,luis maria altamirano y bulnes,co_consecrator,1923.0,original
+Basilio Cardinal Pompilj,basilio pompilj,"Adeodato Giovanni Cardinal Piazza , O.C.D.",adeodato giovanni piazza o c d,principal_consecrator,1930.0,original
+Archbishop Raffaele Carlo Rossi,raffaele carlo rossi,"Adeodato Giovanni Cardinal Piazza , O.C.D.",adeodato giovanni piazza o c d,co_consecrator,1930.0,original
+Bishop Pio Marcello Bagnoli,pio marcello bagnoli,"Adeodato Giovanni Cardinal Piazza , O.C.D.",adeodato giovanni piazza o c d,co_consecrator,1930.0,original
+Archbishop José Othón Núñez y Zárate,jose othon nunez y zarate,Archbishop José María González y Valencia,jose maria gonzalez y valencia,principal_consecrator,1922.0,original
+Bishop St. Raphael Guizar Valencia,st raphael guizar valencia,Archbishop José María González y Valencia,jose maria gonzalez y valencia,co_consecrator,1922.0,original
+Bishop Antonio Guízar y Valencia,antonio guizar y valencia,Archbishop José María González y Valencia,jose maria gonzalez y valencia,co_consecrator,1922.0,original
+Archbishop Antonio Samorè,antonio samore,Archbishop Carlo Martini,carlo martini,principal_consecrator,1961.0,original
+Bishop Antonio Bergamaschi,antonio bergamaschi,Archbishop Carlo Martini,carlo martini,co_consecrator,1961.0,original
+Bishop Artemio Prati,artemio prati,Archbishop Carlo Martini,carlo martini,co_consecrator,1961.0,original
+Archbishop Boles&#322;aw Twardowski,boles aw twardowski,Archbishop Eugeniusz Baziak,eugeniusz baziak,principal_consecrator,1933.0,original
+Bishop Franciszek Lisowski,franciszek lisowski,Archbishop Eugeniusz Baziak,eugeniusz baziak,co_consecrator,1933.0,original
+Bishop Edward Komar,edward komar,Archbishop Eugeniusz Baziak,eugeniusz baziak,co_consecrator,1933.0,original
+Archbishop Próspero María Alarcón y Sánchez de la Barquera,prospero maria alarcon y sanchez de la barquera,Archbishop Francisco Orozco y Jiménez,francisco orozco y jimenez,principal_consecrator,1902.0,original
+Bishop Francisco Plancarte y Navarrete,francisco plancarte y navarrete,Archbishop Francisco Orozco y Jiménez,francisco orozco y jimenez,co_consecrator,1902.0,original
+Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,Archbishop Francisco Orozco y Jiménez,francisco orozco y jimenez,co_consecrator,1902.0,original
+Archbishop Luis María Altamirano y Bulnes,luis maria altamirano y bulnes,Archbishop Octaviano Márquez y Tóriz,octaviano marquez y toriz,principal_consecrator,1951.0,original
+Archbishop Lucio Torreblanca y Tapia,lucio torreblanca y tapia,Archbishop Octaviano Márquez y Tóriz,octaviano marquez y toriz,co_consecrator,1951.0,original
+Archbishop Alfonso Espino y Silva,alfonso espino y silva,Archbishop Octaviano Márquez y Tóriz,octaviano marquez y toriz,co_consecrator,1951.0,original
+Archbishop Leopoldo Ruiz y Flores,leopoldo ruiz y flores,Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,principal_consecrator,1937.0,original
+Archbishop José Ignacio Márquez y Tóriz,jose ignacio marquez y toriz,Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,co_consecrator,1937.0,original
+Bishop Maximino Ruiz y Flores,maximino ruiz y flores,Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,co_consecrator,1937.0,original
+St. Giovanni Battista Enrico Antonio Maria Montini,st giovanni battista enrico antonio maria montini,Archbishop Agostino Casaroli,agostino casaroli,principal_consecrator,1967.0,original
+Bishop Augusto Gianfranceschi,augusto gianfranceschi,Archbishop Agostino Casaroli,agostino casaroli,co_consecrator,1967.0,original
+Bishop Jacques-Paul Martin,jacques paul martin,Archbishop Agostino Casaroli,agostino casaroli,co_consecrator,1967.0,original
+Archbishop Octaviano Márquez y Tóriz,octaviano marquez y toriz,Archbishop Emilio Abascal y Salmerón,emilio abascal y salmeron,principal_consecrator,1953.0,original
+Archbishop Alfonso Espino y Silva,alfonso espino y silva,Archbishop Emilio Abascal y Salmerón,emilio abascal y salmeron,co_consecrator,1953.0,original
+Archbishop Manuel Pío López Estrada,manuel pio lopez estrada,Archbishop Emilio Abascal y Salmerón,emilio abascal y salmeron,co_consecrator,1953.0,original
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Víctor René Rodríguez Gómez,victor rene rodriguez gomez,principal_consecrator,2006.0,original
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Víctor René Rodríguez Gómez,victor rene rodriguez gomez,co_consecrator,2006.0,original
+Archbishop Ricardo Guízar Díaz,ricardo guizar diaz,Bishop Víctor René Rodríguez Gómez,victor rene rodriguez gomez,co_consecrator,2006.0,original
+Angelo Cardinal Sodano,angelo sodano,Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,principal_consecrator,1995.0,original
+Archbishop Antonio Samorè,antonio samore,Angelo Cardinal Sodano,angelo sodano,principal_consecrator,1978.0,original
+Paul Joseph Marie Cardinal Gouyon,paul joseph marie gouyon,Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,co_consecrator,1995.0,original
+Archbishop Jacques André Marie Jullien,jacques andre marie jullien,Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,co_consecrator,1995.0,original
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Enrique Sánchez Martínez,enrique sanchez martinez,principal_consecrator,2008.0,original
+Archbishop Héctor González Martínez,hector gonzalez martinez,Bishop Enrique Sánchez Martínez,enrique sanchez martinez,co_consecrator,2008.0,original
+Archbishop José Trinidad Medel Pérez,jose trinidad medel perez,Bishop Enrique Sánchez Martínez,enrique sanchez martinez,co_consecrator,2008.0,original
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,principal_consecrator,2004.0,original
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,co_consecrator,2004.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,co_consecrator,2004.0,original
+Felipe Cardinal Arizmendi Esquivel,felipe arizmendi esquivel,Bishop Enrique Díaz Díaz,enrique diaz diaz,principal_consecrator,2003.0,original
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Enrique Díaz Díaz,enrique diaz diaz,co_consecrator,2003.0,original
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Enrique Díaz Díaz,enrique diaz diaz,co_consecrator,2003.0,original
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Francisco Maria Aguilera González,francisco maria aguilera gonzalez,principal_consecrator,1979.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Archbishop Javier Lozano Barragán,javier lozano barragan,principal_consecrator,1979.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Carlos Talavera Ramírez,carlos talavera ramirez,principal_consecrator,1980.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Archbishop Luis Robles Díaz,luis robles diaz,principal_consecrator,1985.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Abelardo Alvarado Alcántara,abelardo alvarado alcantara,principal_consecrator,1985.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Archbishop Estanislao Alcaraz y Figueroa,estanislao alcaraz y figueroa,co_consecrator,1959.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Braulio Sánchez Fuentes,braulio sanchez fuentes,co_consecrator,1970.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Genaro Alamilla Arteaga,genaro alamilla arteaga,co_consecrator,1974.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Hermenegildo Ramírez Sánchez,hermenegildo ramirez sanchez,co_consecrator,1975.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Domingo Jafet Herrera Castillo,domingo jafet herrera castillo,co_consecrator,1978.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Lorenzo Cárdenas Aregullín,lorenzo cardenas aregullin,co_consecrator,1978.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop Luis Reynoso Cervantes,luis reynoso cervantes,co_consecrator,1978.0,focal_scrape
+Ernesto Cardinal Corripio y Ahumada,ernesto corripio y ahumada,Bishop José de Jesús Martínez Zepeda,jose de jesus martinez zepeda,co_consecrator,1997.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop St. Oscar Arnulfo Romero y Galdamez,st oscar arnulfo romero y galdamez,principal_consecrator,1970.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Victor Hugo Martínez Contreras,victor hugo martinez contreras,principal_consecrator,1971.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Mister José Julio Aguilar García,mister jose julio aguilar garcia,principal_consecrator,1971.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,principal_consecrator,1972.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Marco René Revelo Contreras,marco rene revelo contreras,principal_consecrator,1973.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Francis Folorunsho Clement Alonge,francis folorunsho clement alonge,principal_consecrator,1974.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Michael Nnachi Okoro,michael nnachi okoro,principal_consecrator,1977.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Albert Kanene Obiefuna,albert kanene obiefuna,principal_consecrator,1978.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Michael Ugwu Eneja,michael ugwu eneja,principal_consecrator,1978.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Luis Reynoso Cervantes,luis reynoso cervantes,principal_consecrator,1978.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José de Jesús Castillo Rentería,jose de jesus castillo renteria,principal_consecrator,1979.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Juvencio González Alvarez,juvencio gonzalez alvarez,principal_consecrator,1980.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Lizares Estrada,jose lizares estrada,principal_consecrator,1980.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,principal_consecrator,1981.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Miguel Patiño Velázquez,miguel patino velazquez,principal_consecrator,1981.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José de Jesús Aguilera Rodriguez,jose de jesus aguilera rodriguez,principal_consecrator,1982.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Manuel Mireles Vaquera,manuel mireles vaquera,principal_consecrator,1982.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José María Hernández González,jose maria hernandez gonzalez,principal_consecrator,1983.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Jesús Humberto Velázquez Garay,jesus humberto velazquez garay,principal_consecrator,1983.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Luis Miguel Cantón Marín,luis miguel canton marin,principal_consecrator,1984.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop José Ulises Macías Salcedo,jose ulises macias salcedo,principal_consecrator,1984.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Raymundo López Mateos,raymundo lopez mateos,principal_consecrator,1986.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop José Trinidad Medel Pérez,jose trinidad medel perez,principal_consecrator,1986.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Ramón Calderón Batres,ramon calderon batres,principal_consecrator,1988.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Vicente García Bernal,vicente garcia bernal,principal_consecrator,1988.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Carlos Suárez Cázares,carlos suarez cazares,principal_consecrator,1988.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Benjamín Jiménez Hernández,benjamin jimenez hernandez,principal_consecrator,1989.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Luis Gabriel Cuara Méndez,luis gabriel cuara mendez,principal_consecrator,1989.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Braulio Rafael León Villegas,braulio rafael leon villegas,principal_consecrator,1990.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Antonio Pérez Sánchez,jose antonio perez sanchez,principal_consecrator,1990.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Efrén Ramos Salazar,efren ramos salazar,principal_consecrator,1990.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Lázaro Pérez Jiménez,lazaro perez jimenez,principal_consecrator,1991.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Archbishop Francisco Javier Chavolla Ramos,francisco javier chavolla ramos,principal_consecrator,1991.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Felipe Padilla Cardona,felipe padilla cardona,principal_consecrator,1992.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Alejo Zavala Castro,alejo zavala castro,principal_consecrator,1992.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Salvador Flores Huerta,salvador flores huerta,principal_consecrator,1993.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Luis Dibildox Martínez,jose luis dibildox martinez,principal_consecrator,1994.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Octavio Villegas Aguilar,octavio villegas aguilar,principal_consecrator,1994.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Salvador Martínez Pérez,salvador martinez perez,principal_consecrator,1994.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Guadalupe Galván Galindo,jose guadalupe galvan galindo,principal_consecrator,1994.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Luis Amezcua Melgoza,jose luis amezcua melgoza,principal_consecrator,1995.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Onésimo Cepeda Silva,onesimo cepeda silva,principal_consecrator,1995.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Antonio González Sánchez,antonio gonzalez sanchez,principal_consecrator,1995.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop Juan Guillermo López Soto,juan guillermo lopez soto,principal_consecrator,1995.0,focal_scrape
+Archbishop Girolamo Prigione,girolamo prigione,Bishop José Trinidad González Rodríguez,jose trinidad gonzalez rodriguez,co_consecrator,1997.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,principal_consecrator,1995.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Eduardo Porfirio Patiño Leal,eduardo porfirio patino leal,principal_consecrator,2000.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,principal_consecrator,2001.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Roberto Octavio Balmori Cinta,roberto octavio balmori cinta,principal_consecrator,2002.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Alonso Gerardo Garza Treviño,alonso gerardo garza trevino,principal_consecrator,2003.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,co_consecrator,1981.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Raymundo López Mateos,raymundo lopez mateos,co_consecrator,1986.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Ramón Calderón Batres,ramon calderon batres,co_consecrator,1988.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop José Andrés Corral Arredondo,jose andres corral arredondo,co_consecrator,1989.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Archbishop Francisco Javier Chavolla Ramos,francisco javier chavolla ramos,co_consecrator,1991.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop José Guadalupe Galván Galindo,jose guadalupe galvan galindo,co_consecrator,1994.0,focal_scrape
+Archbishop Adolfo Antonio Suárez Rivera,adolfo antonio suarez rivera,Bishop Antonio González Sánchez,antonio gonzalez sanchez,co_consecrator,1995.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Luis Artemio Flores Calzada,luis artemio flores calzada,principal_consecrator,2003.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Guillermo Francisco Escobar Galicia,guillermo francisco escobar galicia,principal_consecrator,2009.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Efraín Mendoza Cruz,efrain mendoza cruz,principal_consecrator,2011.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Jorge Cuapio Bautista,jorge cuapio bautista,principal_consecrator,2015.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Salvador González Morales,salvador gonzalez morales,principal_consecrator,2019.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Carlos Enrique Samaniego López,carlos enrique samaniego lopez,principal_consecrator,2019.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Francisco Daniel Rivera Sánchez,francisco daniel rivera sanchez,principal_consecrator,2020.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Héctor Mario Pérez Villarreal,hector mario perez villarreal,principal_consecrator,2020.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Luis Manuel Pérez Raygoza,luis manuel perez raygoza,principal_consecrator,2020.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Andrés Luis García Jasso,andres luis garcia jasso,principal_consecrator,2021.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Francisco Javier Acero Pérez,francisco javier acero perez,principal_consecrator,2022.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Sigifredo Noriega Barceló,sigifredo noriega barcelo,co_consecrator,2007.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Juan Humberto Gutiérrez Valencia,juan humberto gutierrez valencia,co_consecrator,2008.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Archbishop José Francisco González González,jose francisco gonzalez gonzalez,co_consecrator,2008.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Florencio Armando Colín Cruz,florencio armando colin cruz,co_consecrator,2009.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Jesús Antonio Lerma Nolasco,jesus antonio lerma nolasco,co_consecrator,2009.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Dagoberto Sosa Arriaga,dagoberto sosa arriaga,co_consecrator,2011.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Eugenio Andrés Lira Rugarcía,eugenio andres lira rugarcia,co_consecrator,2011.0,focal_scrape
+Carlos Cardinal Aguiar Retes,carlos aguiar retes,Bishop Francisco González Ramos,francisco gonzalez ramos,co_consecrator,2014.0,focal_scrape
+Archbishop Juan Jesús Posadas Ocampo,juan jesus posadas ocampo,Bishop José Antonio Pérez Sánchez,jose antonio perez sanchez,co_consecrator,1990.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop José de Jesús Martínez Zepeda,jose de jesus martinez zepeda,principal_consecrator,1997.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Felipe Tejeda García,felipe tejeda garcia,principal_consecrator,2000.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop José Luis Fletes Santana,jose luis fletes santana,principal_consecrator,2000.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Guillermo Rodrigo Teodoro Ortiz Mondragón,guillermo rodrigo teodoro ortiz mondragon,principal_consecrator,2000.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Francisco Clavel Gil,francisco clavel gil,principal_consecrator,2001.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Rogelio Esquivel Medina,rogelio esquivel medina,principal_consecrator,2001.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Jonás Guerrero Corona,jonas guerrero corona,principal_consecrator,2001.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Antonio Ortega Franco,antonio ortega franco,principal_consecrator,2004.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Carlos Briseño Arch,carlos briseno arch,principal_consecrator,2006.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Archbishop Oscar Roberto Domínguez Couttolenc,oscar roberto dominguez couttolenc,principal_consecrator,2007.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Florencio Armando Colín Cruz,florencio armando colin cruz,principal_consecrator,2009.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Jesús Antonio Lerma Nolasco,jesus antonio lerma nolasco,principal_consecrator,2009.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Andrés Vargas Peña,andres vargas pena,principal_consecrator,2010.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Adolfo Miguel Castaño Fonseca,adolfo miguel castano fonseca,principal_consecrator,2010.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Crispin Ojeda Márquez,crispin ojeda marquez,principal_consecrator,2011.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Jorge Estrada Solórzano,jorge estrada solorzano,principal_consecrator,2013.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop José Andrés Corral Arredondo,jose andres corral arredondo,co_consecrator,1989.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Rafael Sandoval Sandoval,rafael sandoval sandoval,co_consecrator,2005.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Archbishop Raúl Gómez González,raul gomez gonzalez,co_consecrator,2010.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Juan Odilón Martínez García,juan odilon martinez garcia,co_consecrator,2010.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Dagoberto Sosa Arriaga,dagoberto sosa arriaga,co_consecrator,2011.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Eugenio Andrés Lira Rugarcía,eugenio andres lira rugarcia,co_consecrator,2011.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Efraín Mendoza Cruz,efrain mendoza cruz,co_consecrator,2011.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Tomás López Durán,tomas lopez duran,co_consecrator,2014.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Rutilo Felipe Pozos Lorenzini,rutilo felipe pozos lorenzini,co_consecrator,2014.0,focal_scrape
+Archbishop Norberto Rivera Carrera,norberto rivera carrera,Bishop Francisco Javier Martínez Castillo,francisco javier martinez castillo,co_consecrator,2024.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop José Miguel Ángel Giles Vázquez,jose miguel angel giles vazquez,principal_consecrator,2004.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Alfonso Cortés Contreras,alfonso cortes contreras,principal_consecrator,2005.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Ruy Rendón Leal,ruy rendon leal,principal_consecrator,2005.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Jorge Alberto Cavazos Arizpe,jorge alberto cavazos arizpe,principal_consecrator,2009.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Juan Odilón Martínez García,juan odilon martinez garcia,principal_consecrator,2010.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Juan Manuel Muñoz Curiel,juan manuel munoz curiel,principal_consecrator,2018.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Héctor López Alvarado,hector lopez alvarado,principal_consecrator,2018.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Engelberto Polino Sánchez,engelberto polino sanchez,principal_consecrator,2018.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Manuel González Villaseñor,manuel gonzalez villasenor,principal_consecrator,2021.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Eduardo Muñoz Ochoa,eduardo munoz ochoa,principal_consecrator,2021.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Ramón Salazar Estrada,ramon salazar estrada,principal_consecrator,2021.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Lázaro Pérez Jiménez,lazaro perez jimenez,co_consecrator,1991.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Raúl Gómez González,raul gomez gonzalez,co_consecrator,2010.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Juan Armando Pérez Talamantes,juan armando perez talamantes,co_consecrator,2014.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Alfonso Gerardo Miranda Guardiola,alfonso gerardo miranda guardiola,co_consecrator,2014.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Heriberto Cavazos Pérez,heriberto cavazos perez,co_consecrator,2017.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Oscar Efraín Tamez Villarreal,oscar efrain tamez villarreal,co_consecrator,2017.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Archbishop Javier Herrera Corona,javier herrera corona,co_consecrator,2022.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop Andrés Sáinz Márquez,andres sainz marquez,co_consecrator,2025.0,focal_scrape
+Archbishop José Francisco Robles Ortega,jose francisco robles ortega,Bishop José Eugenio Ramos Delgado,jose eugenio ramos delgado,co_consecrator,2026.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José Trinidad González Rodríguez,jose trinidad gonzalez rodriguez,principal_consecrator,1997.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Alberto Campos Hernández,alberto campos hernandez,principal_consecrator,1998.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José Benjamín Castillo Plascencia,jose benjamin castillo plascencia,principal_consecrator,2000.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Miguel Romano Gómez,miguel romano gomez,principal_consecrator,2000.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Rafael Francisco Martínez Sáinz,rafael francisco martinez sainz,principal_consecrator,2002.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José María de la Torre Martín,jose maria de la torre martin,principal_consecrator,2002.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José Refugio Mercado Díaz,jose refugio mercado diaz,principal_consecrator,2003.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Gonzalo Galván Castillo,gonzalo galvan castillo,principal_consecrator,2004.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,principal_consecrator,2006.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Juan Humberto Gutiérrez Valencia,juan humberto gutierrez valencia,principal_consecrator,2008.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Archbishop José Francisco González González,jose francisco gonzalez gonzalez,principal_consecrator,2008.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Felipe Salazar Villagrana,felipe salazar villagrana,principal_consecrator,2008.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop José de Jesús González Hernández,jose de jesus gonzalez hernandez,principal_consecrator,2010.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Archbishop Pedro Vázquez Villalobos,pedro vazquez villalobos,principal_consecrator,2013.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Tomás López Durán,tomas lopez duran,co_consecrator,2014.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Rutilo Felipe Pozos Lorenzini,rutilo felipe pozos lorenzini,co_consecrator,2014.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Juan Manuel Muñoz Curiel,juan manuel munoz curiel,co_consecrator,2018.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Héctor López Alvarado,hector lopez alvarado,co_consecrator,2018.0,focal_scrape
+Juan Cardinal Sandoval Íñiguez,juan sandoval iniguez,Bishop Engelberto Polino Sánchez,engelberto polino sanchez,co_consecrator,2018.0,focal_scrape
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Bishop Lorenzo Cárdenas Aregullín,lorenzo cardenas aregullin,principal_consecrator,1978.0,gen3_scrape
+Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,Bishop Francisco Maria Aguilera González,francisco maria aguilera gonzalez,co_consecrator,1979.0,gen2_scrape
+Bishop José Esaúl Robles Jiménez,jose esaul robles jimenez,Bishop Francisco Maria Aguilera González,francisco maria aguilera gonzalez,co_consecrator,1979.0,gen2_scrape
+Archbishop Miguel Darío Miranda y Gómez,miguel dario miranda y gomez,Archbishop Javier Lozano Barragán,javier lozano barragan,co_consecrator,1979.0,gen2_scrape
+Bishop José Esaúl Robles Jiménez,jose esaul robles jimenez,Archbishop Javier Lozano Barragán,javier lozano barragan,co_consecrator,1979.0,gen2_scrape
+Archbishop Javier Lozano Barragán,javier lozano barragan,Archbishop Jesús Carlos Cabrero Romero,jesus carlos cabrero romero,principal_consecrator,2008.0,gen3_scrape
+Bishop Alfredo Torres Romero,alfredo torres romero,Bishop Carlos Talavera Ramírez,carlos talavera ramirez,co_consecrator,1980.0,gen2_scrape
+Bishop Francisco Maria Aguilera González,francisco maria aguilera gonzalez,Bishop Carlos Talavera Ramírez,carlos talavera ramirez,co_consecrator,1980.0,gen2_scrape
+Bishop José Maclovio Vásquez Silos,jose maclovio vasquez silos,Archbishop Luis Robles Díaz,luis robles diaz,co_consecrator,1985.0,gen2_scrape
+Archbishop José Fernández Arteaga,jose fernandez arteaga,Archbishop Luis Robles Díaz,luis robles diaz,co_consecrator,1985.0,gen2_scrape
+Archbishop Luis Robles Díaz,luis robles diaz,Bishop Macram Max Gassis,macram max gassis,principal_consecrator,1988.0,gen3_scrape
+Archbishop Luis Robles Díaz,luis robles diaz,Bishop Deogratias Muganwa Byabazaire,deogratias muganwa byabazaire,principal_consecrator,1990.0,gen3_scrape
+Bishop Jorge Martínez Martínez,jorge martinez martinez,Bishop Abelardo Alvarado Alcántara,abelardo alvarado alcantara,co_consecrator,1985.0,gen2_scrape
+Bishop Francisco Maria Aguilera González,francisco maria aguilera gonzalez,Bishop Abelardo Alvarado Alcántara,abelardo alvarado alcantara,co_consecrator,1985.0,gen2_scrape
+Archbishop Luis Chávez y González,luis chavez y gonzalez,Archbishop St. Oscar Arnulfo Romero y Galdamez,st oscar arnulfo romero y galdamez,co_consecrator,1970.0,gen2_scrape
+Bishop Arturo Rivera Damas,arturo rivera damas,Archbishop St. Oscar Arnulfo Romero y Galdamez,st oscar arnulfo romero y galdamez,co_consecrator,1970.0,gen2_scrape
+Bishop Hugo Mark Gerbermann,hugo mark gerbermann,Archbishop Victor Hugo Martínez Contreras,victor hugo martinez contreras,co_consecrator,1970.0,gen2_scrape
+Bishop José Ramiro Pellecer Samayoa,jose ramiro pellecer samayoa,Archbishop Victor Hugo Martínez Contreras,victor hugo martinez contreras,co_consecrator,1970.0,gen2_scrape
+Archbishop Victor Hugo Martínez Contreras,victor hugo martinez contreras,Bishop Pablo Vizcaino Prado,pablo vizcaino prado,principal_consecrator,1997.0,gen3_scrape
+Bishop Rafael González Estrada,rafael gonzalez estrada,Mister José Julio Aguilar García,mister jose julio aguilar garcia,co_consecrator,1970.0,gen2_scrape
+Bishop Próspero Penados del Barrio,prospero penados del barrio,Mister José Julio Aguilar García,mister jose julio aguilar garcia,co_consecrator,1970.0,gen2_scrape
+Bishop Costantino Cristiano Luna Pianegonda,costantino cristiano luna pianegonda,Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,co_consecrator,1972.0,gen2_scrape
+Bishop José Ramiro Pellecer Samayoa,jose ramiro pellecer samayoa,Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,co_consecrator,1972.0,gen2_scrape
+Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,Bishop José Aníbal Casasola Sosa,jose anibal casasola sosa,principal_consecrator,2004.0,gen3_scrape
+Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,Bishop Gustavo Rodolfo Mendoza Hernández,gustavo rodolfo mendoza hernandez,principal_consecrator,2004.0,gen3_scrape
+Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,Archbishop Gonzalo de Villa y Vásquez,gonzalo de villa y vasquez,principal_consecrator,2004.0,gen3_scrape
+Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,Bishop Bernabé de Jesús Sagastume Lemus,bernabe de jesus sagastume lemus,principal_consecrator,2007.0,gen3_scrape
+Rodolfo Cardinal Quezada Toruño,rodolfo quezada toruno,Bishop Mario Fiandri,mario fiandri,principal_consecrator,2009.0,gen3_scrape
+Archbishop Luis Chávez y González,luis chavez y gonzalez,Bishop Marco René Revelo Contreras,marco rene revelo contreras,co_consecrator,1973.0,gen2_scrape
+Bishop Benjamin Barrera y Reyes,benjamin barrera y reyes,Bishop Marco René Revelo Contreras,marco rene revelo contreras,co_consecrator,1973.0,gen2_scrape
+Bishop William Richard Field,william richard field,Bishop Francis Folorunsho Clement Alonge,francis folorunsho clement alonge,co_consecrator,1973.0,gen2_scrape
+Bishop Patrick Ebosele Ekpu,patrick ebosele ekpu,Bishop Francis Folorunsho Clement Alonge,francis folorunsho clement alonge,co_consecrator,1973.0,gen2_scrape
+Bishop Francis Folorunsho Clement Alonge,francis folorunsho clement alonge,Bishop Jude Ayodeji Arogundade,jude ayodeji arogundade,principal_consecrator,2010.0,gen3_scrape
+Archbishop Francis Arinze,francis arinze,Bishop Michael Nnachi Okoro,michael nnachi okoro,co_consecrator,1977.0,gen2_scrape
+Bishop Thomas McGettrick,thomas mcgettrick,Bishop Michael Nnachi Okoro,michael nnachi okoro,co_consecrator,1977.0,gen2_scrape
+Archbishop Francis Arinze,francis arinze,Archbishop Albert Kanene Obiefuna,albert kanene obiefuna,co_consecrator,1977.0,gen2_scrape
+Bishop Mark Onwuha Unegbu,mark onwuha unegbu,Archbishop Albert Kanene Obiefuna,albert kanene obiefuna,co_consecrator,1977.0,gen2_scrape
+Archbishop Francis Arinze,francis arinze,Bishop Michael Ugwu Eneja,michael ugwu eneja,co_consecrator,1977.0,gen2_scrape
+Bishop Anthony Gogo Nwedo,anthony gogo nwedo,Bishop Michael Ugwu Eneja,michael ugwu eneja,co_consecrator,1977.0,gen2_scrape
+Archbishop José de Jesús Tirado Pedraza,jose de jesus tirado pedraza,Bishop Luis Reynoso Cervantes,luis reynoso cervantes,co_consecrator,,gen2_scrape
+Archbishop Bartolomé Carrasco Briseño,bartolome carrasco briseno,"Bishop José de Jesús Castillo Rentería , M.N.M.",jose de jesus castillo renteria m n m,co_consecrator,1979.0,gen2_scrape
+Bishop Hilario Chávez Joya,hilario chavez joya,"Bishop José de Jesús Castillo Rentería , M.N.M.",jose de jesus castillo renteria m n m,co_consecrator,1979.0,gen2_scrape
+Archbishop José de Jesús Tirado Pedraza,jose de jesus tirado pedraza,Bishop Juvencio González Alvarez,juvencio gonzalez alvarez,co_consecrator,1980.0,gen2_scrape
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Bishop Juvencio González Alvarez,juvencio gonzalez alvarez,co_consecrator,1980.0,gen2_scrape
+Bishop Serafín Vásquez Elizalde,serafin vasquez elizalde,Bishop José Lizares Estrada,jose lizares estrada,co_consecrator,1980.0,gen2_scrape
+Bishop Manuel Samaniego Barriga,manuel samaniego barriga,Bishop José Lizares Estrada,jose lizares estrada,co_consecrator,1980.0,gen2_scrape
+Bishop Luis Rojas Mena,luis rojas mena,Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,co_consecrator,1981.0,gen2_scrape
+Archbishop José Fernández Arteaga,jose fernandez arteaga,"Bishop Miguel Patiño Velázquez , M. S. F.",miguel patino velazquez m s f,co_consecrator,1981.0,gen2_scrape
+Bishop Victorino Alvarez Tena,victorino alvarez tena,"Bishop Miguel Patiño Velázquez , M. S. F.",miguel patino velazquez m s f,co_consecrator,1981.0,gen2_scrape
+Bishop Anselmo Zarza Bernal,anselmo zarza bernal,Bishop José de Jesús Aguilera Rodriguez,jose de jesus aguilera rodriguez,co_consecrator,1982.0,gen2_scrape
+Bishop José López Lara,jose lopez lara,Bishop José de Jesús Aguilera Rodriguez,jose de jesus aguilera rodriguez,co_consecrator,1982.0,gen2_scrape
+Archbishop Antonio López Aviña,antonio lopez avina,Bishop Manuel Mireles Vaquera,manuel mireles vaquera,co_consecrator,1982.0,gen2_scrape
+Bishop Luis Rojas Mena,luis rojas mena,Bishop Manuel Mireles Vaquera,manuel mireles vaquera,co_consecrator,1982.0,gen2_scrape
+Archbishop Rafael Bello Ruiz,rafael bello ruiz,Bishop José María Hernández González,jose maria hernandez gonzalez,co_consecrator,1983.0,gen2_scrape
+Bishop Victorino Alvarez Tena,victorino alvarez tena,Bishop José María Hernández González,jose maria hernandez gonzalez,co_consecrator,1983.0,gen2_scrape
+Bishop Luis Rojas Mena,luis rojas mena,Bishop Jesús Humberto Velázquez Garay,jesus humberto velazquez garay,co_consecrator,1983.0,gen2_scrape
+Bishop Alfonso Humberto Robles Cota,alfonso humberto robles cota,Bishop Jesús Humberto Velázquez Garay,jesus humberto velazquez garay,co_consecrator,1983.0,gen2_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Bishop José Rafael Palma Capetillo,jose rafael palma capetillo,principal_consecrator,2004.0,gen3_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Archbishop Fabio Martínez Castilla,fabio martinez castilla,principal_consecrator,2007.0,gen3_scrape
+Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,Archbishop Domingo Díaz Martínez,domingo diaz martinez,principal_consecrator,2002.0,gen3_scrape
+Archbishop Manuel Castro Ruiz,manuel castro ruiz,Bishop Luis Miguel Cantón Marín,luis miguel canton marin,co_consecrator,1984.0,gen2_scrape
+Archbishop Bartolomé Carrasco Briseño,bartolome carrasco briseno,Bishop Luis Miguel Cantón Marín,luis miguel canton marin,co_consecrator,1984.0,gen2_scrape
+Archbishop Manuel Pérez-Gil y González,manuel perez gil y gonzalez,Archbishop José Ulises Macías Salcedo,jose ulises macias salcedo,co_consecrator,1984.0,gen2_scrape
+Bishop Anselmo Zarza Bernal,anselmo zarza bernal,Archbishop José Ulises Macías Salcedo,jose ulises macias salcedo,co_consecrator,1984.0,gen2_scrape
+Archbishop José Ulises Macías Salcedo,jose ulises macias salcedo,Bishop Teodoro Enrique Pino Miranda,teodoro enrique pino miranda,principal_consecrator,2001.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Archbishop Leopoldo González González,leopoldo gonzalez gonzalez,principal_consecrator,1999.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Archbishop Francisco Moreno Barrón,francisco moreno barron,principal_consecrator,2002.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Salvador Rangel Mendoza,salvador rangel mendoza,principal_consecrator,2009.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Juan Espinoza Jiménez,juan espinoza jimenez,principal_consecrator,2011.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Víctor Alejandro Aguilar Ledesma,victor alejandro aguilar ledesma,principal_consecrator,2016.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Herculano Medina Garfias,herculano medina garfias,principal_consecrator,2016.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Salvador Cleofás Murguía Villalobos,salvador cleofas murguia villalobos,principal_consecrator,2018.0,gen3_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Joel Ocampo Gorostieta,joel ocampo gorostieta,principal_consecrator,2019.0,gen3_scrape
+Bishop Alfonso de Jesús Hinojosa Berrones,alfonso de jesus hinojosa berrones,"Bishop Raymundo López Mateos , O.F.M.",raymundo lopez mateos o f m,co_consecrator,1985.0,gen2_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Archbishop José Trinidad Medel Pérez,jose trinidad medel perez,co_consecrator,1986.0,gen2_scrape
+Archbishop Ricardo Guízar Díaz,ricardo guizar diaz,Archbishop José Trinidad Medel Pérez,jose trinidad medel perez,co_consecrator,1986.0,gen2_scrape
+Bishop Rafael Gallardo García,rafael gallardo garcia,Bishop Ramón Calderón Batres,ramon calderon batres,co_consecrator,1988.0,gen2_scrape
+Bishop Luis Reynoso Cervantes,luis reynoso cervantes,Bishop Vicente García Bernal,vicente garcia bernal,co_consecrator,1988.0,gen2_scrape
+Archbishop Javier Lozano Barragán,javier lozano barragan,Bishop Vicente García Bernal,vicente garcia bernal,co_consecrator,1988.0,gen2_scrape
+Archbishop Héctor González Martínez,hector gonzalez martinez,Bishop Carlos Suárez Cázares,carlos suarez cazares,co_consecrator,1988.0,gen2_scrape
+Archbishop Manuel Castro Ruiz,manuel castro ruiz,Bishop Carlos Suárez Cázares,carlos suarez cazares,co_consecrator,1988.0,gen2_scrape
+Bishop Renato Ascencio León,renato ascencio leon,Bishop Gerardo de Jesús Rojas López,gerardo de jesus rojas lopez,principal_consecrator,2004.0,gen3_scrape
+Bishop Luis Rojas Mena,luis rojas mena,Bishop Benjamín Jiménez Hernández,benjamin jimenez hernandez,co_consecrator,1989.0,gen2_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Bishop Benjamín Jiménez Hernández,benjamin jimenez hernandez,co_consecrator,1989.0,gen2_scrape
+Bishop Benjamín Jiménez Hernández,benjamin jimenez hernandez,Bishop Emigdio Duarte Figueroa,emigdio duarte figueroa,principal_consecrator,2007.0,gen3_scrape
+Bishop Mario de Gasperín Gasperín,mario de gasperin gasperin,Bishop Luis Gabriel Cuara Méndez,luis gabriel cuara mendez,co_consecrator,1989.0,gen2_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Luis Gabriel Cuara Méndez,luis gabriel cuara mendez,co_consecrator,1989.0,gen2_scrape
+Bishop Anselmo Zarza Bernal,anselmo zarza bernal,Bishop Braulio Rafael León Villegas,braulio rafael leon villegas,co_consecrator,1990.0,gen2_scrape
+Bishop Gilberto Valbuena Sánchez,gilberto valbuena sanchez,Bishop Braulio Rafael León Villegas,braulio rafael leon villegas,co_consecrator,1990.0,gen2_scrape
+Bishop Manuel Romero Arvizu,manuel romero arvizu,"Bishop José Antonio Pérez Sánchez , O.F.M.",jose antonio perez sanchez o f m,co_consecrator,1990.0,gen2_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Bishop Efrén Ramos Salazar,efren ramos salazar,co_consecrator,1990.0,gen2_scrape
+Bishop José María Hernández González,jose maria hernandez gonzalez,Bishop Efrén Ramos Salazar,efren ramos salazar,co_consecrator,1990.0,gen2_scrape
+Archbishop Manuel Castro Ruiz,manuel castro ruiz,Bishop Lázaro Pérez Jiménez,lazaro perez jimenez,co_consecrator,1991.0,gen2_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Archbishop Francisco Javier Chavolla Ramos,francisco javier chavolla ramos,co_consecrator,1991.0,gen2_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Bishop Felipe Padilla Cardona,felipe padilla cardona,co_consecrator,1992.0,gen2_scrape
+Bishop Anselmo Zarza Bernal,anselmo zarza bernal,Bishop Felipe Padilla Cardona,felipe padilla cardona,co_consecrator,1992.0,gen2_scrape
+Archbishop Rafael Bello Ruiz,rafael bello ruiz,Bishop Alejo Zavala Castro,alejo zavala castro,co_consecrator,1992.0,gen2_scrape
+Bishop Efrén Ramos Salazar,efren ramos salazar,Bishop Alejo Zavala Castro,alejo zavala castro,co_consecrator,1992.0,gen2_scrape
+Bishop José de Jesús Sahagún de la Parra,jose de jesus sahagun de la parra,Bishop Salvador Flores Huerta,salvador flores huerta,co_consecrator,1993.0,gen2_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Salvador Flores Huerta,salvador flores huerta,co_consecrator,1993.0,gen2_scrape
+Archbishop José Fernández Arteaga,jose fernandez arteaga,Bishop José Luis Dibildox Martínez,jose luis dibildox martinez,co_consecrator,1993.0,gen2_scrape
+Archbishop Arturo Antonio Szymanski Ramírez,arturo antonio szymanski ramirez,Bishop José Luis Dibildox Martínez,jose luis dibildox martinez,co_consecrator,1993.0,gen2_scrape
+Archbishop Alberto Suárez Inda,alberto suarez inda,Bishop Octavio Villegas Aguilar,octavio villegas aguilar,co_consecrator,1994.0,gen2_scrape
+Bishop José de Jesús Sahagún de la Parra,jose de jesus sahagun de la parra,Bishop Octavio Villegas Aguilar,octavio villegas aguilar,co_consecrator,1994.0,gen2_scrape
+Bishop Octavio Villegas Aguilar,octavio villegas aguilar,Archbishop José Antonio Fernández Hurtado,jose antonio fernandez hurtado,principal_consecrator,2005.0,gen3_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,Bishop Salvador Martínez Pérez,salvador martinez perez,co_consecrator,1994.0,gen2_scrape
+Archbishop Ricardo Guízar Díaz,ricardo guizar diaz,Bishop Salvador Martínez Pérez,salvador martinez perez,co_consecrator,1994.0,gen2_scrape
+Bishop Juvencio González Alvarez,juvencio gonzalez alvarez,Bishop José Guadalupe Galván Galindo,jose guadalupe galvan galindo,co_consecrator,1994.0,gen2_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Bishop José Luis Amezcua Melgoza,jose luis amezcua melgoza,co_consecrator,1995.0,gen2_scrape
+Bishop Carlos Suárez Cázares,carlos suarez cazares,Bishop José Luis Amezcua Melgoza,jose luis amezcua melgoza,co_consecrator,1995.0,gen2_scrape
+Archbishop Manuel Pérez-Gil y González,manuel perez gil y gonzalez,Bishop Onésimo Cepeda Silva,onesimo cepeda silva,co_consecrator,1995.0,gen2_scrape
+Bishop Luis Reynoso Cervantes,luis reynoso cervantes,Bishop Onésimo Cepeda Silva,onesimo cepeda silva,co_consecrator,1995.0,gen2_scrape
+Archbishop Emilio Carlos Berlie Belaunzarán,emilio carlos berlie belaunzaran,Bishop Antonio González Sánchez,antonio gonzalez sanchez,co_consecrator,1995.0,gen2_scrape
+Archbishop José Fernández Arteaga,jose fernandez arteaga,Bishop Juan Guillermo López Soto,juan guillermo lopez soto,co_consecrator,1995.0,gen2_scrape
+Bishop Renato Ascencio León,renato ascencio leon,Bishop Juan Guillermo López Soto,juan guillermo lopez soto,co_consecrator,1995.0,gen2_scrape
+Archbishop Rafael Romo Muñoz,rafael romo munoz,Bishop Sigifredo Noriega Barceló,sigifredo noriega barcelo,principal_consecrator,2007.0,gen3_scrape
+Archbishop Rafael Romo Muñoz,rafael romo munoz,Bishop Juan María Huerta Muro,juan maria huerta muro,principal_consecrator,2012.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop José Luis Mendoza Corzo,jose luis mendoza corzo,principal_consecrator,2007.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Juan Armando Pérez Talamantes,juan armando perez talamantes,principal_consecrator,2014.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Alfonso Gerardo Miranda Guardiola,alfonso gerardo miranda guardiola,principal_consecrator,2014.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Heriberto Cavazos Pérez,heriberto cavazos perez,principal_consecrator,2017.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Oscar Efraín Tamez Villarreal,oscar efrain tamez villarreal,principal_consecrator,2017.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Roberto Yenny García,roberto yenny garcia,principal_consecrator,2020.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop César Garza Miranda,cesar garza miranda,principal_consecrator,2020.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Juan Carlos Arcq Guzmán,juan carlos arcq guzman,principal_consecrator,2020.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop José Manuel Garza Madero,jose manuel garza madero,principal_consecrator,2020.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop César Alfonso Ortega Díaz,cesar alfonso ortega diaz,principal_consecrator,2022.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Carlos Alberto Santos García,carlos alberto santos garcia,principal_consecrator,2023.0,gen3_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop José Eugenio Ramos Delgado,jose eugenio ramos delgado,principal_consecrator,2026.0,gen3_scrape
+Archbishop Héctor González Martínez,hector gonzalez martinez,Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,co_consecrator,1995.0,gen2_scrape
+Archbishop Sergio Obeso Rivera,sergio obeso rivera,Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,co_consecrator,1995.0,gen2_scrape
+Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,Bishop Miguel Ángel Espinoza Garza,miguel angel espinoza garza,principal_consecrator,2023.0,gen3_scrape
+Archbishop Sergio Obeso Rivera,sergio obeso rivera,Bishop Eduardo Porfirio Patiño Leal,eduardo porfirio patino leal,co_consecrator,2000.0,gen2_scrape
+Archbishop Leonardo Sandri,leonardo sandri,Bishop Eduardo Porfirio Patiño Leal,eduardo porfirio patino leal,co_consecrator,2000.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,co_consecrator,2001.0,gen2_scrape
+Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,co_consecrator,2001.0,gen2_scrape
+Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,Bishop Pedro Sergio de Jesús Mena Díaz,pedro sergio de jesus mena diaz,principal_consecrator,2017.0,gen3_scrape
+Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,Bishop Mario Medina Balam,mario medina balam,principal_consecrator,2023.0,gen3_scrape
+Archbishop Gustavo Rodriguez Vega,gustavo rodriguez vega,Bishop Víctor Carabés Chávez,victor carabes chavez,principal_consecrator,2024.0,gen3_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,"Bishop Roberto Octavio Balmori Cinta , M.J.",roberto octavio balmori cinta m j,co_consecrator,2002.0,gen2_scrape
+Bishop Hermenegildo Ramírez Sánchez,hermenegildo ramirez sanchez,"Bishop Roberto Octavio Balmori Cinta , M.J.",roberto octavio balmori cinta m j,co_consecrator,2002.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Alonso Gerardo Garza Treviño,alonso gerardo garza trevino,co_consecrator,2003.0,gen2_scrape
+Bishop José Raúl Vera López,jose raul vera lopez,Bishop Alonso Gerardo Garza Treviño,alonso gerardo garza trevino,co_consecrator,2003.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Luis Artemio Flores Calzada,luis artemio flores calzada,co_consecrator,2003.0,gen2_scrape
+Archbishop Carlos Garfias Merlos,carlos garfias merlos,Bishop Luis Artemio Flores Calzada,luis artemio flores calzada,co_consecrator,2003.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Guillermo Francisco Escobar Galicia,guillermo francisco escobar galicia,co_consecrator,2008.0,gen2_scrape
+Óscar Andrés Cardinal Rodríguez Maradiaga,oscar andres rodriguez maradiaga,Bishop Guillermo Francisco Escobar Galicia,guillermo francisco escobar galicia,co_consecrator,2008.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Efraín Mendoza Cruz,efrain mendoza cruz,co_consecrator,2011.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Jorge Cuapio Bautista,jorge cuapio bautista,co_consecrator,2015.0,gen2_scrape
+Bishop Juan Manuel Mancilla Sánchez,juan manuel mancilla sanchez,Bishop Jorge Cuapio Bautista,jorge cuapio bautista,co_consecrator,2015.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Salvador González Morales,salvador gonzalez morales,co_consecrator,2019.0,gen2_scrape
+Bishop Andrés Vargas Peña,andres vargas pena,Bishop Salvador González Morales,salvador gonzalez morales,co_consecrator,2019.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Carlos Enrique Samaniego López,carlos enrique samaniego lopez,co_consecrator,2019.0,gen2_scrape
+Bishop Andrés Vargas Peña,andres vargas pena,Bishop Carlos Enrique Samaniego López,carlos enrique samaniego lopez,co_consecrator,2019.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,"Bishop Francisco Daniel Rivera Sánchez , M.Sp.S.",francisco daniel rivera sanchez m sp s,co_consecrator,2020.0,gen2_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,"Bishop Francisco Daniel Rivera Sánchez , M.Sp.S.",francisco daniel rivera sanchez m sp s,co_consecrator,2020.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Héctor Mario Pérez Villarreal,hector mario perez villarreal,co_consecrator,2020.0,gen2_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Héctor Mario Pérez Villarreal,hector mario perez villarreal,co_consecrator,2020.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Luis Manuel Pérez Raygoza,luis manuel perez raygoza,co_consecrator,2020.0,gen2_scrape
+Archbishop Rogelio Cabrera López,rogelio cabrera lopez,Bishop Luis Manuel Pérez Raygoza,luis manuel perez raygoza,co_consecrator,2020.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Andrés Luis García Jasso,andres luis garcia jasso,co_consecrator,2021.0,gen2_scrape
+Bishop Juan Manuel Mancilla Sánchez,juan manuel mancilla sanchez,Bishop Andrés Luis García Jasso,andres luis garcia jasso,co_consecrator,2021.0,gen2_scrape
+Bishop Carlos Briseño Arch,carlos briseno arch,"Bishop Francisco Javier Acero Pérez , O.A.R.",francisco javier acero perez o a r,co_consecrator,2022.0,gen2_scrape
+Archbishop Joseph Spiteri,joseph spiteri,"Bishop Francisco Javier Acero Pérez , O.A.R.",francisco javier acero perez o a r,co_consecrator,2022.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Juan Frausto Pallares,juan frausto pallares,principal_consecrator,2006.0,gen3_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Armando António Ortíz Aguirre,armando antonio ortiz aguirre,principal_consecrator,2014.0,gen3_scrape
+Bishop Mario Espinosa Contreras,mario espinosa contreras,Bishop José de Jesús Martínez Zepeda,jose de jesus martinez zepeda,co_consecrator,1997.0,gen2_scrape
+Bishop José de Jesús Martínez Zepeda,jose de jesus martinez zepeda,Bishop Francisco González Ramos,francisco gonzalez ramos,principal_consecrator,2014.0,gen3_scrape
+Archbishop Justo Mullor García,justo mullor garcia,"Bishop Felipe Tejeda García , M.Sp.S.",felipe tejeda garcia m sp s,co_consecrator,2000.0,gen2_scrape
+Bishop Ricardo Manuel Watty Urquidi,ricardo manuel watty urquidi,"Bishop Felipe Tejeda García , M.Sp.S.",felipe tejeda garcia m sp s,co_consecrator,2000.0,gen2_scrape
+Archbishop Justo Mullor García,justo mullor garcia,Bishop José Luis Fletes Santana,jose luis fletes santana,co_consecrator,2000.0,gen2_scrape
+Bishop Ricardo Manuel Watty Urquidi,ricardo manuel watty urquidi,Bishop José Luis Fletes Santana,jose luis fletes santana,co_consecrator,2000.0,gen2_scrape
+Archbishop Justo Mullor García,justo mullor garcia,Bishop Guillermo Rodrigo Teodoro Ortiz Mondragón,guillermo rodrigo teodoro ortiz mondragon,co_consecrator,2000.0,gen2_scrape
+Bishop Ricardo Manuel Watty Urquidi,ricardo manuel watty urquidi,Bishop Guillermo Rodrigo Teodoro Ortiz Mondragón,guillermo rodrigo teodoro ortiz mondragon,co_consecrator,2000.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Francisco Clavel Gil,francisco clavel gil,co_consecrator,2001.0,gen2_scrape
+Bishop Onésimo Cepeda Silva,onesimo cepeda silva,Bishop Francisco Clavel Gil,francisco clavel gil,co_consecrator,2001.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Rogelio Esquivel Medina,rogelio esquivel medina,co_consecrator,2001.0,gen2_scrape
+Bishop Onésimo Cepeda Silva,onesimo cepeda silva,Bishop Rogelio Esquivel Medina,rogelio esquivel medina,co_consecrator,2001.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Jonás Guerrero Corona,jonas guerrero corona,co_consecrator,2001.0,gen2_scrape
+Bishop Onésimo Cepeda Silva,onesimo cepeda silva,Bishop Jonás Guerrero Corona,jonas guerrero corona,co_consecrator,2001.0,gen2_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,"Bishop Antonio Ortega Franco , C.O.",antonio ortega franco c o,co_consecrator,2004.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,"Bishop Antonio Ortega Franco , C.O.",antonio ortega franco c o,co_consecrator,2004.0,gen2_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Dagoberto Sosa Arriaga,dagoberto sosa arriaga,principal_consecrator,2011.0,gen3_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Eugenio Andrés Lira Rugarcía,eugenio andres lira rugarcia,principal_consecrator,2011.0,gen3_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Tomás López Durán,tomas lopez duran,principal_consecrator,2014.0,gen3_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Rutilo Felipe Pozos Lorenzini,rutilo felipe pozos lorenzini,principal_consecrator,2014.0,gen3_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Miguel Ángel Castro Muñoz,miguel angel castro munoz,principal_consecrator,2021.0,gen3_scrape
+Archbishop José Víctor Manuel Valentín Sánchez Espinosa,jose victor manuel valentin sanchez espinosa,Bishop Francisco Javier Martínez Castillo,francisco javier martinez castillo,principal_consecrator,2024.0,gen3_scrape
+Bishop Francisco Clavel Gil,francisco clavel gil,"Bishop Carlos Briseño Arch , O.A.R.",carlos briseno arch o a r,co_consecrator,2006.0,gen2_scrape
+Bishop Angel San Casimiro Fernández,angel san casimiro fernandez,"Bishop Carlos Briseño Arch , O.A.R.",carlos briseno arch o a r,co_consecrator,2006.0,gen2_scrape
+Archbishop Rosendo Huesca Pacheco,rosendo huesca pacheco,"Archbishop Oscar Roberto Domínguez Couttolenc , M.G.",oscar roberto dominguez couttolenc m g,co_consecrator,2007.0,gen2_scrape
+Bishop Alejo Zavala Castro,alejo zavala castro,"Archbishop Oscar Roberto Domínguez Couttolenc , M.G.",oscar roberto dominguez couttolenc m g,co_consecrator,2007.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Florencio Armando Colín Cruz,florencio armando colin cruz,co_consecrator,2008.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Jesús Antonio Lerma Nolasco,jesus antonio lerma nolasco,co_consecrator,2009.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Andrés Vargas Peña,andres vargas pena,co_consecrator,2010.0,gen2_scrape
+Archbishop Luis Morales Reyes,luis morales reyes,Bishop Andrés Vargas Peña,andres vargas pena,co_consecrator,2010.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Adolfo Miguel Castaño Fonseca,adolfo miguel castano fonseca,co_consecrator,2010.0,gen2_scrape
+Archbishop Luis Morales Reyes,luis morales reyes,Bishop Adolfo Miguel Castaño Fonseca,adolfo miguel castano fonseca,co_consecrator,2010.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Crispin Ojeda Márquez,crispin ojeda marquez,co_consecrator,2011.0,gen2_scrape
+Bishop José Luis Amezcua Melgoza,jose luis amezcua melgoza,Bishop Crispin Ojeda Márquez,crispin ojeda marquez,co_consecrator,2011.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Jorge Estrada Solórzano,jorge estrada solorzano,co_consecrator,2013.0,gen2_scrape
+Bishop Francisco Clavel Gil,francisco clavel gil,Bishop Jorge Estrada Solórzano,jorge estrada solorzano,co_consecrator,2013.0,gen2_scrape
+Bishop Marcelino Hernández Rodríguez,marcelino hernandez rodriguez,Bishop Jorge Estrada Solórzano,jorge estrada solorzano,co_consecrator,2013.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Jorge Estrada Solórzano,jorge estrada solorzano,co_consecrator,2013.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop José Miguel Ángel Giles Vázquez,jose miguel angel giles vazquez,co_consecrator,2004.0,gen2_scrape
+Archbishop Felipe Aguirre Franco,felipe aguirre franco,Bishop José Miguel Ángel Giles Vázquez,jose miguel angel giles vazquez,co_consecrator,2004.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Archbishop Alfonso Cortés Contreras,alfonso cortes contreras,co_consecrator,2005.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Archbishop Alfonso Cortés Contreras,alfonso cortes contreras,co_consecrator,2005.0,gen2_scrape
+Archbishop Héctor González Martínez,hector gonzalez martinez,Archbishop Ruy Rendón Leal,ruy rendon leal,co_consecrator,2005.0,gen2_scrape
+Bishop Manuel Mireles Vaquera,manuel mireles vaquera,Archbishop Ruy Rendón Leal,ruy rendon leal,co_consecrator,2005.0,gen2_scrape
+Archbishop Ruy Rendón Leal,ruy rendon leal,Bishop José Luis Cerra Luna,jose luis cerra luna,principal_consecrator,2025.0,gen3_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Archbishop Jorge Alberto Cavazos Arizpe,jorge alberto cavazos arizpe,co_consecrator,2009.0,gen2_scrape
+Bishop Miguel Angel Alba Díaz,miguel angel alba diaz,Archbishop Jorge Alberto Cavazos Arizpe,jorge alberto cavazos arizpe,co_consecrator,2009.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Juan Odilón Martínez García,juan odilon martinez garcia,co_consecrator,2010.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,"Bishop Juan Manuel Muñoz Curiel , O.F.M.",juan manuel munoz curiel o f m,co_consecrator,2018.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Héctor López Alvarado,hector lopez alvarado,co_consecrator,2018.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Engelberto Polino Sánchez,engelberto polino sanchez,co_consecrator,2018.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Manuel González Villaseñor,manuel gonzalez villasenor,co_consecrator,2020.0,gen2_scrape
+Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,Bishop Manuel González Villaseñor,manuel gonzalez villasenor,co_consecrator,2020.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Eduardo Muñoz Ochoa,eduardo munoz ochoa,co_consecrator,2020.0,gen2_scrape
+Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,Bishop Eduardo Muñoz Ochoa,eduardo munoz ochoa,co_consecrator,2020.0,gen2_scrape
+Archbishop Franco Coppola,franco coppola,Bishop Ramón Salazar Estrada,ramon salazar estrada,co_consecrator,2021.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Ramón Salazar Estrada,ramon salazar estrada,co_consecrator,2021.0,gen2_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Bishop Héctor Luis Morales Sánchez,hector luis morales sanchez,principal_consecrator,2006.0,gen3_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Bishop Óscar Armando Campos Contreras,oscar armando campos contreras,principal_consecrator,2006.0,gen3_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Bishop Héctor Guerrero Córdova,hector guerrero cordova,principal_consecrator,2007.0,gen3_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Bishop Gonzalo Alonso Calzada Guerrero,gonzalo alonso calzada guerrero,principal_consecrator,2013.0,gen3_scrape
+Bishop Adolfo Hernández Hurtado,adolfo hernandez hurtado,Bishop José Trinidad González Rodríguez,jose trinidad gonzalez rodriguez,co_consecrator,1997.0,gen2_scrape
+Bishop Manuel Romero Arvizu,manuel romero arvizu,"Bishop Alberto Campos Hernández , O.F.M.",alberto campos hernandez o f m,co_consecrator,1998.0,gen2_scrape
+Bishop Lorenzo Rodolfo (Laurent-Rodolphe) Guibord Lévesque,lorenzo rodolfo laurent rodolphe guibord levesque,"Bishop Alberto Campos Hernández , O.F.M.",alberto campos hernandez o f m,co_consecrator,1998.0,gen2_scrape
+Archbishop Justo Mullor García,justo mullor garcia,Bishop José Benjamín Castillo Plascencia,jose benjamin castillo plascencia,co_consecrator,1999.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop José Benjamín Castillo Plascencia,jose benjamin castillo plascencia,co_consecrator,1999.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Miguel Romano Gómez,miguel romano gomez,co_consecrator,2000.0,gen2_scrape
+Bishop Jacinto Guerrero Torres,jacinto guerrero torres,Bishop Miguel Romano Gómez,miguel romano gomez,co_consecrator,2000.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Miguel Romano Gómez,miguel romano gomez,co_consecrator,2000.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop Rafael Francisco Martínez Sáinz,rafael francisco martinez sainz,co_consecrator,2002.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Rafael Francisco Martínez Sáinz,rafael francisco martinez sainz,co_consecrator,2002.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop José María de la Torre Martín,jose maria de la torre martin,co_consecrator,2002.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop José María de la Torre Martín,jose maria de la torre martin,co_consecrator,2002.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop José Refugio Mercado Díaz,jose refugio mercado diaz,co_consecrator,2003.0,gen2_scrape
+Bishop Felipe Padilla Cardona,felipe padilla cardona,Bishop José Refugio Mercado Díaz,jose refugio mercado diaz,co_consecrator,2003.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop Gonzalo Galván Castillo,gonzalo galvan castillo,co_consecrator,2004.0,gen2_scrape
+Bishop Lázaro Pérez Jiménez,lazaro perez jimenez,Bishop Gonzalo Galván Castillo,gonzalo galvan castillo,co_consecrator,2004.0,gen2_scrape
+Archbishop Giuseppe Bertello,giuseppe bertello,Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,co_consecrator,2005.0,gen2_scrape
+Archbishop José Guadalupe Martín Rábago,jose guadalupe martin rabago,Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,co_consecrator,2005.0,gen2_scrape
+Bishop José Leopoldo González González,jose leopoldo gonzalez gonzalez,Bishop Trinidad Antonio Márquez Guerrero,trinidad antonio marquez guerrero,principal_consecrator,2026.0,gen3_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Bishop Juan Humberto Gutiérrez Valencia,juan humberto gutierrez valencia,co_consecrator,2008.0,gen2_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Bishop Juan Humberto Gutiérrez Valencia,juan humberto gutierrez valencia,co_consecrator,2008.0,gen2_scrape
+Bishop Miguel Romano Gómez,miguel romano gomez,Bishop Juan Humberto Gutiérrez Valencia,juan humberto gutierrez valencia,co_consecrator,2008.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,Archbishop José Francisco González González,jose francisco gonzalez gonzalez,co_consecrator,2008.0,gen2_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Archbishop José Francisco González González,jose francisco gonzalez gonzalez,co_consecrator,2008.0,gen2_scrape
+Bishop Miguel Romano Gómez,miguel romano gomez,Archbishop José Francisco González González,jose francisco gonzalez gonzalez,co_consecrator,2008.0,gen2_scrape
+Bishop Javier Navarro Rodríguez,javier navarro rodriguez,Bishop Felipe Salazar Villagrana,felipe salazar villagrana,co_consecrator,2008.0,gen2_scrape
+Bishop José María de la Torre Martín,jose maria de la torre martin,Bishop Felipe Salazar Villagrana,felipe salazar villagrana,co_consecrator,2008.0,gen2_scrape
+Archbishop Christophe Louis Yves Georges Pierre,christophe louis yves georges pierre,"Bishop José de Jesús González Hernández , O.F.M.",jose de jesus gonzalez hernandez o f m,co_consecrator,2010.0,gen2_scrape
+Bishop José Antonio Pérez Sánchez,jose antonio perez sanchez,"Bishop José de Jesús González Hernández , O.F.M.",jose de jesus gonzalez hernandez o f m,co_consecrator,2010.0,gen2_scrape
+Archbishop José Luis Chávez Botello,jose luis chavez botello,Archbishop Pedro Vázquez Villalobos,pedro vazquez villalobos,co_consecrator,2012.0,gen2_scrape
+Bishop Felipe Salazar Villagrana,felipe salazar villagrana,Archbishop Pedro Vázquez Villalobos,pedro vazquez villalobos,co_consecrator,2012.0,gen2_scrape
+Archbishop Pedro Vázquez Villalobos,pedro vazquez villalobos,Bishop Luis Alfonso Tut Tun,luis alfonso tut tun,principal_consecrator,2024.0,gen3_scrape

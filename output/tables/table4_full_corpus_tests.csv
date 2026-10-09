@@ -1,0 +1,6 @@
+﻿hypothesis,test,effect,p_value
+H4 Regional variation predicts ideology,ANOVA (5 regions),F = 13.3,<0.0001
+H4 Diocese size predicts ideology,Pearson r (39 dioceses),r = 0.07,0.655
+H5 Institutional vs. individual voice,t-test (N = 2105),d = -0.31,<0.0001
+H5 (Church only sources),t-test (N = 882),d = 0.14,0.051
+Validity: topic ideology vs. Wordfish,Pearson r (37 actors),r = -0.34,0.042

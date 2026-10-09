@@ -1,0 +1,722 @@
+[
+ {
+  "topic": 2,
+  "rank": 1,
+  "term": "m\u00e9xico",
+  "weight": 0.020411
+ },
+ {
+  "topic": 2,
+  "rank": 2,
+  "term": "papa",
+  "weight": 0.018267
+ },
+ {
+  "topic": 2,
+  "rank": 3,
+  "term": "arzobispo",
+  "weight": 0.013598
+ },
+ {
+  "topic": 2,
+  "rank": 4,
+  "term": "di\u00f3cesis",
+  "weight": 0.012997
+ },
+ {
+  "topic": 2,
+  "rank": 5,
+  "term": "iglesia",
+  "weight": 0.012121
+ },
+ {
+  "topic": 2,
+  "rank": 6,
+  "term": "arquidi\u00f3cesis",
+  "weight": 0.010407
+ },
+ {
+  "topic": 2,
+  "rank": 7,
+  "term": "francisco",
+  "weight": 0.01019
+ },
+ {
+  "topic": 2,
+  "rank": 8,
+  "term": "cardenal",
+  "weight": 0.008204
+ },
+ {
+  "topic": 2,
+  "rank": 9,
+  "term": "obispos",
+  "weight": 0.007033
+ },
+ {
+  "topic": 2,
+  "rank": 10,
+  "term": "le\u00f3n",
+  "weight": 0.006853
+ },
+ {
+  "topic": 2,
+  "rank": 11,
+  "term": "pastoral",
+  "weight": 0.006237
+ },
+ {
+  "topic": 2,
+  "rank": 12,
+  "term": "episcopal",
+  "weight": 0.00557
+ },
+ {
+  "topic": 2,
+  "rank": 13,
+  "term": "seminario",
+  "weight": 0.005503
+ },
+ {
+  "topic": 2,
+  "rank": 14,
+  "term": "mexicano",
+  "weight": 0.00546
+ },
+ {
+  "topic": 2,
+  "rank": 15,
+  "term": "aguiar_retes",
+  "weight": 0.005045
+ },
+ {
+  "topic": 2,
+  "rank": 16,
+  "term": "cat\u00f3lica",
+  "weight": 0.004917
+ },
+ {
+  "topic": 2,
+  "rank": 17,
+  "term": "ciudad",
+  "weight": 0.004877
+ },
+ {
+  "topic": 2,
+  "rank": 18,
+  "term": "san",
+  "weight": 0.004706
+ },
+ {
+  "topic": 2,
+  "rank": 19,
+  "term": "episcopado",
+  "weight": 0.004427
+ },
+ {
+  "topic": 2,
+  "rank": 20,
+  "term": "auxiliar",
+  "weight": 0.004313
+ },
+ {
+  "topic": 3,
+  "rank": 1,
+  "term": "m\u00e9xico",
+  "weight": 0.015289
+ },
+ {
+  "topic": 3,
+  "rank": 2,
+  "term": "paz",
+  "weight": 0.013566
+ },
+ {
+  "topic": 3,
+  "rank": 3,
+  "term": "violencia",
+  "weight": 0.011877
+ },
+ {
+  "topic": 3,
+  "rank": 4,
+  "term": "iglesia",
+  "weight": 0.011544
+ },
+ {
+  "topic": 3,
+  "rank": 5,
+  "term": "pa\u00eds",
+  "weight": 0.008389
+ },
+ {
+  "topic": 3,
+  "rank": 6,
+  "term": "obispos",
+  "weight": 0.005871
+ },
+ {
+  "topic": 3,
+  "rank": 7,
+  "term": "familias",
+  "weight": 0.004857
+ },
+ {
+  "topic": 3,
+  "rank": 8,
+  "term": "personas",
+  "weight": 0.004793
+ },
+ {
+  "topic": 3,
+  "rank": 9,
+  "term": "social",
+  "weight": 0.004359
+ },
+ {
+  "topic": 3,
+  "rank": 10,
+  "term": "sociedad",
+  "weight": 0.004283
+ },
+ {
+  "topic": 3,
+  "rank": 11,
+  "term": "cat\u00f3lica",
+  "weight": 0.004124
+ },
+ {
+  "topic": 3,
+  "rank": 12,
+  "term": "di\u00e1logo",
+  "weight": 0.003845
+ },
+ {
+  "topic": 3,
+  "rank": 13,
+  "term": "llamado",
+  "weight": 0.003747
+ },
+ {
+  "topic": 3,
+  "rank": 14,
+  "term": "vida",
+  "weight": 0.003584
+ },
+ {
+  "topic": 3,
+  "rank": 15,
+  "term": "mexicano",
+  "weight": 0.003582
+ },
+ {
+  "topic": 3,
+  "rank": 16,
+  "term": "justicia",
+  "weight": 0.003537
+ },
+ {
+  "topic": 3,
+  "rank": 17,
+  "term": "gobierno",
+  "weight": 0.003516
+ },
+ {
+  "topic": 3,
+  "rank": 18,
+  "term": "comunidades",
+  "weight": 0.003383
+ },
+ {
+  "topic": 3,
+  "rank": 19,
+  "term": "nacional",
+  "weight": 0.003307
+ },
+ {
+  "topic": 3,
+  "rank": 20,
+  "term": "cem",
+  "weight": 0.003279
+ },
+ {
+  "topic": 4,
+  "rank": 1,
+  "term": "m\u00e9xico",
+  "weight": 0.007396
+ },
+ {
+  "topic": 4,
+  "rank": 2,
+  "term": "presidente",
+  "weight": 0.005532
+ },
+ {
+  "topic": 4,
+  "rank": 3,
+  "term": "gobierno",
+  "weight": 0.005208
+ },
+ {
+  "topic": 4,
+  "rank": 4,
+  "term": "fox",
+  "weight": 0.003856
+ },
+ {
+  "topic": 4,
+  "rank": 5,
+  "term": "pri",
+  "weight": 0.003542
+ },
+ {
+  "topic": 4,
+  "rank": 6,
+  "term": "iglesia",
+  "weight": 0.002983
+ },
+ {
+  "topic": 4,
+  "rank": 7,
+  "term": "federal",
+  "weight": 0.002813
+ },
+ {
+  "topic": 4,
+  "rank": 8,
+  "term": "carlos",
+  "weight": 0.00281
+ },
+ {
+  "topic": 4,
+  "rank": 9,
+  "term": "nacional",
+  "weight": 0.002746
+ },
+ {
+  "topic": 4,
+  "rank": 10,
+  "term": "candidato",
+  "weight": 0.002604
+ },
+ {
+  "topic": 4,
+  "rank": 11,
+  "term": "pol\u00edtica",
+  "weight": 0.002578
+ },
+ {
+  "topic": 4,
+  "rank": 12,
+  "term": "sergio",
+  "weight": 0.002562
+ },
+ {
+  "topic": 4,
+  "rank": 13,
+  "term": "pa\u00eds",
+  "weight": 0.002485
+ },
+ {
+  "topic": 4,
+  "rank": 14,
+  "term": "unidos",
+  "weight": 0.002449
+ },
+ {
+  "topic": 4,
+  "rank": 15,
+  "term": "prd",
+  "weight": 0.002448
+ },
+ {
+  "topic": 4,
+  "rank": 16,
+  "term": "ciudad",
+  "weight": 0.002399
+ },
+ {
+  "topic": 4,
+  "rank": 17,
+  "term": "l\u00f3pez",
+  "weight": 0.002184
+ },
+ {
+  "topic": 4,
+  "rank": 18,
+  "term": "pan",
+  "weight": 0.002171
+ },
+ {
+  "topic": 4,
+  "rank": 19,
+  "term": "pol\u00edtico",
+  "weight": 0.002126
+ },
+ {
+  "topic": 4,
+  "rank": 20,
+  "term": "san",
+  "weight": 0.001959
+ },
+ {
+  "topic": 5,
+  "rank": 1,
+  "term": "dios",
+  "weight": 0.015012
+ },
+ {
+  "topic": 5,
+  "rank": 2,
+  "term": "pastoral",
+  "weight": 0.009501
+ },
+ {
+  "topic": 5,
+  "rank": 3,
+  "term": "iglesia",
+  "weight": 0.008897
+ },
+ {
+  "topic": 5,
+  "rank": 4,
+  "term": "vida",
+  "weight": 0.008823
+ },
+ {
+  "topic": 5,
+  "rank": 5,
+  "term": "cristo",
+  "weight": 0.008414
+ },
+ {
+  "topic": 5,
+  "rank": 6,
+  "term": "di\u00f3cesis",
+  "weight": 0.006611
+ },
+ {
+  "topic": 5,
+  "rank": 7,
+  "term": "jes\u00fas",
+  "weight": 0.006386
+ },
+ {
+  "topic": 5,
+  "rank": 8,
+  "term": "san",
+  "weight": 0.006137
+ },
+ {
+  "topic": 5,
+  "rank": 9,
+  "term": "amor",
+  "weight": 0.005131
+ },
+ {
+  "topic": 5,
+  "rank": 10,
+  "term": "juan",
+  "weight": 0.005039
+ },
+ {
+  "topic": 5,
+  "rank": 11,
+  "term": "mar\u00eda",
+  "weight": 0.004495
+ },
+ {
+  "topic": 5,
+  "rank": 12,
+  "term": "sacerdotes",
+  "weight": 0.004391
+ },
+ {
+  "topic": 5,
+  "rank": 13,
+  "term": "santo",
+  "weight": 0.004184
+ },
+ {
+  "topic": 5,
+  "rank": 14,
+  "term": "m\u00e9xico",
+  "weight": 0.003694
+ },
+ {
+  "topic": 5,
+  "rank": 15,
+  "term": "comunidad",
+  "weight": 0.003284
+ },
+ {
+  "topic": 5,
+  "rank": 16,
+  "term": "esp\u00edritu",
+  "weight": 0.003265
+ },
+ {
+  "topic": 5,
+  "rank": 17,
+  "term": "parroquia",
+  "weight": 0.00285
+ },
+ {
+  "topic": 5,
+  "rank": 18,
+  "term": "coraz\u00f3n",
+  "weight": 0.002757
+ },
+ {
+  "topic": 5,
+  "rank": 19,
+  "term": "pueblo",
+  "weight": 0.00275
+ },
+ {
+  "topic": 5,
+  "rank": 20,
+  "term": "paz",
+  "weight": 0.002745
+ },
+ {
+  "topic": 8,
+  "rank": 1,
+  "term": "dios",
+  "weight": 0.017372
+ },
+ {
+  "topic": 8,
+  "rank": 2,
+  "term": "vida",
+  "weight": 0.017022
+ },
+ {
+  "topic": 8,
+  "rank": 3,
+  "term": "jes\u00fas",
+  "weight": 0.015917
+ },
+ {
+  "topic": 8,
+  "rank": 4,
+  "term": "hombre",
+  "weight": 0.006031
+ },
+ {
+  "topic": 8,
+  "rank": 5,
+  "term": "tiempo",
+  "weight": 0.005575
+ },
+ {
+  "topic": 8,
+  "rank": 6,
+  "term": "evangelio",
+  "weight": 0.005468
+ },
+ {
+  "topic": 8,
+  "rank": 7,
+  "term": "cristo",
+  "weight": 0.004906
+ },
+ {
+  "topic": 8,
+  "rank": 8,
+  "term": "amor",
+  "weight": 0.004827
+ },
+ {
+  "topic": 8,
+  "rank": 9,
+  "term": "mundo",
+  "weight": 0.004798
+ },
+ {
+  "topic": 8,
+  "rank": 10,
+  "term": "persona",
+  "weight": 0.003567
+ },
+ {
+  "topic": 8,
+  "rank": 11,
+  "term": "personas",
+  "weight": 0.00352
+ },
+ {
+  "topic": 8,
+  "rank": 12,
+  "term": "muerte",
+  "weight": 0.003433
+ },
+ {
+  "topic": 8,
+  "rank": 13,
+  "term": "familia",
+  "weight": 0.003379
+ },
+ {
+  "topic": 8,
+  "rank": 14,
+  "term": "disc\u00edpulos",
+  "weight": 0.003312
+ },
+ {
+  "topic": 8,
+  "rank": 15,
+  "term": "vivir",
+  "weight": 0.003247
+ },
+ {
+  "topic": 8,
+  "rank": 16,
+  "term": "coraz\u00f3n",
+  "weight": 0.003145
+ },
+ {
+  "topic": 8,
+  "rank": 17,
+  "term": "sentido",
+  "weight": 0.002979
+ },
+ {
+  "topic": 8,
+  "rank": 18,
+  "term": "luz",
+  "weight": 0.002928
+ },
+ {
+  "topic": 8,
+  "rank": 19,
+  "term": "reino",
+  "weight": 0.002787
+ },
+ {
+  "topic": 8,
+  "rank": 20,
+  "term": "iglesia",
+  "weight": 0.002777
+ },
+ {
+  "topic": 9,
+  "rank": 1,
+  "term": "iglesia",
+  "weight": 0.006065
+ },
+ {
+  "topic": 9,
+  "rank": 2,
+  "term": "m\u00e9xico",
+  "weight": 0.005688
+ },
+ {
+  "topic": 9,
+  "rank": 3,
+  "term": "pol\u00edtica",
+  "weight": 0.005031
+ },
+ {
+  "topic": 9,
+  "rank": 4,
+  "term": "gobierno",
+  "weight": 0.004988
+ },
+ {
+  "topic": 9,
+  "rank": 5,
+  "term": "pa\u00eds",
+  "weight": 0.004965
+ },
+ {
+  "topic": 9,
+  "rank": 6,
+  "term": "educaci\u00f3n",
+  "weight": 0.004774
+ },
+ {
+  "topic": 9,
+  "rank": 7,
+  "term": "reforma",
+  "weight": 0.004454
+ },
+ {
+  "topic": 9,
+  "rank": 8,
+  "term": "ley",
+  "weight": 0.004393
+ },
+ {
+  "topic": 9,
+  "rank": 9,
+  "term": "cat\u00f3lica",
+  "weight": 0.004341
+ },
+ {
+  "topic": 9,
+  "rank": 10,
+  "term": "nacional",
+  "weight": 0.004098
+ },
+ {
+  "topic": 9,
+  "rank": 11,
+  "term": "derechos",
+  "weight": 0.003915
+ },
+ {
+  "topic": 9,
+  "rank": 12,
+  "term": "congreso",
+  "weight": 0.003763
+ },
+ {
+  "topic": 9,
+  "rank": 13,
+  "term": "presidente",
+  "weight": 0.003552
+ },
+ {
+  "topic": 9,
+  "rank": 14,
+  "term": "derecho",
+  "weight": 0.003484
+ },
+ {
+  "topic": 9,
+  "rank": 15,
+  "term": "san",
+  "weight": 0.003251
+ },
+ {
+  "topic": 9,
+  "rank": 16,
+  "term": "religiosas",
+  "weight": 0.00294
+ },
+ {
+  "topic": 9,
+  "rank": 17,
+  "term": "proceso",
+  "weight": 0.002891
+ },
+ {
+  "topic": 9,
+  "rank": 18,
+  "term": "comisi\u00f3n",
+  "weight": 0.002749
+ },
+ {
+  "topic": 9,
+  "rank": 19,
+  "term": "pol\u00edtico",
+  "weight": 0.002722
+ },
+ {
+  "topic": 9,
+  "rank": 20,
+  "term": "religiosa",
+  "weight": 0.002623
+ }
+]

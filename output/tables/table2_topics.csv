@@ -1,0 +1,10 @@
+﻿topic,n_documents,mean_prob,percent,top_terms
+1,232,0.556,10.0,"vida, social, sociedad, familia, violencia, desarrollo, iglesia, paz"
+2,217,0.56,9.3,"papa, arzobispo, méxico, francisco, diócesis, cardenal, obispos, iglesia"
+3,105,0.541,4.5,"paz, méxico, violencia, obispos, país, esperanza, familias, cem"
+4,223,0.569,9.6,"presidente, gobierno, política, méxico, pri, nacional, partido, país"
+5,352,0.537,15.1,"pastoral, diócesis, iglesia, dios, san, sacerdotes, vida, santo"
+6,288,0.694,12.4,"diócesis, méxico, seminario, arquidiócesis, episcopal, pastoral, auxiliar, universidad"
+7,273,0.582,11.7,"iglesia, méxico, católica, país, arquidiócesis, personas, papa, violencia"
+8,496,0.746,21.3,"dios, jesús, vida, cristo, amor, tiempo, evangelio, mundo"
+9,144,0.586,6.2,"chiapas, indígenas, gobierno, san, paz, derechos, cristóbal, samuel_ruiz"

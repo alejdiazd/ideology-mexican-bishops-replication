@@ -1,0 +1,83 @@
+[
+ {
+  "topic": 1,
+  "n_documents": 62,
+  "mean_prob": 0.538,
+  "first_year": 1979.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.0266,
+  "top_terms": "m\u00e9xico, sergio, carlos, presidente, pol\u00edtica, historia, unidos, pa\u00eds, gobierno, nacional"
+ },
+ {
+  "topic": 2,
+  "n_documents": 10,
+  "mean_prob": 0.6091,
+  "first_year": 2011.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.0043,
+  "top_terms": "puebla, catedral, s\u00e1nchez, espinosa, iglesia, arzobispo, arte, v\u00edctor, palabra, beato"
+ },
+ {
+  "topic": 3,
+  "n_documents": 348,
+  "mean_prob": 0.56,
+  "first_year": 1978.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.1494,
+  "top_terms": "paz, violencia, m\u00e9xico, pa\u00eds, obispos, iglesia, sociedad, familias, social, personas"
+ },
+ {
+  "topic": 4,
+  "n_documents": 147,
+  "mean_prob": 0.5233,
+  "first_year": 1980.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.0631,
+  "top_terms": "gobierno, pri, m\u00e9xico, presidente, pol\u00edtica, partido, iglesia, educaci\u00f3n, nacional, reforma"
+ },
+ {
+  "topic": 5,
+  "n_documents": 237,
+  "mean_prob": 0.4613,
+  "first_year": 2001.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.1017,
+  "top_terms": "pastoral, vida, dios, iglesia, di\u00f3cesis, san, m\u00e9xico, comunidad, familia, parroquia"
+ },
+ {
+  "topic": 6,
+  "n_documents": 582,
+  "mean_prob": 0.7507,
+  "first_year": 1977.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.2498,
+  "top_terms": "di\u00f3cesis, m\u00e9xico, papa, arzobispo, francisco, obispos, seminario, arquidi\u00f3cesis, episcopal, pastoral"
+ },
+ {
+  "topic": 7,
+  "n_documents": 198,
+  "mean_prob": 0.6351,
+  "first_year": 1977.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.085,
+  "top_terms": "m\u00e9xico, iglesia, papa, cat\u00f3lica, arzobispo, arquidi\u00f3cesis, cardenal, pa\u00eds, paz, santa"
+ },
+ {
+  "topic": 8,
+  "n_documents": 683,
+  "mean_prob": 0.7093,
+  "first_year": 1977.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.2931,
+  "top_terms": "dios, jes\u00fas, vida, cristo, amor, iglesia, tiempo, evangelio, hombre, mundo"
+ },
+ {
+  "topic": 9,
+  "n_documents": 63,
+  "mean_prob": 0.5204,
+  "first_year": 1976.0,
+  "last_year": 2026.0,
+  "share_of_corpus": 0.027,
+  "top_terms": "gobierno, presidente, san, m\u00e9xico, federal, unidos, personas, fox, jorge, investigaci\u00f3n"
+ }
+]

@@ -1,0 +1,5654 @@
+[
+ {
+  "from_name": "Bishop Manuel Jer\u00f3nimo Yerena y Camarena",
+  "from_key": "manuel jeronimo yerena y camarena",
+  "to_name": "Bishop Arturo Lona Reyes",
+  "to_key": "arturo lona reyes",
+  "role": "principal_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Seraf\u00edn V\u00e1squez Elizalde",
+  "from_key": "serafin vasquez elizalde",
+  "to_name": "Bishop Arturo Lona Reyes",
+  "to_key": "arturo lona reyes",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Bartolom\u00e9 Carrasco Brise\u00f1o",
+  "from_key": "bartolome carrasco briseno",
+  "to_name": "Bishop Arturo Lona Reyes",
+  "to_key": "arturo lona reyes",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Felipe Cardinal Arizmendi Esquivel",
+  "to_key": "felipe arizmendi esquivel",
+  "role": "principal_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Felipe Cardinal Arizmendi Esquivel",
+  "to_key": "felipe arizmendi esquivel",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Bartolom\u00e9 Carrasco Brise\u00f1o",
+  "from_key": "bartolome carrasco briseno",
+  "to_name": "Felipe Cardinal Arizmendi Esquivel",
+  "to_key": "felipe arizmendi esquivel",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luis Mar\u00eda Mart\u00ednez y Rodr\u00edguez",
+  "from_key": "luis maria martinez y rodriguez",
+  "to_name": "Bishop Sergio M\u00e9ndez Arceo",
+  "to_key": "sergio mendez arceo",
+  "role": "principal_consecrator",
+  "consec_year": null,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "from_key": "miguel dario miranda y gomez",
+  "to_name": "Bishop Sergio M\u00e9ndez Arceo",
+  "to_key": "sergio mendez arceo",
+  "role": "co_consecrator",
+  "consec_year": null,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Gabriel Anaya y Diez de Bonilla",
+  "from_key": "jose gabriel anaya y diez de bonilla",
+  "to_name": "Bishop Sergio M\u00e9ndez Arceo",
+  "to_key": "sergio mendez arceo",
+  "role": "co_consecrator",
+  "consec_year": null,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Mario Pio Gaspari",
+  "from_key": "mario pio gaspari",
+  "to_name": "Archbishop Felipe Aguirre Franco",
+  "to_key": "felipe aguirre franco",
+  "role": "principal_consecrator",
+  "consec_year": 1974.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Francisco Javier Nu\u00f1o y Guerrero",
+  "from_key": "francisco javier nuno y guerrero",
+  "to_name": "Archbishop Felipe Aguirre Franco",
+  "to_key": "felipe aguirre franco",
+  "role": "co_consecrator",
+  "consec_year": 1974.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Trinidad Sep\u00falveda Ruiz-Velasco",
+  "from_key": "jose trinidad sepulveda ruiz velasco",
+  "to_name": "Archbishop Felipe Aguirre Franco",
+  "to_key": "felipe aguirre franco",
+  "role": "co_consecrator",
+  "consec_year": 1974.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "from_key": "manuel martin del campo padilla",
+  "to_name": "Bishop Samuel Ruiz Garc\u00eda",
+  "to_key": "samuel ruiz garcia",
+  "role": "principal_consecrator",
+  "consec_year": 1959.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Lucio Torreblanca y Tapia",
+  "from_key": "lucio torreblanca y tapia",
+  "to_name": "Bishop Samuel Ruiz Garc\u00eda",
+  "to_key": "samuel ruiz garcia",
+  "role": "co_consecrator",
+  "consec_year": 1959.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Clemens Alba Palacios",
+  "from_key": "jose de jesus clemens alba palacios",
+  "to_name": "Bishop Samuel Ruiz Garc\u00eda",
+  "to_key": "samuel ruiz garcia",
+  "role": "co_consecrator",
+  "consec_year": 1959.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "to_key": "jose luis chavez botello",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "to_key": "jose luis chavez botello",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Adolfo Hern\u00e1ndez Hurtado",
+  "from_key": "adolfo hernandez hurtado",
+  "to_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "to_key": "jose luis chavez botello",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "to_key": "rafael romo munoz",
+  "role": "principal_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "to_key": "rafael romo munoz",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luis Morales Reyes",
+  "from_key": "luis morales reyes",
+  "to_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "to_key": "rafael romo munoz",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luigi Raimondi",
+  "from_key": "luigi raimondi",
+  "to_name": "Bishop Manuel Talam\u00e1s Camandari",
+  "to_key": "manuel talamas camandari",
+  "role": "principal_consecrator",
+  "consec_year": 1957.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Antonio Gu\u00edzar y Valencia",
+  "from_key": "antonio guizar y valencia",
+  "to_name": "Bishop Manuel Talam\u00e1s Camandari",
+  "to_key": "manuel talamas camandari",
+  "role": "co_consecrator",
+  "consec_year": 1957.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Luis Gu\u00edzar y Barrag\u00e1n",
+  "from_key": "luis guizar y barragan",
+  "to_name": "Bishop Manuel Talam\u00e1s Camandari",
+  "to_key": "manuel talamas camandari",
+  "role": "co_consecrator",
+  "consec_year": 1957.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "from_key": "antonio lopez avina",
+  "to_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "to_key": "hector gonzalez martinez",
+  "role": "principal_consecrator",
+  "consec_year": 1982.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel Castro Ruiz",
+  "from_key": "manuel castro ruiz",
+  "to_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "to_key": "hector gonzalez martinez",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "to_key": "hector gonzalez martinez",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Carlos Cardinal Aguiar Retes",
+  "to_key": "carlos aguiar retes",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Mag\u00edn Camerino Torreblanca Reyes",
+  "from_key": "magin camerino torreblanca reyes",
+  "to_name": "Carlos Cardinal Aguiar Retes",
+  "to_key": "carlos aguiar retes",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Alfonso Humberto Robles Cota",
+  "from_key": "alfonso humberto robles cota",
+  "to_name": "Carlos Cardinal Aguiar Retes",
+  "to_key": "carlos aguiar retes",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Manuel Talam\u00e1s Camandari",
+  "from_key": "manuel talamas camandari",
+  "to_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "to_key": "juan sandoval iniguez",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "to_key": "juan sandoval iniguez",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "from_key": "juan jesus posadas ocampo",
+  "to_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "to_key": "juan sandoval iniguez",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "St. Karol J\u00f3zef Wojty&#322;a",
+  "from_key": "st karol jozef wojty a",
+  "to_name": "Bishop Jos\u00e9 Ra\u00fal Vera L\u00f3pez , O.P.",
+  "to_key": "jose raul vera lopez o p",
+  "role": "principal_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Eduardo Mart\u00ednez Somalo",
+  "from_key": "eduardo martinez somalo",
+  "to_name": "Bishop Jos\u00e9 Ra\u00fal Vera L\u00f3pez , O.P.",
+  "to_key": "jose raul vera lopez o p",
+  "role": "co_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giovanni Battista Re",
+  "from_key": "giovanni battista re",
+  "to_name": "Bishop Jos\u00e9 Ra\u00fal Vera L\u00f3pez , O.P.",
+  "to_key": "jose raul vera lopez o p",
+  "role": "co_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "from_key": "juan jesus posadas ocampo",
+  "to_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "to_key": "jose guadalupe martin rabago",
+  "role": "principal_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00e9rez-Gil y Gonz\u00e1lez",
+  "from_key": "manuel perez gil y gonzalez",
+  "to_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "to_key": "jose guadalupe martin rabago",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Francisco Ra\u00fal Villalobos Padilla",
+  "from_key": "francisco raul villalobos padilla",
+  "to_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "to_key": "jose guadalupe martin rabago",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "from_key": "antonio lopez avina",
+  "to_name": "Archbishop Norberto Rivera Carrera",
+  "to_key": "norberto rivera carrera",
+  "role": "principal_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Archbishop Norberto Rivera Carrera",
+  "to_key": "norberto rivera carrera",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Archbishop Norberto Rivera Carrera",
+  "to_key": "norberto rivera carrera",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "from_key": "juan jesus posadas ocampo",
+  "to_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "to_key": "javier navarro rodriguez",
+  "role": "principal_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00e9rez-Gil y Gonz\u00e1lez",
+  "from_key": "manuel perez gil y gonzalez",
+  "to_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "to_key": "javier navarro rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Francisco Ra\u00fal Villalobos Padilla",
+  "from_key": "francisco raul villalobos padilla",
+  "to_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "to_key": "javier navarro rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "from_key": "jose garibi y rivera",
+  "to_name": "Archbishop Carlos Quintero Arce",
+  "to_key": "carlos quintero arce",
+  "role": "principal_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Francisco Javier Nu\u00f1o y Guerrero",
+  "from_key": "francisco javier nuno y guerrero",
+  "to_name": "Archbishop Carlos Quintero Arce",
+  "to_key": "carlos quintero arce",
+  "role": "co_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Luis Cabrera Cruz",
+  "from_key": "luis cabrera cruz",
+  "to_name": "Archbishop Carlos Quintero Arce",
+  "to_key": "carlos quintero arce",
+  "role": "co_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Renato Ascencio Le\u00f3n",
+  "from_key": "renato ascencio leon",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Torres Campos",
+  "to_key": "jose guadalupe torres campos",
+  "role": "principal_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Torres Campos",
+  "to_key": "jose guadalupe torres campos",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Mart\u00ednez Zepeda",
+  "from_key": "jose de jesus martinez zepeda",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Torres Campos",
+  "to_key": "jose guadalupe torres campos",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",
+  "to_key": "ricardo manuel watty urquidi m sp s",
+  "role": "principal_consecrator",
+  "consec_year": 1980.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Madera Uribe",
+  "from_key": "jose de jesus madera uribe",
+  "to_name": "Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",
+  "to_key": "ricardo manuel watty urquidi m sp s",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Alfredo Torres Romero",
+  "from_key": "alfredo torres romero",
+  "to_name": "Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",
+  "to_key": "ricardo manuel watty urquidi m sp s",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Carlos Garfias Merlos",
+  "to_key": "carlos garfias merlos",
+  "role": "principal_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Rafael Bello Ruiz",
+  "from_key": "rafael bello ruiz",
+  "to_name": "Archbishop Carlos Garfias Merlos",
+  "to_key": "carlos garfias merlos",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Archbishop Carlos Garfias Merlos",
+  "to_key": "carlos garfias merlos",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Faustino Armend\u00e1riz Jim\u00e9nez",
+  "to_key": "faustino armendariz jimenez",
+  "role": "principal_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Archbishop Faustino Armend\u00e1riz Jim\u00e9nez",
+  "to_key": "faustino armendariz jimenez",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Francisco Javier Chavolla Ramos",
+  "from_key": "francisco javier chavolla ramos",
+  "to_name": "Archbishop Faustino Armend\u00e1riz Jim\u00e9nez",
+  "to_key": "faustino armendariz jimenez",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "to_key": "alberto suarez inda",
+  "role": "principal_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Estanislao Alcaraz y Figueroa",
+  "from_key": "estanislao alcaraz y figueroa",
+  "to_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "to_key": "alberto suarez inda",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luis Morales Reyes",
+  "from_key": "luis morales reyes",
+  "to_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "to_key": "alberto suarez inda",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Archbishop Constancio Miranda Wechmann",
+  "to_key": "constancio miranda wechmann",
+  "role": "principal_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Ricardo Gu\u00edzar D\u00edaz",
+  "from_key": "ricardo guizar diaz",
+  "to_name": "Archbishop Constancio Miranda Wechmann",
+  "to_key": "constancio miranda wechmann",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Juan Guillermo L\u00f3pez Soto",
+  "from_key": "juan guillermo lopez soto",
+  "to_name": "Archbishop Constancio Miranda Wechmann",
+  "to_key": "constancio miranda wechmann",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Rodrigo Aguilar Mart\u00ednez",
+  "to_key": "rodrigo aguilar martinez",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Rodrigo Aguilar Mart\u00ednez",
+  "to_key": "rodrigo aguilar martinez",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Bishop Rodrigo Aguilar Mart\u00ednez",
+  "to_key": "rodrigo aguilar martinez",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Alfredo Torres Romero",
+  "from_key": "alfredo torres romero",
+  "to_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "to_key": "jose francisco robles ortega",
+  "role": "principal_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Mar\u00eda Hern\u00e1ndez Gonz\u00e1lez",
+  "from_key": "jose maria hernandez gonzalez",
+  "to_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "to_key": "jose francisco robles ortega",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "from_key": "javier lozano barragan",
+  "to_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "to_key": "jose francisco robles ortega",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Bishop Juan Manuel Mancilla S\u00e1nchez",
+  "to_key": "juan manuel mancilla sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Juan Manuel Mancilla S\u00e1nchez",
+  "to_key": "juan manuel mancilla sanchez",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Juan Manuel Mancilla S\u00e1nchez",
+  "to_key": "juan manuel mancilla sanchez",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Mario Espinosa Contreras",
+  "to_key": "mario espinosa contreras",
+  "role": "principal_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Mario Espinosa Contreras",
+  "to_key": "mario espinosa contreras",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Alfonso Humberto Robles Cota",
+  "from_key": "alfonso humberto robles cota",
+  "to_name": "Bishop Mario Espinosa Contreras",
+  "to_key": "mario espinosa contreras",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Pedro Pablo Elizondo C\u00e1rdenas , L.C.",
+  "to_key": "pedro pablo elizondo cardenas l c",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Pedro Pablo Elizondo C\u00e1rdenas , L.C.",
+  "to_key": "pedro pablo elizondo cardenas l c",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jorge Bernal Vargas",
+  "from_key": "jorge bernal vargas",
+  "to_name": "Bishop Pedro Pablo Elizondo C\u00e1rdenas , L.C.",
+  "to_key": "pedro pablo elizondo cardenas l c",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "to_key": "rogelio cabrera lopez",
+  "role": "principal_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "to_key": "rogelio cabrera lopez",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "from_key": "mario de gasperin gasperin",
+  "to_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "to_key": "rogelio cabrera lopez",
+  "role": "co_consecrator",
+  "consec_year": 1996.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Marcelino Hern\u00e1ndez Rodr\u00edguez",
+  "to_key": "marcelino hernandez rodriguez",
+  "role": "principal_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Marcelino Hern\u00e1ndez Rodr\u00edguez",
+  "to_key": "marcelino hernandez rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Marcelino Hern\u00e1ndez Rodr\u00edguez",
+  "to_key": "marcelino hernandez rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Sergio Obeso Rivera",
+  "from_key": "sergio obeso rivera",
+  "to_name": "Archbishop Hip\u00f3lito Reyes Larios",
+  "to_key": "hipolito reyes larios",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Archbishop Hip\u00f3lito Reyes Larios",
+  "to_key": "hipolito reyes larios",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Leonardo Sandri",
+  "from_key": "leonardo sandri",
+  "to_name": "Archbishop Hip\u00f3lito Reyes Larios",
+  "to_key": "hipolito reyes larios",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Florencio Olvera Ochoa",
+  "to_key": "florencio olvera ochoa",
+  "role": "principal_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Rafael Garcia Gonz\u00e1lez",
+  "from_key": "rafael garcia gonzalez",
+  "to_name": "Bishop Florencio Olvera Ochoa",
+  "to_key": "florencio olvera ochoa",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "from_key": "mario de gasperin gasperin",
+  "to_name": "Bishop Florencio Olvera Ochoa",
+  "to_key": "florencio olvera ochoa",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "to_key": "mario de gasperin gasperin",
+  "role": "principal_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Sergio Obeso Rivera",
+  "from_key": "sergio obeso rivera",
+  "to_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "to_key": "mario de gasperin gasperin",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Ignacio Lehonor Arroyo",
+  "from_key": "ignacio lehonor arroyo",
+  "to_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "to_key": "mario de gasperin gasperin",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Fernando Mario Ch\u00e1vez Ruvalcaba",
+  "to_key": "fernando mario chavez ruvalcaba",
+  "role": "principal_consecrator",
+  "consec_year": 1999.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "from_key": "javier lozano barragan",
+  "to_name": "Bishop Fernando Mario Ch\u00e1vez Ruvalcaba",
+  "to_key": "fernando mario chavez ruvalcaba",
+  "role": "co_consecrator",
+  "consec_year": 1999.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Rafael Mu\u00f1oz N\u00fa\u00f1ez",
+  "from_key": "rafael munoz nunez",
+  "to_name": "Bishop Fernando Mario Ch\u00e1vez Ruvalcaba",
+  "to_key": "fernando mario chavez ruvalcaba",
+  "role": "co_consecrator",
+  "consec_year": 1999.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Ram\u00f3n Castro Castro",
+  "to_key": "ramon castro castro",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Ram\u00f3n Castro Castro",
+  "to_key": "ramon castro castro",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "from_key": "rafael romo munoz",
+  "to_name": "Bishop Ram\u00f3n Castro Castro",
+  "to_key": "ramon castro castro",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "from_key": "jose garibi y rivera",
+  "to_name": "Bishop Manuel Jer\u00f3nimo Yerena y Camarena",
+  "to_key": "manuel jeronimo yerena y camarena",
+  "role": "principal_consecrator",
+  "consec_year": 1940.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Anastasio Hurtado y Robles",
+  "from_key": "anastasio hurtado y robles",
+  "to_name": "Bishop Manuel Jer\u00f3nimo Yerena y Camarena",
+  "to_key": "manuel jeronimo yerena y camarena",
+  "role": "co_consecrator",
+  "consec_year": 1940.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Maximino Ruiz y Flores",
+  "from_key": "maximino ruiz y flores",
+  "to_name": "Bishop Manuel Jer\u00f3nimo Yerena y Camarena",
+  "to_key": "manuel jeronimo yerena y camarena",
+  "role": "co_consecrator",
+  "consec_year": 1940.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Amleto Giovanni Cardinal Cicognani",
+  "from_key": "amleto giovanni cicognani",
+  "to_name": "Archbishop Girolamo Prigione",
+  "to_key": "girolamo prigione",
+  "role": "principal_consecrator",
+  "consec_year": 1968.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giovanni Benelli",
+  "from_key": "giovanni benelli",
+  "to_name": "Archbishop Girolamo Prigione",
+  "to_key": "girolamo prigione",
+  "role": "co_consecrator",
+  "consec_year": 1968.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Giuseppe Almici",
+  "from_key": "giuseppe almici",
+  "to_name": "Archbishop Girolamo Prigione",
+  "to_key": "girolamo prigione",
+  "role": "co_consecrator",
+  "consec_year": 1968.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Leopoldo Ruiz y Flores",
+  "from_key": "leopoldo ruiz y flores",
+  "to_name": "Archbishop Luis Mar\u00eda Mart\u00ednez y Rodr\u00edguez",
+  "to_key": "luis maria martinez y rodriguez",
+  "role": "principal_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Francisco Banegas y Galv\u00e1n",
+  "from_key": "francisco banegas y galvan",
+  "to_name": "Archbishop Luis Mar\u00eda Mart\u00ednez y Rodr\u00edguez",
+  "to_key": "luis maria martinez y rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Leopoldo Lara y Torres",
+  "from_key": "leopoldo lara y torres",
+  "to_name": "Archbishop Luis Mar\u00eda Mart\u00ednez y Rodr\u00edguez",
+  "to_key": "luis maria martinez y rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "St. Giovanni Battista Enrico Antonio Maria Montini",
+  "from_key": "st giovanni battista enrico antonio maria montini",
+  "to_name": "Archbishop Mario Pio Gaspari",
+  "to_key": "mario pio gaspari",
+  "role": "principal_consecrator",
+  "consec_year": 1973.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Agostino Casaroli",
+  "from_key": "agostino casaroli",
+  "to_name": "Archbishop Mario Pio Gaspari",
+  "to_key": "mario pio gaspari",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Bernardin Gantin",
+  "from_key": "bernardin gantin",
+  "to_name": "Archbishop Mario Pio Gaspari",
+  "to_key": "mario pio gaspari",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luis Mar\u00eda Altamirano y Bulnes",
+  "from_key": "luis maria altamirano y bulnes",
+  "to_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "to_key": "manuel martin del campo padilla",
+  "role": "principal_consecrator",
+  "consec_year": 1946.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Ferdinando Ruiz y Sol\u00f3zarno",
+  "from_key": "ferdinando ruiz y solozarno",
+  "to_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "to_key": "manuel martin del campo padilla",
+  "role": "co_consecrator",
+  "consec_year": 1946.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Abraham Mart\u00ednez Betancourt",
+  "from_key": "jose abraham martinez betancourt",
+  "to_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "to_key": "manuel martin del campo padilla",
+  "role": "co_consecrator",
+  "consec_year": 1946.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Adeodato Giovanni Cardinal Piazza",
+  "from_key": "adeodato giovanni piazza",
+  "to_name": "Archbishop Luigi Raimondi",
+  "to_key": "luigi raimondi",
+  "role": "principal_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Antonio Samor\u00e8",
+  "from_key": "antonio samore",
+  "to_name": "Archbishop Luigi Raimondi",
+  "to_key": "luigi raimondi",
+  "role": "co_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Giuseppe Dell&rsquo;Omo",
+  "from_key": "giuseppe dell rsquo omo",
+  "to_name": "Archbishop Luigi Raimondi",
+  "to_key": "luigi raimondi",
+  "role": "co_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Mar\u00eda Gonz\u00e1lez y Valencia",
+  "from_key": "jose maria gonzalez y valencia",
+  "to_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "to_key": "antonio lopez avina",
+  "role": "principal_consecrator",
+  "consec_year": 1955.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "from_key": "jose garibi y rivera",
+  "to_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "to_key": "antonio lopez avina",
+  "role": "co_consecrator",
+  "consec_year": 1955.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "from_key": "manuel martin del campo padilla",
+  "to_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "to_key": "antonio lopez avina",
+  "role": "co_consecrator",
+  "consec_year": 1955.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Carlo Martini",
+  "from_key": "carlo martini",
+  "to_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "to_key": "adolfo antonio suarez rivera",
+  "role": "principal_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Salazar L\u00f3pez",
+  "from_key": "jose salazar lopez",
+  "to_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "to_key": "adolfo antonio suarez rivera",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Samuel Ruiz Garc\u00eda",
+  "from_key": "samuel ruiz garcia",
+  "to_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "to_key": "adolfo antonio suarez rivera",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Eugeniusz Baziak",
+  "from_key": "eugeniusz baziak",
+  "to_name": "Pope John Paul II",
+  "to_key": "pope john paul ii",
+  "role": "principal_consecrator",
+  "consec_year": 1958.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Franciszek Jop",
+  "from_key": "franciszek jop",
+  "to_name": "Pope John Paul II",
+  "to_key": "pope john paul ii",
+  "role": "co_consecrator",
+  "consec_year": 1958.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Boles&#322;aw Kominek",
+  "from_key": "boles aw kominek",
+  "to_name": "Pope John Paul II",
+  "to_key": "pope john paul ii",
+  "role": "co_consecrator",
+  "consec_year": 1958.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel Mart\u00edn del Campo Padilla",
+  "from_key": "manuel martin del campo padilla",
+  "to_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "to_key": "juan jesus posadas ocampo",
+  "role": "principal_consecrator",
+  "consec_year": 1970.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Alfredo Galindo Mendoza",
+  "from_key": "alfredo galindo mendoza",
+  "to_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "to_key": "juan jesus posadas ocampo",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Rom\u00e1n Acevedo Rojas",
+  "from_key": "roman acevedo rojas",
+  "to_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "to_key": "juan jesus posadas ocampo",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Francisco Orozco y Jim\u00e9nez",
+  "from_key": "francisco orozco y jimenez",
+  "to_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "to_key": "jose garibi y rivera",
+  "role": "principal_consecrator",
+  "consec_year": 1929.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Miguel Mar\u00eda de la Mora y Mora",
+  "from_key": "miguel maria de la mora y mora",
+  "to_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "to_key": "jose garibi y rivera",
+  "role": "co_consecrator",
+  "consec_year": 1929.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Ignacio Placencia y Moreira",
+  "from_key": "ignacio placencia y moreira",
+  "to_name": "Archbishop Jos\u00e9 Garibi y Rivera",
+  "to_key": "jose garibi y rivera",
+  "role": "co_consecrator",
+  "consec_year": 1929.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Renato Ascencio Le\u00f3n",
+  "to_key": "renato ascencio leon",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Anselmo Zarza Bernal",
+  "from_key": "anselmo zarza bernal",
+  "to_name": "Bishop Renato Ascencio Le\u00f3n",
+  "to_key": "renato ascencio leon",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Ulises Mac\u00edas Salcedo",
+  "from_key": "jose ulises macias salcedo",
+  "to_name": "Bishop Renato Ascencio Le\u00f3n",
+  "to_key": "renato ascencio leon",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Octaviano M\u00e1rquez y T\u00f3riz",
+  "from_key": "octaviano marquez y toriz",
+  "to_name": "Ernesto Cardinal Corripio y Ahumada",
+  "to_key": "ernesto corripio y ahumada",
+  "role": "principal_consecrator",
+  "consec_year": 1952.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Seraf\u00edn Mar\u00eda Armora y Gonz\u00e1lez",
+  "from_key": "serafin maria armora y gonzalez",
+  "to_name": "Ernesto Cardinal Corripio y Ahumada",
+  "to_key": "ernesto corripio y ahumada",
+  "role": "co_consecrator",
+  "consec_year": 1952.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Luis Gu\u00edzar y Barrag\u00e1n",
+  "from_key": "luis guizar y barragan",
+  "to_name": "Ernesto Cardinal Corripio y Ahumada",
+  "to_key": "ernesto corripio y ahumada",
+  "role": "co_consecrator",
+  "consec_year": 1952.0,
+  "source": "original"
+ },
+ {
+  "from_name": "St. Karol J\u00f3zef Wojty&#322;a",
+  "from_key": "st karol jozef wojty a",
+  "to_name": "Archbishop Justo Mullor Garc\u00eda",
+  "to_key": "justo mullor garcia",
+  "role": "principal_consecrator",
+  "consec_year": 1979.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Duraisamy Simon Lourdusamy",
+  "from_key": "duraisamy simon lourdusamy",
+  "to_name": "Archbishop Justo Mullor Garc\u00eda",
+  "to_key": "justo mullor garcia",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Eduardo Mart\u00ednez Somalo",
+  "from_key": "eduardo martinez somalo",
+  "to_name": "Archbishop Justo Mullor Garc\u00eda",
+  "to_key": "justo mullor garcia",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "from_key": "miguel dario miranda y gomez",
+  "to_name": "Bishop Alfredo Torres Romero",
+  "to_key": "alfredo torres romero",
+  "role": "principal_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Victorino Alvarez Tena",
+  "from_key": "victorino alvarez tena",
+  "to_name": "Bishop Alfredo Torres Romero",
+  "to_key": "alfredo torres romero",
+  "role": "co_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00e9rez-Gil y Gonz\u00e1lez",
+  "from_key": "manuel perez gil y gonzalez",
+  "to_name": "Bishop Alfredo Torres Romero",
+  "to_key": "alfredo torres romero",
+  "role": "co_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "to_key": "arturo antonio szymanski ramirez",
+  "role": "principal_consecrator",
+  "consec_year": 1960.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Fidel Cort\u00e9s P\u00e9rez",
+  "from_key": "fidel cortes perez",
+  "to_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "to_key": "arturo antonio szymanski ramirez",
+  "role": "co_consecrator",
+  "consec_year": 1960.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Estanislao Alcaraz y Figueroa",
+  "from_key": "estanislao alcaraz y figueroa",
+  "to_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "to_key": "arturo antonio szymanski ramirez",
+  "role": "co_consecrator",
+  "consec_year": 1960.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Agostino Casaroli",
+  "from_key": "agostino casaroli",
+  "to_name": "Archbishop Giuseppe Bertello",
+  "to_key": "giuseppe bertello",
+  "role": "principal_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Albino Mensa",
+  "from_key": "albino mensa",
+  "to_name": "Archbishop Giuseppe Bertello",
+  "to_key": "giuseppe bertello",
+  "role": "co_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Luigi Bettazzi",
+  "from_key": "luigi bettazzi",
+  "to_name": "Archbishop Giuseppe Bertello",
+  "to_key": "giuseppe bertello",
+  "role": "co_consecrator",
+  "consec_year": 1987.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Emilio Abascal y Salmer\u00f3n",
+  "from_key": "emilio abascal y salmeron",
+  "to_name": "Archbishop Sergio Obeso Rivera",
+  "to_key": "sergio obeso rivera",
+  "role": "principal_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00edo L\u00f3pez Estrada",
+  "from_key": "manuel pio lopez estrada",
+  "to_name": "Archbishop Sergio Obeso Rivera",
+  "to_key": "sergio obeso rivera",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Guillermo Ranzahuer Gonz\u00e1lez",
+  "from_key": "guillermo ranzahuer gonzalez",
+  "to_name": "Archbishop Sergio Obeso Rivera",
+  "to_key": "sergio obeso rivera",
+  "role": "co_consecrator",
+  "consec_year": 1971.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "to_key": "emilio carlos berlie belaunzaran",
+  "role": "principal_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Salvador Quezada Lim\u00f3n",
+  "from_key": "salvador quezada limon",
+  "to_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "to_key": "emilio carlos berlie belaunzaran",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "from_key": "juan jesus posadas ocampo",
+  "to_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "to_key": "emilio carlos berlie belaunzaran",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Raffaele Carlo Rossi",
+  "from_key": "raffaele carlo rossi",
+  "to_name": "Amleto Giovanni Cardinal Cicognani",
+  "to_key": "amleto giovanni cicognani",
+  "role": "principal_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Pizzardo",
+  "from_key": "giuseppe pizzardo",
+  "to_name": "Amleto Giovanni Cardinal Cicognani",
+  "to_key": "amleto giovanni cicognani",
+  "role": "co_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Carlo Salotti",
+  "from_key": "carlo salotti",
+  "to_name": "Amleto Giovanni Cardinal Cicognani",
+  "to_key": "amleto giovanni cicognani",
+  "role": "co_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Pr\u00f3spero Mar\u00eda Alarc\u00f3n y S\u00e1nchez de la Barquera",
+  "from_key": "prospero maria alarcon y sanchez de la barquera",
+  "to_name": "Archbishop Leopoldo Ruiz y Flores",
+  "to_key": "leopoldo ruiz y flores",
+  "role": "principal_consecrator",
+  "consec_year": 1900.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Santiago de los Santos Garza Zambrano",
+  "from_key": "santiago de los santos garza zambrano",
+  "to_name": "Archbishop Leopoldo Ruiz y Flores",
+  "to_key": "leopoldo ruiz y flores",
+  "role": "co_consecrator",
+  "consec_year": 1900.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Francisco Plancarte y Navarrete",
+  "from_key": "francisco plancarte y navarrete",
+  "to_name": "Archbishop Leopoldo Ruiz y Flores",
+  "to_key": "leopoldo ruiz y flores",
+  "role": "co_consecrator",
+  "consec_year": 1900.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Eug\u00e8ne-Gabriel-Gervais-Laurent Cardinal Tisserant",
+  "from_key": "eugene gabriel gervais laurent tisserant",
+  "to_name": "Pope Paul VI",
+  "to_key": "pope paul vi",
+  "role": "principal_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Giacinto Tredici",
+  "from_key": "giacinto tredici",
+  "to_name": "Pope Paul VI",
+  "to_key": "pope paul vi",
+  "role": "co_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Domenico Bernareggi",
+  "from_key": "domenico bernareggi",
+  "to_name": "Pope Paul VI",
+  "to_key": "pope paul vi",
+  "role": "co_consecrator",
+  "consec_year": 1954.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Leopoldo Ruiz y Flores",
+  "from_key": "leopoldo ruiz y flores",
+  "to_name": "Archbishop Luis Mar\u00eda Altamirano y Bulnes",
+  "to_key": "luis maria altamirano y bulnes",
+  "role": "principal_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Manuel Fulcheri y Pietrasanta",
+  "from_key": "manuel fulcheri y pietrasanta",
+  "to_name": "Archbishop Luis Mar\u00eda Altamirano y Bulnes",
+  "to_key": "luis maria altamirano y bulnes",
+  "role": "co_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Maximino Ruiz y Flores",
+  "from_key": "maximino ruiz y flores",
+  "to_name": "Archbishop Luis Mar\u00eda Altamirano y Bulnes",
+  "to_key": "luis maria altamirano y bulnes",
+  "role": "co_consecrator",
+  "consec_year": 1923.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Basilio Cardinal Pompilj",
+  "from_key": "basilio pompilj",
+  "to_name": "Adeodato Giovanni Cardinal Piazza , O.C.D.",
+  "to_key": "adeodato giovanni piazza o c d",
+  "role": "principal_consecrator",
+  "consec_year": 1930.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Raffaele Carlo Rossi",
+  "from_key": "raffaele carlo rossi",
+  "to_name": "Adeodato Giovanni Cardinal Piazza , O.C.D.",
+  "to_key": "adeodato giovanni piazza o c d",
+  "role": "co_consecrator",
+  "consec_year": 1930.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Pio Marcello Bagnoli",
+  "from_key": "pio marcello bagnoli",
+  "to_name": "Adeodato Giovanni Cardinal Piazza , O.C.D.",
+  "to_key": "adeodato giovanni piazza o c d",
+  "role": "co_consecrator",
+  "consec_year": 1930.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Oth\u00f3n N\u00fa\u00f1ez y Z\u00e1rate",
+  "from_key": "jose othon nunez y zarate",
+  "to_name": "Archbishop Jos\u00e9 Mar\u00eda Gonz\u00e1lez y Valencia",
+  "to_key": "jose maria gonzalez y valencia",
+  "role": "principal_consecrator",
+  "consec_year": 1922.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop St. Raphael Guizar Valencia",
+  "from_key": "st raphael guizar valencia",
+  "to_name": "Archbishop Jos\u00e9 Mar\u00eda Gonz\u00e1lez y Valencia",
+  "to_key": "jose maria gonzalez y valencia",
+  "role": "co_consecrator",
+  "consec_year": 1922.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Antonio Gu\u00edzar y Valencia",
+  "from_key": "antonio guizar y valencia",
+  "to_name": "Archbishop Jos\u00e9 Mar\u00eda Gonz\u00e1lez y Valencia",
+  "to_key": "jose maria gonzalez y valencia",
+  "role": "co_consecrator",
+  "consec_year": 1922.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Antonio Samor\u00e8",
+  "from_key": "antonio samore",
+  "to_name": "Archbishop Carlo Martini",
+  "to_key": "carlo martini",
+  "role": "principal_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Antonio Bergamaschi",
+  "from_key": "antonio bergamaschi",
+  "to_name": "Archbishop Carlo Martini",
+  "to_key": "carlo martini",
+  "role": "co_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Artemio Prati",
+  "from_key": "artemio prati",
+  "to_name": "Archbishop Carlo Martini",
+  "to_key": "carlo martini",
+  "role": "co_consecrator",
+  "consec_year": 1961.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Boles&#322;aw Twardowski",
+  "from_key": "boles aw twardowski",
+  "to_name": "Archbishop Eugeniusz Baziak",
+  "to_key": "eugeniusz baziak",
+  "role": "principal_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Franciszek Lisowski",
+  "from_key": "franciszek lisowski",
+  "to_name": "Archbishop Eugeniusz Baziak",
+  "to_key": "eugeniusz baziak",
+  "role": "co_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Edward Komar",
+  "from_key": "edward komar",
+  "to_name": "Archbishop Eugeniusz Baziak",
+  "to_key": "eugeniusz baziak",
+  "role": "co_consecrator",
+  "consec_year": 1933.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Pr\u00f3spero Mar\u00eda Alarc\u00f3n y S\u00e1nchez de la Barquera",
+  "from_key": "prospero maria alarcon y sanchez de la barquera",
+  "to_name": "Archbishop Francisco Orozco y Jim\u00e9nez",
+  "to_key": "francisco orozco y jimenez",
+  "role": "principal_consecrator",
+  "consec_year": 1902.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Francisco Plancarte y Navarrete",
+  "from_key": "francisco plancarte y navarrete",
+  "to_name": "Archbishop Francisco Orozco y Jim\u00e9nez",
+  "to_key": "francisco orozco y jimenez",
+  "role": "co_consecrator",
+  "consec_year": 1902.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Leopoldo Ruiz y Flores",
+  "from_key": "leopoldo ruiz y flores",
+  "to_name": "Archbishop Francisco Orozco y Jim\u00e9nez",
+  "to_key": "francisco orozco y jimenez",
+  "role": "co_consecrator",
+  "consec_year": 1902.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Luis Mar\u00eda Altamirano y Bulnes",
+  "from_key": "luis maria altamirano y bulnes",
+  "to_name": "Archbishop Octaviano M\u00e1rquez y T\u00f3riz",
+  "to_key": "octaviano marquez y toriz",
+  "role": "principal_consecrator",
+  "consec_year": 1951.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Lucio Torreblanca y Tapia",
+  "from_key": "lucio torreblanca y tapia",
+  "to_name": "Archbishop Octaviano M\u00e1rquez y T\u00f3riz",
+  "to_key": "octaviano marquez y toriz",
+  "role": "co_consecrator",
+  "consec_year": 1951.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alfonso Espino y Silva",
+  "from_key": "alfonso espino y silva",
+  "to_name": "Archbishop Octaviano M\u00e1rquez y T\u00f3riz",
+  "to_key": "octaviano marquez y toriz",
+  "role": "co_consecrator",
+  "consec_year": 1951.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Leopoldo Ruiz y Flores",
+  "from_key": "leopoldo ruiz y flores",
+  "to_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "to_key": "miguel dario miranda y gomez",
+  "role": "principal_consecrator",
+  "consec_year": 1937.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Ignacio M\u00e1rquez y T\u00f3riz",
+  "from_key": "jose ignacio marquez y toriz",
+  "to_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "to_key": "miguel dario miranda y gomez",
+  "role": "co_consecrator",
+  "consec_year": 1937.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Maximino Ruiz y Flores",
+  "from_key": "maximino ruiz y flores",
+  "to_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "to_key": "miguel dario miranda y gomez",
+  "role": "co_consecrator",
+  "consec_year": 1937.0,
+  "source": "original"
+ },
+ {
+  "from_name": "St. Giovanni Battista Enrico Antonio Maria Montini",
+  "from_key": "st giovanni battista enrico antonio maria montini",
+  "to_name": "Archbishop Agostino Casaroli",
+  "to_key": "agostino casaroli",
+  "role": "principal_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Augusto Gianfranceschi",
+  "from_key": "augusto gianfranceschi",
+  "to_name": "Archbishop Agostino Casaroli",
+  "to_key": "agostino casaroli",
+  "role": "co_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Bishop Jacques-Paul Martin",
+  "from_key": "jacques paul martin",
+  "to_name": "Archbishop Agostino Casaroli",
+  "to_key": "agostino casaroli",
+  "role": "co_consecrator",
+  "consec_year": 1967.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Octaviano M\u00e1rquez y T\u00f3riz",
+  "from_key": "octaviano marquez y toriz",
+  "to_name": "Archbishop Emilio Abascal y Salmer\u00f3n",
+  "to_key": "emilio abascal y salmeron",
+  "role": "principal_consecrator",
+  "consec_year": 1953.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alfonso Espino y Silva",
+  "from_key": "alfonso espino y silva",
+  "to_name": "Archbishop Emilio Abascal y Salmer\u00f3n",
+  "to_key": "emilio abascal y salmeron",
+  "role": "co_consecrator",
+  "consec_year": 1953.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00edo L\u00f3pez Estrada",
+  "from_key": "manuel pio lopez estrada",
+  "to_name": "Archbishop Emilio Abascal y Salmer\u00f3n",
+  "to_key": "emilio abascal y salmeron",
+  "role": "co_consecrator",
+  "consec_year": 1953.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop V\u00edctor Ren\u00e9 Rodr\u00edguez G\u00f3mez",
+  "to_key": "victor rene rodriguez gomez",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop V\u00edctor Ren\u00e9 Rodr\u00edguez G\u00f3mez",
+  "to_key": "victor rene rodriguez gomez",
+  "role": "co_consecrator",
+  "consec_year": 2006.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Ricardo Gu\u00edzar D\u00edaz",
+  "from_key": "ricardo guizar diaz",
+  "to_name": "Bishop V\u00edctor Ren\u00e9 Rodr\u00edguez G\u00f3mez",
+  "to_key": "victor rene rodriguez gomez",
+  "role": "co_consecrator",
+  "consec_year": 2006.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Angelo Cardinal Sodano",
+  "from_key": "angelo sodano",
+  "to_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "to_key": "christophe louis yves georges pierre",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Antonio Samor\u00e8",
+  "from_key": "antonio samore",
+  "to_name": "Angelo Cardinal Sodano",
+  "to_key": "angelo sodano",
+  "role": "principal_consecrator",
+  "consec_year": 1978.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Paul Joseph Marie Cardinal Gouyon",
+  "from_key": "paul joseph marie gouyon",
+  "to_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "to_key": "christophe louis yves georges pierre",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jacques Andr\u00e9 Marie Jullien",
+  "from_key": "jacques andre marie jullien",
+  "to_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "to_key": "christophe louis yves georges pierre",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Enrique S\u00e1nchez Mart\u00ednez",
+  "to_key": "enrique sanchez martinez",
+  "role": "principal_consecrator",
+  "consec_year": 2008.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "from_key": "hector gonzalez martinez",
+  "to_name": "Bishop Enrique S\u00e1nchez Mart\u00ednez",
+  "to_key": "enrique sanchez martinez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Trinidad Medel P\u00e9rez",
+  "from_key": "jose trinidad medel perez",
+  "to_name": "Bishop Enrique S\u00e1nchez Mart\u00ednez",
+  "to_key": "enrique sanchez martinez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "to_key": "jose victor manuel valentin sanchez espinosa",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "to_key": "jose victor manuel valentin sanchez espinosa",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "to_key": "jose victor manuel valentin sanchez espinosa",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Felipe Cardinal Arizmendi Esquivel",
+  "from_key": "felipe arizmendi esquivel",
+  "to_name": "Bishop Enrique D\u00edaz D\u00edaz",
+  "to_key": "enrique diaz diaz",
+  "role": "principal_consecrator",
+  "consec_year": 2003.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Enrique D\u00edaz D\u00edaz",
+  "to_key": "enrique diaz diaz",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Enrique D\u00edaz D\u00edaz",
+  "to_key": "enrique diaz diaz",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "original"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Francisco Maria Aguilera Gonz\u00e1lez",
+  "to_key": "francisco maria aguilera gonzalez",
+  "role": "principal_consecrator",
+  "consec_year": 1979.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "to_key": "javier lozano barragan",
+  "role": "principal_consecrator",
+  "consec_year": 1979.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Carlos Talavera Ram\u00edrez",
+  "to_key": "carlos talavera ramirez",
+  "role": "principal_consecrator",
+  "consec_year": 1980.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Archbishop Luis Robles D\u00edaz",
+  "to_key": "luis robles diaz",
+  "role": "principal_consecrator",
+  "consec_year": 1985.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Abelardo Alvarado Alc\u00e1ntara",
+  "to_key": "abelardo alvarado alcantara",
+  "role": "principal_consecrator",
+  "consec_year": 1985.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Archbishop Estanislao Alcaraz y Figueroa",
+  "to_key": "estanislao alcaraz y figueroa",
+  "role": "co_consecrator",
+  "consec_year": 1959.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Braulio S\u00e1nchez Fuentes",
+  "to_key": "braulio sanchez fuentes",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Genaro Alamilla Arteaga",
+  "to_key": "genaro alamilla arteaga",
+  "role": "co_consecrator",
+  "consec_year": 1974.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Hermenegildo Ram\u00edrez S\u00e1nchez",
+  "to_key": "hermenegildo ramirez sanchez",
+  "role": "co_consecrator",
+  "consec_year": 1975.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Domingo Jafet Herrera Castillo",
+  "to_key": "domingo jafet herrera castillo",
+  "role": "co_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Lorenzo C\u00e1rdenas Aregull\u00edn",
+  "to_key": "lorenzo cardenas aregullin",
+  "role": "co_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Luis Reynoso Cervantes",
+  "to_key": "luis reynoso cervantes",
+  "role": "co_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Ernesto Cardinal Corripio y Ahumada",
+  "from_key": "ernesto corripio y ahumada",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Mart\u00ednez Zepeda",
+  "to_key": "jose de jesus martinez zepeda",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop St. Oscar Arnulfo Romero y Galdamez",
+  "to_key": "st oscar arnulfo romero y galdamez",
+  "role": "principal_consecrator",
+  "consec_year": 1970.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Victor Hugo Mart\u00ednez Contreras",
+  "to_key": "victor hugo martinez contreras",
+  "role": "principal_consecrator",
+  "consec_year": 1971.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Mister Jos\u00e9 Julio Aguilar Garc\u00eda",
+  "to_key": "mister jose julio aguilar garcia",
+  "role": "principal_consecrator",
+  "consec_year": 1971.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "to_key": "rodolfo quezada toruno",
+  "role": "principal_consecrator",
+  "consec_year": 1972.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Marco Ren\u00e9 Revelo Contreras",
+  "to_key": "marco rene revelo contreras",
+  "role": "principal_consecrator",
+  "consec_year": 1973.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Francis Folorunsho Clement Alonge",
+  "to_key": "francis folorunsho clement alonge",
+  "role": "principal_consecrator",
+  "consec_year": 1974.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Michael Nnachi Okoro",
+  "to_key": "michael nnachi okoro",
+  "role": "principal_consecrator",
+  "consec_year": 1977.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Albert Kanene Obiefuna",
+  "to_key": "albert kanene obiefuna",
+  "role": "principal_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Michael Ugwu Eneja",
+  "to_key": "michael ugwu eneja",
+  "role": "principal_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Luis Reynoso Cervantes",
+  "to_key": "luis reynoso cervantes",
+  "role": "principal_consecrator",
+  "consec_year": 1978.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Castillo Renter\u00eda",
+  "to_key": "jose de jesus castillo renteria",
+  "role": "principal_consecrator",
+  "consec_year": 1979.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Juvencio Gonz\u00e1lez Alvarez",
+  "to_key": "juvencio gonzalez alvarez",
+  "role": "principal_consecrator",
+  "consec_year": 1980.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Lizares Estrada",
+  "to_key": "jose lizares estrada",
+  "role": "principal_consecrator",
+  "consec_year": 1980.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Alfonso Humberto Robles Cota",
+  "to_key": "alfonso humberto robles cota",
+  "role": "principal_consecrator",
+  "consec_year": 1981.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Miguel Pati\u00f1o Vel\u00e1zquez",
+  "to_key": "miguel patino velazquez",
+  "role": "principal_consecrator",
+  "consec_year": 1981.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Aguilera Rodriguez",
+  "to_key": "jose de jesus aguilera rodriguez",
+  "role": "principal_consecrator",
+  "consec_year": 1982.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Manuel Mireles Vaquera",
+  "to_key": "manuel mireles vaquera",
+  "role": "principal_consecrator",
+  "consec_year": 1982.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda Hern\u00e1ndez Gonz\u00e1lez",
+  "to_key": "jose maria hernandez gonzalez",
+  "role": "principal_consecrator",
+  "consec_year": 1983.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jes\u00fas Humberto Vel\u00e1zquez Garay",
+  "to_key": "jesus humberto velazquez garay",
+  "role": "principal_consecrator",
+  "consec_year": 1983.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Luis Miguel Cant\u00f3n Mar\u00edn",
+  "to_key": "luis miguel canton marin",
+  "role": "principal_consecrator",
+  "consec_year": 1984.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Jos\u00e9 Ulises Mac\u00edas Salcedo",
+  "to_key": "jose ulises macias salcedo",
+  "role": "principal_consecrator",
+  "consec_year": 1984.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Raymundo L\u00f3pez Mateos",
+  "to_key": "raymundo lopez mateos",
+  "role": "principal_consecrator",
+  "consec_year": 1986.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Jos\u00e9 Trinidad Medel P\u00e9rez",
+  "to_key": "jose trinidad medel perez",
+  "role": "principal_consecrator",
+  "consec_year": 1986.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Ram\u00f3n Calder\u00f3n Batres",
+  "to_key": "ramon calderon batres",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Vicente Garc\u00eda Bernal",
+  "to_key": "vicente garcia bernal",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Carlos Su\u00e1rez C\u00e1zares",
+  "to_key": "carlos suarez cazares",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Benjam\u00edn Jim\u00e9nez Hern\u00e1ndez",
+  "to_key": "benjamin jimenez hernandez",
+  "role": "principal_consecrator",
+  "consec_year": 1989.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Luis Gabriel Cuara M\u00e9ndez",
+  "to_key": "luis gabriel cuara mendez",
+  "role": "principal_consecrator",
+  "consec_year": 1989.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Braulio Rafael Le\u00f3n Villegas",
+  "to_key": "braulio rafael leon villegas",
+  "role": "principal_consecrator",
+  "consec_year": 1990.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Antonio P\u00e9rez S\u00e1nchez",
+  "to_key": "jose antonio perez sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 1990.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Efr\u00e9n Ramos Salazar",
+  "to_key": "efren ramos salazar",
+  "role": "principal_consecrator",
+  "consec_year": 1990.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop L\u00e1zaro P\u00e9rez Jim\u00e9nez",
+  "to_key": "lazaro perez jimenez",
+  "role": "principal_consecrator",
+  "consec_year": 1991.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Archbishop Francisco Javier Chavolla Ramos",
+  "to_key": "francisco javier chavolla ramos",
+  "role": "principal_consecrator",
+  "consec_year": 1991.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Felipe Padilla Cardona",
+  "to_key": "felipe padilla cardona",
+  "role": "principal_consecrator",
+  "consec_year": 1992.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Alejo Zavala Castro",
+  "to_key": "alejo zavala castro",
+  "role": "principal_consecrator",
+  "consec_year": 1992.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Salvador Flores Huerta",
+  "to_key": "salvador flores huerta",
+  "role": "principal_consecrator",
+  "consec_year": 1993.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Luis Dibildox Mart\u00ednez",
+  "to_key": "jose luis dibildox martinez",
+  "role": "principal_consecrator",
+  "consec_year": 1994.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Octavio Villegas Aguilar",
+  "to_key": "octavio villegas aguilar",
+  "role": "principal_consecrator",
+  "consec_year": 1994.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Salvador Mart\u00ednez P\u00e9rez",
+  "to_key": "salvador martinez perez",
+  "role": "principal_consecrator",
+  "consec_year": 1994.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Galv\u00e1n Galindo",
+  "to_key": "jose guadalupe galvan galindo",
+  "role": "principal_consecrator",
+  "consec_year": 1994.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Luis Amezcua Melgoza",
+  "to_key": "jose luis amezcua melgoza",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop On\u00e9simo Cepeda Silva",
+  "to_key": "onesimo cepeda silva",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Antonio Gonz\u00e1lez S\u00e1nchez",
+  "to_key": "antonio gonzalez sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Juan Guillermo L\u00f3pez Soto",
+  "to_key": "juan guillermo lopez soto",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Girolamo Prigione",
+  "from_key": "girolamo prigione",
+  "to_name": "Bishop Jos\u00e9 Trinidad Gonz\u00e1lez Rodr\u00edguez",
+  "to_key": "jose trinidad gonzalez rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "to_key": "miguel angel alba diaz",
+  "role": "principal_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Eduardo Porfirio Pati\u00f1o Leal",
+  "to_key": "eduardo porfirio patino leal",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Archbishop Gustavo Rodriguez Vega",
+  "to_key": "gustavo rodriguez vega",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Roberto Octavio Balmori Cinta",
+  "to_key": "roberto octavio balmori cinta",
+  "role": "principal_consecrator",
+  "consec_year": 2002.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Alonso Gerardo Garza Trevi\u00f1o",
+  "to_key": "alonso gerardo garza trevino",
+  "role": "principal_consecrator",
+  "consec_year": 2003.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Alfonso Humberto Robles Cota",
+  "to_key": "alfonso humberto robles cota",
+  "role": "co_consecrator",
+  "consec_year": 1981.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Raymundo L\u00f3pez Mateos",
+  "to_key": "raymundo lopez mateos",
+  "role": "co_consecrator",
+  "consec_year": 1986.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Ram\u00f3n Calder\u00f3n Batres",
+  "to_key": "ramon calderon batres",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Jos\u00e9 Andr\u00e9s Corral Arredondo",
+  "to_key": "jose andres corral arredondo",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Archbishop Francisco Javier Chavolla Ramos",
+  "to_key": "francisco javier chavolla ramos",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Galv\u00e1n Galindo",
+  "to_key": "jose guadalupe galvan galindo",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Adolfo Antonio Su\u00e1rez Rivera",
+  "from_key": "adolfo antonio suarez rivera",
+  "to_name": "Bishop Antonio Gonz\u00e1lez S\u00e1nchez",
+  "to_key": "antonio gonzalez sanchez",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Luis Artemio Flores Calzada",
+  "to_key": "luis artemio flores calzada",
+  "role": "principal_consecrator",
+  "consec_year": 2003.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Guillermo Francisco Escobar Galicia",
+  "to_key": "guillermo francisco escobar galicia",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Efra\u00edn Mendoza Cruz",
+  "to_key": "efrain mendoza cruz",
+  "role": "principal_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Jorge Cuapio Bautista",
+  "to_key": "jorge cuapio bautista",
+  "role": "principal_consecrator",
+  "consec_year": 2015.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Salvador Gonz\u00e1lez Morales",
+  "to_key": "salvador gonzalez morales",
+  "role": "principal_consecrator",
+  "consec_year": 2019.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Carlos Enrique Samaniego L\u00f3pez",
+  "to_key": "carlos enrique samaniego lopez",
+  "role": "principal_consecrator",
+  "consec_year": 2019.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Francisco Daniel Rivera S\u00e1nchez",
+  "to_key": "francisco daniel rivera sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop H\u00e9ctor Mario P\u00e9rez Villarreal",
+  "to_key": "hector mario perez villarreal",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Luis Manuel P\u00e9rez Raygoza",
+  "to_key": "luis manuel perez raygoza",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Andr\u00e9s Luis Garc\u00eda Jasso",
+  "to_key": "andres luis garcia jasso",
+  "role": "principal_consecrator",
+  "consec_year": 2021.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Francisco Javier Acero P\u00e9rez",
+  "to_key": "francisco javier acero perez",
+  "role": "principal_consecrator",
+  "consec_year": 2022.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Sigifredo Noriega Barcel\u00f3",
+  "to_key": "sigifredo noriega barcelo",
+  "role": "co_consecrator",
+  "consec_year": 2007.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Juan Humberto Guti\u00e9rrez Valencia",
+  "to_key": "juan humberto gutierrez valencia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Archbishop Jos\u00e9 Francisco Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose francisco gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Florencio Armando Col\u00edn Cruz",
+  "to_key": "florencio armando colin cruz",
+  "role": "co_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Jes\u00fas Antonio Lerma Nolasco",
+  "to_key": "jesus antonio lerma nolasco",
+  "role": "co_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Dagoberto Sosa Arriaga",
+  "to_key": "dagoberto sosa arriaga",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Eugenio Andr\u00e9s Lira Rugarc\u00eda",
+  "to_key": "eugenio andres lira rugarcia",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Carlos Cardinal Aguiar Retes",
+  "from_key": "carlos aguiar retes",
+  "to_name": "Bishop Francisco Gonz\u00e1lez Ramos",
+  "to_key": "francisco gonzalez ramos",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Juan Jes\u00fas Posadas Ocampo",
+  "from_key": "juan jesus posadas ocampo",
+  "to_name": "Bishop Jos\u00e9 Antonio P\u00e9rez S\u00e1nchez",
+  "to_key": "jose antonio perez sanchez",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Mart\u00ednez Zepeda",
+  "to_key": "jose de jesus martinez zepeda",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Felipe Tejeda Garc\u00eda",
+  "to_key": "felipe tejeda garcia",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jos\u00e9 Luis Fletes Santana",
+  "to_key": "jose luis fletes santana",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Guillermo Rodrigo Teodoro Ortiz Mondrag\u00f3n",
+  "to_key": "guillermo rodrigo teodoro ortiz mondragon",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Francisco Clavel Gil",
+  "to_key": "francisco clavel gil",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Rogelio Esquivel Medina",
+  "to_key": "rogelio esquivel medina",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jon\u00e1s Guerrero Corona",
+  "to_key": "jonas guerrero corona",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Antonio Ortega Franco",
+  "to_key": "antonio ortega franco",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Carlos Brise\u00f1o Arch",
+  "to_key": "carlos briseno arch",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Archbishop Oscar Roberto Dom\u00ednguez Couttolenc",
+  "to_key": "oscar roberto dominguez couttolenc",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Florencio Armando Col\u00edn Cruz",
+  "to_key": "florencio armando colin cruz",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jes\u00fas Antonio Lerma Nolasco",
+  "to_key": "jesus antonio lerma nolasco",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Andr\u00e9s Vargas Pe\u00f1a",
+  "to_key": "andres vargas pena",
+  "role": "principal_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Adolfo Miguel Casta\u00f1o Fonseca",
+  "to_key": "adolfo miguel castano fonseca",
+  "role": "principal_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Crispin Ojeda M\u00e1rquez",
+  "to_key": "crispin ojeda marquez",
+  "role": "principal_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jorge Estrada Sol\u00f3rzano",
+  "to_key": "jorge estrada solorzano",
+  "role": "principal_consecrator",
+  "consec_year": 2013.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Jos\u00e9 Andr\u00e9s Corral Arredondo",
+  "to_key": "jose andres corral arredondo",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Rafael Sandoval Sandoval",
+  "to_key": "rafael sandoval sandoval",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Archbishop Ra\u00fal G\u00f3mez Gonz\u00e1lez",
+  "to_key": "raul gomez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Juan Odil\u00f3n Mart\u00ednez Garc\u00eda",
+  "to_key": "juan odilon martinez garcia",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Dagoberto Sosa Arriaga",
+  "to_key": "dagoberto sosa arriaga",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Eugenio Andr\u00e9s Lira Rugarc\u00eda",
+  "to_key": "eugenio andres lira rugarcia",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Efra\u00edn Mendoza Cruz",
+  "to_key": "efrain mendoza cruz",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Tom\u00e1s L\u00f3pez Dur\u00e1n",
+  "to_key": "tomas lopez duran",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Rutilo Felipe Pozos Lorenzini",
+  "to_key": "rutilo felipe pozos lorenzini",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Norberto Rivera Carrera",
+  "from_key": "norberto rivera carrera",
+  "to_name": "Bishop Francisco Javier Mart\u00ednez Castillo",
+  "to_key": "francisco javier martinez castillo",
+  "role": "co_consecrator",
+  "consec_year": 2024.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Jos\u00e9 Miguel \u00c1ngel Giles V\u00e1zquez",
+  "to_key": "jose miguel angel giles vazquez",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Alfonso Cort\u00e9s Contreras",
+  "to_key": "alfonso cortes contreras",
+  "role": "principal_consecrator",
+  "consec_year": 2005.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Ruy Rend\u00f3n Leal",
+  "to_key": "ruy rendon leal",
+  "role": "principal_consecrator",
+  "consec_year": 2005.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Jorge Alberto Cavazos Arizpe",
+  "to_key": "jorge alberto cavazos arizpe",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Juan Odil\u00f3n Mart\u00ednez Garc\u00eda",
+  "to_key": "juan odilon martinez garcia",
+  "role": "principal_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Juan Manuel Mu\u00f1oz Curiel",
+  "to_key": "juan manuel munoz curiel",
+  "role": "principal_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop H\u00e9ctor L\u00f3pez Alvarado",
+  "to_key": "hector lopez alvarado",
+  "role": "principal_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Engelberto Polino S\u00e1nchez",
+  "to_key": "engelberto polino sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Manuel Gonz\u00e1lez Villase\u00f1or",
+  "to_key": "manuel gonzalez villasenor",
+  "role": "principal_consecrator",
+  "consec_year": 2021.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Eduardo Mu\u00f1oz Ochoa",
+  "to_key": "eduardo munoz ochoa",
+  "role": "principal_consecrator",
+  "consec_year": 2021.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Ram\u00f3n Salazar Estrada",
+  "to_key": "ramon salazar estrada",
+  "role": "principal_consecrator",
+  "consec_year": 2021.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop L\u00e1zaro P\u00e9rez Jim\u00e9nez",
+  "to_key": "lazaro perez jimenez",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Ra\u00fal G\u00f3mez Gonz\u00e1lez",
+  "to_key": "raul gomez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Juan Armando P\u00e9rez Talamantes",
+  "to_key": "juan armando perez talamantes",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Alfonso Gerardo Miranda Guardiola",
+  "to_key": "alfonso gerardo miranda guardiola",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Heriberto Cavazos P\u00e9rez",
+  "to_key": "heriberto cavazos perez",
+  "role": "co_consecrator",
+  "consec_year": 2017.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Oscar Efra\u00edn Tamez Villarreal",
+  "to_key": "oscar efrain tamez villarreal",
+  "role": "co_consecrator",
+  "consec_year": 2017.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Archbishop Javier Herrera Corona",
+  "to_key": "javier herrera corona",
+  "role": "co_consecrator",
+  "consec_year": 2022.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Andr\u00e9s S\u00e1inz M\u00e1rquez",
+  "to_key": "andres sainz marquez",
+  "role": "co_consecrator",
+  "consec_year": 2025.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Francisco Robles Ortega",
+  "from_key": "jose francisco robles ortega",
+  "to_name": "Bishop Jos\u00e9 Eugenio Ramos Delgado",
+  "to_key": "jose eugenio ramos delgado",
+  "role": "co_consecrator",
+  "consec_year": 2026.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 Trinidad Gonz\u00e1lez Rodr\u00edguez",
+  "to_key": "jose trinidad gonzalez rodriguez",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Alberto Campos Hern\u00e1ndez",
+  "to_key": "alberto campos hernandez",
+  "role": "principal_consecrator",
+  "consec_year": 1998.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 Benjam\u00edn Castillo Plascencia",
+  "to_key": "jose benjamin castillo plascencia",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Miguel Romano G\u00f3mez",
+  "to_key": "miguel romano gomez",
+  "role": "principal_consecrator",
+  "consec_year": 2000.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Rafael Francisco Mart\u00ednez S\u00e1inz",
+  "to_key": "rafael francisco martinez sainz",
+  "role": "principal_consecrator",
+  "consec_year": 2002.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda de la Torre Mart\u00edn",
+  "to_key": "jose maria de la torre martin",
+  "role": "principal_consecrator",
+  "consec_year": 2002.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 Refugio Mercado D\u00edaz",
+  "to_key": "jose refugio mercado diaz",
+  "role": "principal_consecrator",
+  "consec_year": 2003.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Gonzalo Galv\u00e1n Castillo",
+  "to_key": "gonzalo galvan castillo",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose leopoldo gonzalez gonzalez",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Juan Humberto Guti\u00e9rrez Valencia",
+  "to_key": "juan humberto gutierrez valencia",
+  "role": "principal_consecrator",
+  "consec_year": 2008.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Archbishop Jos\u00e9 Francisco Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose francisco gonzalez gonzalez",
+  "role": "principal_consecrator",
+  "consec_year": 2008.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Felipe Salazar Villagrana",
+  "to_key": "felipe salazar villagrana",
+  "role": "principal_consecrator",
+  "consec_year": 2008.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Gonz\u00e1lez Hern\u00e1ndez",
+  "to_key": "jose de jesus gonzalez hernandez",
+  "role": "principal_consecrator",
+  "consec_year": 2010.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Archbishop Pedro V\u00e1zquez Villalobos",
+  "to_key": "pedro vazquez villalobos",
+  "role": "principal_consecrator",
+  "consec_year": 2013.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Tom\u00e1s L\u00f3pez Dur\u00e1n",
+  "to_key": "tomas lopez duran",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Rutilo Felipe Pozos Lorenzini",
+  "to_key": "rutilo felipe pozos lorenzini",
+  "role": "co_consecrator",
+  "consec_year": 2014.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Juan Manuel Mu\u00f1oz Curiel",
+  "to_key": "juan manuel munoz curiel",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop H\u00e9ctor L\u00f3pez Alvarado",
+  "to_key": "hector lopez alvarado",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Juan Cardinal Sandoval \u00cd\u00f1iguez",
+  "from_key": "juan sandoval iniguez",
+  "to_name": "Bishop Engelberto Polino S\u00e1nchez",
+  "to_key": "engelberto polino sanchez",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "focal_scrape"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Bishop Lorenzo C\u00e1rdenas Aregull\u00edn",
+  "to_key": "lorenzo cardenas aregullin",
+  "role": "principal_consecrator",
+  "consec_year": 1978.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "from_key": "miguel dario miranda y gomez",
+  "to_name": "Bishop Francisco Maria Aguilera Gonz\u00e1lez",
+  "to_key": "francisco maria aguilera gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Esa\u00fal Robles Jim\u00e9nez",
+  "from_key": "jose esaul robles jimenez",
+  "to_name": "Bishop Francisco Maria Aguilera Gonz\u00e1lez",
+  "to_key": "francisco maria aguilera gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Miguel Dar\u00edo Miranda y G\u00f3mez",
+  "from_key": "miguel dario miranda y gomez",
+  "to_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "to_key": "javier lozano barragan",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Esa\u00fal Robles Jim\u00e9nez",
+  "from_key": "jose esaul robles jimenez",
+  "to_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "to_key": "javier lozano barragan",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "from_key": "javier lozano barragan",
+  "to_name": "Archbishop Jes\u00fas Carlos Cabrero Romero",
+  "to_key": "jesus carlos cabrero romero",
+  "role": "principal_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Alfredo Torres Romero",
+  "from_key": "alfredo torres romero",
+  "to_name": "Bishop Carlos Talavera Ram\u00edrez",
+  "to_key": "carlos talavera ramirez",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Francisco Maria Aguilera Gonz\u00e1lez",
+  "from_key": "francisco maria aguilera gonzalez",
+  "to_name": "Bishop Carlos Talavera Ram\u00edrez",
+  "to_key": "carlos talavera ramirez",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Maclovio V\u00e1squez Silos",
+  "from_key": "jose maclovio vasquez silos",
+  "to_name": "Archbishop Luis Robles D\u00edaz",
+  "to_key": "luis robles diaz",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Fern\u00e1ndez Arteaga",
+  "from_key": "jose fernandez arteaga",
+  "to_name": "Archbishop Luis Robles D\u00edaz",
+  "to_key": "luis robles diaz",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Robles D\u00edaz",
+  "from_key": "luis robles diaz",
+  "to_name": "Bishop Macram Max Gassis",
+  "to_key": "macram max gassis",
+  "role": "principal_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Robles D\u00edaz",
+  "from_key": "luis robles diaz",
+  "to_name": "Bishop Deogratias Muganwa Byabazaire",
+  "to_key": "deogratias muganwa byabazaire",
+  "role": "principal_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Jorge Mart\u00ednez Mart\u00ednez",
+  "from_key": "jorge martinez martinez",
+  "to_name": "Bishop Abelardo Alvarado Alc\u00e1ntara",
+  "to_key": "abelardo alvarado alcantara",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Francisco Maria Aguilera Gonz\u00e1lez",
+  "from_key": "francisco maria aguilera gonzalez",
+  "to_name": "Bishop Abelardo Alvarado Alc\u00e1ntara",
+  "to_key": "abelardo alvarado alcantara",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Ch\u00e1vez y Gonz\u00e1lez",
+  "from_key": "luis chavez y gonzalez",
+  "to_name": "Archbishop St. Oscar Arnulfo Romero y Galdamez",
+  "to_key": "st oscar arnulfo romero y galdamez",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Arturo Rivera Damas",
+  "from_key": "arturo rivera damas",
+  "to_name": "Archbishop St. Oscar Arnulfo Romero y Galdamez",
+  "to_key": "st oscar arnulfo romero y galdamez",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Hugo Mark Gerbermann",
+  "from_key": "hugo mark gerbermann",
+  "to_name": "Archbishop Victor Hugo Mart\u00ednez Contreras",
+  "to_key": "victor hugo martinez contreras",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Ramiro Pellecer Samayoa",
+  "from_key": "jose ramiro pellecer samayoa",
+  "to_name": "Archbishop Victor Hugo Mart\u00ednez Contreras",
+  "to_key": "victor hugo martinez contreras",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Victor Hugo Mart\u00ednez Contreras",
+  "from_key": "victor hugo martinez contreras",
+  "to_name": "Bishop Pablo Vizcaino Prado",
+  "to_key": "pablo vizcaino prado",
+  "role": "principal_consecrator",
+  "consec_year": 1997.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Rafael Gonz\u00e1lez Estrada",
+  "from_key": "rafael gonzalez estrada",
+  "to_name": "Mister Jos\u00e9 Julio Aguilar Garc\u00eda",
+  "to_key": "mister jose julio aguilar garcia",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Pr\u00f3spero Penados del Barrio",
+  "from_key": "prospero penados del barrio",
+  "to_name": "Mister Jos\u00e9 Julio Aguilar Garc\u00eda",
+  "to_key": "mister jose julio aguilar garcia",
+  "role": "co_consecrator",
+  "consec_year": 1970.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Costantino Cristiano Luna Pianegonda",
+  "from_key": "costantino cristiano luna pianegonda",
+  "to_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "to_key": "rodolfo quezada toruno",
+  "role": "co_consecrator",
+  "consec_year": 1972.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Ramiro Pellecer Samayoa",
+  "from_key": "jose ramiro pellecer samayoa",
+  "to_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "to_key": "rodolfo quezada toruno",
+  "role": "co_consecrator",
+  "consec_year": 1972.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "from_key": "rodolfo quezada toruno",
+  "to_name": "Bishop Jos\u00e9 An\u00edbal Casasola Sosa",
+  "to_key": "jose anibal casasola sosa",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "from_key": "rodolfo quezada toruno",
+  "to_name": "Bishop Gustavo Rodolfo Mendoza Hern\u00e1ndez",
+  "to_key": "gustavo rodolfo mendoza hernandez",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "from_key": "rodolfo quezada toruno",
+  "to_name": "Archbishop Gonzalo de Villa y V\u00e1squez",
+  "to_key": "gonzalo de villa y vasquez",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "from_key": "rodolfo quezada toruno",
+  "to_name": "Bishop Bernab\u00e9 de Jes\u00fas Sagastume Lemus",
+  "to_key": "bernabe de jesus sagastume lemus",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Rodolfo Cardinal Quezada Toru\u00f1o",
+  "from_key": "rodolfo quezada toruno",
+  "to_name": "Bishop Mario Fiandri",
+  "to_key": "mario fiandri",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Ch\u00e1vez y Gonz\u00e1lez",
+  "from_key": "luis chavez y gonzalez",
+  "to_name": "Bishop Marco Ren\u00e9 Revelo Contreras",
+  "to_key": "marco rene revelo contreras",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Benjamin Barrera y Reyes",
+  "from_key": "benjamin barrera y reyes",
+  "to_name": "Bishop Marco Ren\u00e9 Revelo Contreras",
+  "to_key": "marco rene revelo contreras",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop William Richard Field",
+  "from_key": "william richard field",
+  "to_name": "Bishop Francis Folorunsho Clement Alonge",
+  "to_key": "francis folorunsho clement alonge",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Patrick Ebosele Ekpu",
+  "from_key": "patrick ebosele ekpu",
+  "to_name": "Bishop Francis Folorunsho Clement Alonge",
+  "to_key": "francis folorunsho clement alonge",
+  "role": "co_consecrator",
+  "consec_year": 1973.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Francis Folorunsho Clement Alonge",
+  "from_key": "francis folorunsho clement alonge",
+  "to_name": "Bishop Jude Ayodeji Arogundade",
+  "to_key": "jude ayodeji arogundade",
+  "role": "principal_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Francis Arinze",
+  "from_key": "francis arinze",
+  "to_name": "Bishop Michael Nnachi Okoro",
+  "to_key": "michael nnachi okoro",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Thomas McGettrick",
+  "from_key": "thomas mcgettrick",
+  "to_name": "Bishop Michael Nnachi Okoro",
+  "to_key": "michael nnachi okoro",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Francis Arinze",
+  "from_key": "francis arinze",
+  "to_name": "Archbishop Albert Kanene Obiefuna",
+  "to_key": "albert kanene obiefuna",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Mark Onwuha Unegbu",
+  "from_key": "mark onwuha unegbu",
+  "to_name": "Archbishop Albert Kanene Obiefuna",
+  "to_key": "albert kanene obiefuna",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Francis Arinze",
+  "from_key": "francis arinze",
+  "to_name": "Bishop Michael Ugwu Eneja",
+  "to_key": "michael ugwu eneja",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Anthony Gogo Nwedo",
+  "from_key": "anthony gogo nwedo",
+  "to_name": "Bishop Michael Ugwu Eneja",
+  "to_key": "michael ugwu eneja",
+  "role": "co_consecrator",
+  "consec_year": 1977.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 de Jes\u00fas Tirado Pedraza",
+  "from_key": "jose de jesus tirado pedraza",
+  "to_name": "Bishop Luis Reynoso Cervantes",
+  "to_key": "luis reynoso cervantes",
+  "role": "co_consecrator",
+  "consec_year": null,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Bartolom\u00e9 Carrasco Brise\u00f1o",
+  "from_key": "bartolome carrasco briseno",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Castillo Renter\u00eda , M.N.M.",
+  "to_key": "jose de jesus castillo renteria m n m",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Hilario Ch\u00e1vez Joya",
+  "from_key": "hilario chavez joya",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Castillo Renter\u00eda , M.N.M.",
+  "to_key": "jose de jesus castillo renteria m n m",
+  "role": "co_consecrator",
+  "consec_year": 1979.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 de Jes\u00fas Tirado Pedraza",
+  "from_key": "jose de jesus tirado pedraza",
+  "to_name": "Bishop Juvencio Gonz\u00e1lez Alvarez",
+  "to_key": "juvencio gonzalez alvarez",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Bishop Juvencio Gonz\u00e1lez Alvarez",
+  "to_key": "juvencio gonzalez alvarez",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Seraf\u00edn V\u00e1squez Elizalde",
+  "from_key": "serafin vasquez elizalde",
+  "to_name": "Bishop Jos\u00e9 Lizares Estrada",
+  "to_key": "jose lizares estrada",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Manuel Samaniego Barriga",
+  "from_key": "manuel samaniego barriga",
+  "to_name": "Bishop Jos\u00e9 Lizares Estrada",
+  "to_key": "jose lizares estrada",
+  "role": "co_consecrator",
+  "consec_year": 1980.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Rojas Mena",
+  "from_key": "luis rojas mena",
+  "to_name": "Bishop Alfonso Humberto Robles Cota",
+  "to_key": "alfonso humberto robles cota",
+  "role": "co_consecrator",
+  "consec_year": 1981.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Fern\u00e1ndez Arteaga",
+  "from_key": "jose fernandez arteaga",
+  "to_name": "Bishop Miguel Pati\u00f1o Vel\u00e1zquez , M. S. F.",
+  "to_key": "miguel patino velazquez m s f",
+  "role": "co_consecrator",
+  "consec_year": 1981.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Victorino Alvarez Tena",
+  "from_key": "victorino alvarez tena",
+  "to_name": "Bishop Miguel Pati\u00f1o Vel\u00e1zquez , M. S. F.",
+  "to_key": "miguel patino velazquez m s f",
+  "role": "co_consecrator",
+  "consec_year": 1981.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Anselmo Zarza Bernal",
+  "from_key": "anselmo zarza bernal",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Aguilera Rodriguez",
+  "to_key": "jose de jesus aguilera rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 L\u00f3pez Lara",
+  "from_key": "jose lopez lara",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Aguilera Rodriguez",
+  "to_key": "jose de jesus aguilera rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Antonio L\u00f3pez Avi\u00f1a",
+  "from_key": "antonio lopez avina",
+  "to_name": "Bishop Manuel Mireles Vaquera",
+  "to_key": "manuel mireles vaquera",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Rojas Mena",
+  "from_key": "luis rojas mena",
+  "to_name": "Bishop Manuel Mireles Vaquera",
+  "to_key": "manuel mireles vaquera",
+  "role": "co_consecrator",
+  "consec_year": 1982.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rafael Bello Ruiz",
+  "from_key": "rafael bello ruiz",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda Hern\u00e1ndez Gonz\u00e1lez",
+  "to_key": "jose maria hernandez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Victorino Alvarez Tena",
+  "from_key": "victorino alvarez tena",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda Hern\u00e1ndez Gonz\u00e1lez",
+  "to_key": "jose maria hernandez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Rojas Mena",
+  "from_key": "luis rojas mena",
+  "to_name": "Bishop Jes\u00fas Humberto Vel\u00e1zquez Garay",
+  "to_key": "jesus humberto velazquez garay",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Alfonso Humberto Robles Cota",
+  "from_key": "alfonso humberto robles cota",
+  "to_name": "Bishop Jes\u00fas Humberto Vel\u00e1zquez Garay",
+  "to_key": "jesus humberto velazquez garay",
+  "role": "co_consecrator",
+  "consec_year": 1983.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Jos\u00e9 Rafael Palma Capetillo",
+  "to_key": "jose rafael palma capetillo",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Archbishop Fabio Mart\u00ednez Castilla",
+  "to_key": "fabio martinez castilla",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "from_key": "mario de gasperin gasperin",
+  "to_name": "Archbishop Domingo D\u00edaz Mart\u00ednez",
+  "to_key": "domingo diaz martinez",
+  "role": "principal_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Manuel Castro Ruiz",
+  "from_key": "manuel castro ruiz",
+  "to_name": "Bishop Luis Miguel Cant\u00f3n Mar\u00edn",
+  "to_key": "luis miguel canton marin",
+  "role": "co_consecrator",
+  "consec_year": 1984.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Bartolom\u00e9 Carrasco Brise\u00f1o",
+  "from_key": "bartolome carrasco briseno",
+  "to_name": "Bishop Luis Miguel Cant\u00f3n Mar\u00edn",
+  "to_key": "luis miguel canton marin",
+  "role": "co_consecrator",
+  "consec_year": 1984.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00e9rez-Gil y Gonz\u00e1lez",
+  "from_key": "manuel perez gil y gonzalez",
+  "to_name": "Archbishop Jos\u00e9 Ulises Mac\u00edas Salcedo",
+  "to_key": "jose ulises macias salcedo",
+  "role": "co_consecrator",
+  "consec_year": 1984.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Anselmo Zarza Bernal",
+  "from_key": "anselmo zarza bernal",
+  "to_name": "Archbishop Jos\u00e9 Ulises Mac\u00edas Salcedo",
+  "to_key": "jose ulises macias salcedo",
+  "role": "co_consecrator",
+  "consec_year": 1984.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Ulises Mac\u00edas Salcedo",
+  "from_key": "jose ulises macias salcedo",
+  "to_name": "Bishop Teodoro Enrique Pino Miranda",
+  "to_key": "teodoro enrique pino miranda",
+  "role": "principal_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Archbishop Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "leopoldo gonzalez gonzalez",
+  "role": "principal_consecrator",
+  "consec_year": 1999.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Archbishop Francisco Moreno Barr\u00f3n",
+  "to_key": "francisco moreno barron",
+  "role": "principal_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Salvador Rangel Mendoza",
+  "to_key": "salvador rangel mendoza",
+  "role": "principal_consecrator",
+  "consec_year": 2009.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Juan Espinoza Jim\u00e9nez",
+  "to_key": "juan espinoza jimenez",
+  "role": "principal_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop V\u00edctor Alejandro Aguilar Ledesma",
+  "to_key": "victor alejandro aguilar ledesma",
+  "role": "principal_consecrator",
+  "consec_year": 2016.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Herculano Medina Garfias",
+  "to_key": "herculano medina garfias",
+  "role": "principal_consecrator",
+  "consec_year": 2016.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Salvador Cleof\u00e1s Murgu\u00eda Villalobos",
+  "to_key": "salvador cleofas murguia villalobos",
+  "role": "principal_consecrator",
+  "consec_year": 2018.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Joel Ocampo Gorostieta",
+  "to_key": "joel ocampo gorostieta",
+  "role": "principal_consecrator",
+  "consec_year": 2019.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Alfonso de Jes\u00fas Hinojosa Berrones",
+  "from_key": "alfonso de jesus hinojosa berrones",
+  "to_name": "Bishop Raymundo L\u00f3pez Mateos , O.F.M.",
+  "to_key": "raymundo lopez mateos o f m",
+  "role": "co_consecrator",
+  "consec_year": 1985.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Archbishop Jos\u00e9 Trinidad Medel P\u00e9rez",
+  "to_key": "jose trinidad medel perez",
+  "role": "co_consecrator",
+  "consec_year": 1986.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Ricardo Gu\u00edzar D\u00edaz",
+  "from_key": "ricardo guizar diaz",
+  "to_name": "Archbishop Jos\u00e9 Trinidad Medel P\u00e9rez",
+  "to_key": "jose trinidad medel perez",
+  "role": "co_consecrator",
+  "consec_year": 1986.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Rafael Gallardo Garc\u00eda",
+  "from_key": "rafael gallardo garcia",
+  "to_name": "Bishop Ram\u00f3n Calder\u00f3n Batres",
+  "to_key": "ramon calderon batres",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Reynoso Cervantes",
+  "from_key": "luis reynoso cervantes",
+  "to_name": "Bishop Vicente Garc\u00eda Bernal",
+  "to_key": "vicente garcia bernal",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Javier Lozano Barrag\u00e1n",
+  "from_key": "javier lozano barragan",
+  "to_name": "Bishop Vicente Garc\u00eda Bernal",
+  "to_key": "vicente garcia bernal",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "from_key": "hector gonzalez martinez",
+  "to_name": "Bishop Carlos Su\u00e1rez C\u00e1zares",
+  "to_key": "carlos suarez cazares",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Manuel Castro Ruiz",
+  "from_key": "manuel castro ruiz",
+  "to_name": "Bishop Carlos Su\u00e1rez C\u00e1zares",
+  "to_key": "carlos suarez cazares",
+  "role": "co_consecrator",
+  "consec_year": 1988.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Renato Ascencio Le\u00f3n",
+  "from_key": "renato ascencio leon",
+  "to_name": "Bishop Gerardo de Jes\u00fas Rojas L\u00f3pez",
+  "to_key": "gerardo de jesus rojas lopez",
+  "role": "principal_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Rojas Mena",
+  "from_key": "luis rojas mena",
+  "to_name": "Bishop Benjam\u00edn Jim\u00e9nez Hern\u00e1ndez",
+  "to_key": "benjamin jimenez hernandez",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Benjam\u00edn Jim\u00e9nez Hern\u00e1ndez",
+  "to_key": "benjamin jimenez hernandez",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Benjam\u00edn Jim\u00e9nez Hern\u00e1ndez",
+  "from_key": "benjamin jimenez hernandez",
+  "to_name": "Bishop Emigdio Duarte Figueroa",
+  "to_key": "emigdio duarte figueroa",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Mario de Gasper\u00edn Gasper\u00edn",
+  "from_key": "mario de gasperin gasperin",
+  "to_name": "Bishop Luis Gabriel Cuara M\u00e9ndez",
+  "to_key": "luis gabriel cuara mendez",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Luis Gabriel Cuara M\u00e9ndez",
+  "to_key": "luis gabriel cuara mendez",
+  "role": "co_consecrator",
+  "consec_year": 1989.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Anselmo Zarza Bernal",
+  "from_key": "anselmo zarza bernal",
+  "to_name": "Bishop Braulio Rafael Le\u00f3n Villegas",
+  "to_key": "braulio rafael leon villegas",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Gilberto Valbuena S\u00e1nchez",
+  "from_key": "gilberto valbuena sanchez",
+  "to_name": "Bishop Braulio Rafael Le\u00f3n Villegas",
+  "to_key": "braulio rafael leon villegas",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Manuel Romero Arvizu",
+  "from_key": "manuel romero arvizu",
+  "to_name": "Bishop Jos\u00e9 Antonio P\u00e9rez S\u00e1nchez , O.F.M.",
+  "to_key": "jose antonio perez sanchez o f m",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Bishop Efr\u00e9n Ramos Salazar",
+  "to_key": "efren ramos salazar",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Mar\u00eda Hern\u00e1ndez Gonz\u00e1lez",
+  "from_key": "jose maria hernandez gonzalez",
+  "to_name": "Bishop Efr\u00e9n Ramos Salazar",
+  "to_key": "efren ramos salazar",
+  "role": "co_consecrator",
+  "consec_year": 1990.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Manuel Castro Ruiz",
+  "from_key": "manuel castro ruiz",
+  "to_name": "Bishop L\u00e1zaro P\u00e9rez Jim\u00e9nez",
+  "to_key": "lazaro perez jimenez",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Archbishop Francisco Javier Chavolla Ramos",
+  "to_key": "francisco javier chavolla ramos",
+  "role": "co_consecrator",
+  "consec_year": 1991.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Bishop Felipe Padilla Cardona",
+  "to_key": "felipe padilla cardona",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Anselmo Zarza Bernal",
+  "from_key": "anselmo zarza bernal",
+  "to_name": "Bishop Felipe Padilla Cardona",
+  "to_key": "felipe padilla cardona",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rafael Bello Ruiz",
+  "from_key": "rafael bello ruiz",
+  "to_name": "Bishop Alejo Zavala Castro",
+  "to_key": "alejo zavala castro",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Efr\u00e9n Ramos Salazar",
+  "from_key": "efren ramos salazar",
+  "to_name": "Bishop Alejo Zavala Castro",
+  "to_key": "alejo zavala castro",
+  "role": "co_consecrator",
+  "consec_year": 1992.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Sahag\u00fan de la Parra",
+  "from_key": "jose de jesus sahagun de la parra",
+  "to_name": "Bishop Salvador Flores Huerta",
+  "to_key": "salvador flores huerta",
+  "role": "co_consecrator",
+  "consec_year": 1993.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Salvador Flores Huerta",
+  "to_key": "salvador flores huerta",
+  "role": "co_consecrator",
+  "consec_year": 1993.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Fern\u00e1ndez Arteaga",
+  "from_key": "jose fernandez arteaga",
+  "to_name": "Bishop Jos\u00e9 Luis Dibildox Mart\u00ednez",
+  "to_key": "jose luis dibildox martinez",
+  "role": "co_consecrator",
+  "consec_year": 1993.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Arturo Antonio Szymanski Ram\u00edrez",
+  "from_key": "arturo antonio szymanski ramirez",
+  "to_name": "Bishop Jos\u00e9 Luis Dibildox Mart\u00ednez",
+  "to_key": "jose luis dibildox martinez",
+  "role": "co_consecrator",
+  "consec_year": 1993.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Alberto Su\u00e1rez Inda",
+  "from_key": "alberto suarez inda",
+  "to_name": "Bishop Octavio Villegas Aguilar",
+  "to_key": "octavio villegas aguilar",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Sahag\u00fan de la Parra",
+  "from_key": "jose de jesus sahagun de la parra",
+  "to_name": "Bishop Octavio Villegas Aguilar",
+  "to_key": "octavio villegas aguilar",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Octavio Villegas Aguilar",
+  "from_key": "octavio villegas aguilar",
+  "to_name": "Archbishop Jos\u00e9 Antonio Fern\u00e1ndez Hurtado",
+  "to_key": "jose antonio fernandez hurtado",
+  "role": "principal_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Bishop Salvador Mart\u00ednez P\u00e9rez",
+  "to_key": "salvador martinez perez",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Ricardo Gu\u00edzar D\u00edaz",
+  "from_key": "ricardo guizar diaz",
+  "to_name": "Bishop Salvador Mart\u00ednez P\u00e9rez",
+  "to_key": "salvador martinez perez",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Juvencio Gonz\u00e1lez Alvarez",
+  "from_key": "juvencio gonzalez alvarez",
+  "to_name": "Bishop Jos\u00e9 Guadalupe Galv\u00e1n Galindo",
+  "to_key": "jose guadalupe galvan galindo",
+  "role": "co_consecrator",
+  "consec_year": 1994.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Jos\u00e9 Luis Amezcua Melgoza",
+  "to_key": "jose luis amezcua melgoza",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Carlos Su\u00e1rez C\u00e1zares",
+  "from_key": "carlos suarez cazares",
+  "to_name": "Bishop Jos\u00e9 Luis Amezcua Melgoza",
+  "to_key": "jose luis amezcua melgoza",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Manuel P\u00e9rez-Gil y Gonz\u00e1lez",
+  "from_key": "manuel perez gil y gonzalez",
+  "to_name": "Bishop On\u00e9simo Cepeda Silva",
+  "to_key": "onesimo cepeda silva",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Luis Reynoso Cervantes",
+  "from_key": "luis reynoso cervantes",
+  "to_name": "Bishop On\u00e9simo Cepeda Silva",
+  "to_key": "onesimo cepeda silva",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Emilio Carlos Berlie Belaunzar\u00e1n",
+  "from_key": "emilio carlos berlie belaunzaran",
+  "to_name": "Bishop Antonio Gonz\u00e1lez S\u00e1nchez",
+  "to_key": "antonio gonzalez sanchez",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Fern\u00e1ndez Arteaga",
+  "from_key": "jose fernandez arteaga",
+  "to_name": "Bishop Juan Guillermo L\u00f3pez Soto",
+  "to_key": "juan guillermo lopez soto",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Renato Ascencio Le\u00f3n",
+  "from_key": "renato ascencio leon",
+  "to_name": "Bishop Juan Guillermo L\u00f3pez Soto",
+  "to_key": "juan guillermo lopez soto",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "from_key": "rafael romo munoz",
+  "to_name": "Bishop Sigifredo Noriega Barcel\u00f3",
+  "to_key": "sigifredo noriega barcelo",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rafael Romo Mu\u00f1oz",
+  "from_key": "rafael romo munoz",
+  "to_name": "Bishop Juan Mar\u00eda Huerta Muro",
+  "to_key": "juan maria huerta muro",
+  "role": "principal_consecrator",
+  "consec_year": 2012.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Jos\u00e9 Luis Mendoza Corzo",
+  "to_key": "jose luis mendoza corzo",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Juan Armando P\u00e9rez Talamantes",
+  "to_key": "juan armando perez talamantes",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Alfonso Gerardo Miranda Guardiola",
+  "to_key": "alfonso gerardo miranda guardiola",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Heriberto Cavazos P\u00e9rez",
+  "to_key": "heriberto cavazos perez",
+  "role": "principal_consecrator",
+  "consec_year": 2017.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Oscar Efra\u00edn Tamez Villarreal",
+  "to_key": "oscar efrain tamez villarreal",
+  "role": "principal_consecrator",
+  "consec_year": 2017.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Roberto Yenny Garc\u00eda",
+  "to_key": "roberto yenny garcia",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop C\u00e9sar Garza Miranda",
+  "to_key": "cesar garza miranda",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Juan Carlos Arcq Guzm\u00e1n",
+  "to_key": "juan carlos arcq guzman",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Jos\u00e9 Manuel Garza Madero",
+  "to_key": "jose manuel garza madero",
+  "role": "principal_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop C\u00e9sar Alfonso Ortega D\u00edaz",
+  "to_key": "cesar alfonso ortega diaz",
+  "role": "principal_consecrator",
+  "consec_year": 2022.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Carlos Alberto Santos Garc\u00eda",
+  "to_key": "carlos alberto santos garcia",
+  "role": "principal_consecrator",
+  "consec_year": 2023.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Jos\u00e9 Eugenio Ramos Delgado",
+  "to_key": "jose eugenio ramos delgado",
+  "role": "principal_consecrator",
+  "consec_year": 2026.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "from_key": "hector gonzalez martinez",
+  "to_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "to_key": "miguel angel alba diaz",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Sergio Obeso Rivera",
+  "from_key": "sergio obeso rivera",
+  "to_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "to_key": "miguel angel alba diaz",
+  "role": "co_consecrator",
+  "consec_year": 1995.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "from_key": "miguel angel alba diaz",
+  "to_name": "Bishop Miguel \u00c1ngel Espinoza Garza",
+  "to_key": "miguel angel espinoza garza",
+  "role": "principal_consecrator",
+  "consec_year": 2023.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Sergio Obeso Rivera",
+  "from_key": "sergio obeso rivera",
+  "to_name": "Bishop Eduardo Porfirio Pati\u00f1o Leal",
+  "to_key": "eduardo porfirio patino leal",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Leonardo Sandri",
+  "from_key": "leonardo sandri",
+  "to_name": "Bishop Eduardo Porfirio Pati\u00f1o Leal",
+  "to_key": "eduardo porfirio patino leal",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Archbishop Gustavo Rodriguez Vega",
+  "to_key": "gustavo rodriguez vega",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "from_key": "miguel angel alba diaz",
+  "to_name": "Archbishop Gustavo Rodriguez Vega",
+  "to_key": "gustavo rodriguez vega",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Gustavo Rodriguez Vega",
+  "from_key": "gustavo rodriguez vega",
+  "to_name": "Bishop Pedro Sergio de Jes\u00fas Mena D\u00edaz",
+  "to_key": "pedro sergio de jesus mena diaz",
+  "role": "principal_consecrator",
+  "consec_year": 2017.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Gustavo Rodriguez Vega",
+  "from_key": "gustavo rodriguez vega",
+  "to_name": "Bishop Mario Medina Balam",
+  "to_key": "mario medina balam",
+  "role": "principal_consecrator",
+  "consec_year": 2023.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Gustavo Rodriguez Vega",
+  "from_key": "gustavo rodriguez vega",
+  "to_name": "Bishop V\u00edctor Carab\u00e9s Ch\u00e1vez",
+  "to_key": "victor carabes chavez",
+  "role": "principal_consecrator",
+  "consec_year": 2024.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Roberto Octavio Balmori Cinta , M.J.",
+  "to_key": "roberto octavio balmori cinta m j",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Hermenegildo Ram\u00edrez S\u00e1nchez",
+  "from_key": "hermenegildo ramirez sanchez",
+  "to_name": "Bishop Roberto Octavio Balmori Cinta , M.J.",
+  "to_key": "roberto octavio balmori cinta m j",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Alonso Gerardo Garza Trevi\u00f1o",
+  "to_key": "alonso gerardo garza trevino",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Ra\u00fal Vera L\u00f3pez",
+  "from_key": "jose raul vera lopez",
+  "to_name": "Bishop Alonso Gerardo Garza Trevi\u00f1o",
+  "to_key": "alonso gerardo garza trevino",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Luis Artemio Flores Calzada",
+  "to_key": "luis artemio flores calzada",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Carlos Garfias Merlos",
+  "from_key": "carlos garfias merlos",
+  "to_name": "Bishop Luis Artemio Flores Calzada",
+  "to_key": "luis artemio flores calzada",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Guillermo Francisco Escobar Galicia",
+  "to_key": "guillermo francisco escobar galicia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "\u00d3scar Andr\u00e9s Cardinal Rodr\u00edguez Maradiaga",
+  "from_key": "oscar andres rodriguez maradiaga",
+  "to_name": "Bishop Guillermo Francisco Escobar Galicia",
+  "to_key": "guillermo francisco escobar galicia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Efra\u00edn Mendoza Cruz",
+  "to_key": "efrain mendoza cruz",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Jorge Cuapio Bautista",
+  "to_key": "jorge cuapio bautista",
+  "role": "co_consecrator",
+  "consec_year": 2015.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Juan Manuel Mancilla S\u00e1nchez",
+  "from_key": "juan manuel mancilla sanchez",
+  "to_name": "Bishop Jorge Cuapio Bautista",
+  "to_key": "jorge cuapio bautista",
+  "role": "co_consecrator",
+  "consec_year": 2015.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Salvador Gonz\u00e1lez Morales",
+  "to_key": "salvador gonzalez morales",
+  "role": "co_consecrator",
+  "consec_year": 2019.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Andr\u00e9s Vargas Pe\u00f1a",
+  "from_key": "andres vargas pena",
+  "to_name": "Bishop Salvador Gonz\u00e1lez Morales",
+  "to_key": "salvador gonzalez morales",
+  "role": "co_consecrator",
+  "consec_year": 2019.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Carlos Enrique Samaniego L\u00f3pez",
+  "to_key": "carlos enrique samaniego lopez",
+  "role": "co_consecrator",
+  "consec_year": 2019.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Andr\u00e9s Vargas Pe\u00f1a",
+  "from_key": "andres vargas pena",
+  "to_name": "Bishop Carlos Enrique Samaniego L\u00f3pez",
+  "to_key": "carlos enrique samaniego lopez",
+  "role": "co_consecrator",
+  "consec_year": 2019.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Francisco Daniel Rivera S\u00e1nchez , M.Sp.S.",
+  "to_key": "francisco daniel rivera sanchez m sp s",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Francisco Daniel Rivera S\u00e1nchez , M.Sp.S.",
+  "to_key": "francisco daniel rivera sanchez m sp s",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop H\u00e9ctor Mario P\u00e9rez Villarreal",
+  "to_key": "hector mario perez villarreal",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop H\u00e9ctor Mario P\u00e9rez Villarreal",
+  "to_key": "hector mario perez villarreal",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Luis Manuel P\u00e9rez Raygoza",
+  "to_key": "luis manuel perez raygoza",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rogelio Cabrera L\u00f3pez",
+  "from_key": "rogelio cabrera lopez",
+  "to_name": "Bishop Luis Manuel P\u00e9rez Raygoza",
+  "to_key": "luis manuel perez raygoza",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Andr\u00e9s Luis Garc\u00eda Jasso",
+  "to_key": "andres luis garcia jasso",
+  "role": "co_consecrator",
+  "consec_year": 2021.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Juan Manuel Mancilla S\u00e1nchez",
+  "from_key": "juan manuel mancilla sanchez",
+  "to_name": "Bishop Andr\u00e9s Luis Garc\u00eda Jasso",
+  "to_key": "andres luis garcia jasso",
+  "role": "co_consecrator",
+  "consec_year": 2021.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Carlos Brise\u00f1o Arch",
+  "from_key": "carlos briseno arch",
+  "to_name": "Bishop Francisco Javier Acero P\u00e9rez , O.A.R.",
+  "to_key": "francisco javier acero perez o a r",
+  "role": "co_consecrator",
+  "consec_year": 2022.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Joseph Spiteri",
+  "from_key": "joseph spiteri",
+  "to_name": "Bishop Francisco Javier Acero P\u00e9rez , O.A.R.",
+  "to_key": "francisco javier acero perez o a r",
+  "role": "co_consecrator",
+  "consec_year": 2022.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Juan Frausto Pallares",
+  "to_key": "juan frausto pallares",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Armando Ant\u00f3nio Ort\u00edz Aguirre",
+  "to_key": "armando antonio ortiz aguirre",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Mario Espinosa Contreras",
+  "from_key": "mario espinosa contreras",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Mart\u00ednez Zepeda",
+  "to_key": "jose de jesus martinez zepeda",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 de Jes\u00fas Mart\u00ednez Zepeda",
+  "from_key": "jose de jesus martinez zepeda",
+  "to_name": "Bishop Francisco Gonz\u00e1lez Ramos",
+  "to_key": "francisco gonzalez ramos",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Felipe Tejeda Garc\u00eda , M.Sp.S.",
+  "to_key": "felipe tejeda garcia m sp s",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Ricardo Manuel Watty Urquidi",
+  "from_key": "ricardo manuel watty urquidi",
+  "to_name": "Bishop Felipe Tejeda Garc\u00eda , M.Sp.S.",
+  "to_key": "felipe tejeda garcia m sp s",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Jos\u00e9 Luis Fletes Santana",
+  "to_key": "jose luis fletes santana",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Ricardo Manuel Watty Urquidi",
+  "from_key": "ricardo manuel watty urquidi",
+  "to_name": "Bishop Jos\u00e9 Luis Fletes Santana",
+  "to_key": "jose luis fletes santana",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Guillermo Rodrigo Teodoro Ortiz Mondrag\u00f3n",
+  "to_key": "guillermo rodrigo teodoro ortiz mondragon",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Ricardo Manuel Watty Urquidi",
+  "from_key": "ricardo manuel watty urquidi",
+  "to_name": "Bishop Guillermo Rodrigo Teodoro Ortiz Mondrag\u00f3n",
+  "to_key": "guillermo rodrigo teodoro ortiz mondragon",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Francisco Clavel Gil",
+  "to_key": "francisco clavel gil",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop On\u00e9simo Cepeda Silva",
+  "from_key": "onesimo cepeda silva",
+  "to_name": "Bishop Francisco Clavel Gil",
+  "to_key": "francisco clavel gil",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Rogelio Esquivel Medina",
+  "to_key": "rogelio esquivel medina",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop On\u00e9simo Cepeda Silva",
+  "from_key": "onesimo cepeda silva",
+  "to_name": "Bishop Rogelio Esquivel Medina",
+  "to_key": "rogelio esquivel medina",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jon\u00e1s Guerrero Corona",
+  "to_key": "jonas guerrero corona",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop On\u00e9simo Cepeda Silva",
+  "from_key": "onesimo cepeda silva",
+  "to_name": "Bishop Jon\u00e1s Guerrero Corona",
+  "to_key": "jonas guerrero corona",
+  "role": "co_consecrator",
+  "consec_year": 2001.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Bishop Antonio Ortega Franco , C.O.",
+  "to_key": "antonio ortega franco c o",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Antonio Ortega Franco , C.O.",
+  "to_key": "antonio ortega franco c o",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Dagoberto Sosa Arriaga",
+  "to_key": "dagoberto sosa arriaga",
+  "role": "principal_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Eugenio Andr\u00e9s Lira Rugarc\u00eda",
+  "to_key": "eugenio andres lira rugarcia",
+  "role": "principal_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Tom\u00e1s L\u00f3pez Dur\u00e1n",
+  "to_key": "tomas lopez duran",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Rutilo Felipe Pozos Lorenzini",
+  "to_key": "rutilo felipe pozos lorenzini",
+  "role": "principal_consecrator",
+  "consec_year": 2014.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Miguel \u00c1ngel Castro Mu\u00f1oz",
+  "to_key": "miguel angel castro munoz",
+  "role": "principal_consecrator",
+  "consec_year": 2021.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 V\u00edctor Manuel Valent\u00edn S\u00e1nchez Espinosa",
+  "from_key": "jose victor manuel valentin sanchez espinosa",
+  "to_name": "Bishop Francisco Javier Mart\u00ednez Castillo",
+  "to_key": "francisco javier martinez castillo",
+  "role": "principal_consecrator",
+  "consec_year": 2024.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Francisco Clavel Gil",
+  "from_key": "francisco clavel gil",
+  "to_name": "Bishop Carlos Brise\u00f1o Arch , O.A.R.",
+  "to_key": "carlos briseno arch o a r",
+  "role": "co_consecrator",
+  "consec_year": 2006.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Angel San Casimiro Fern\u00e1ndez",
+  "from_key": "angel san casimiro fernandez",
+  "to_name": "Bishop Carlos Brise\u00f1o Arch , O.A.R.",
+  "to_key": "carlos briseno arch o a r",
+  "role": "co_consecrator",
+  "consec_year": 2006.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Rosendo Huesca Pacheco",
+  "from_key": "rosendo huesca pacheco",
+  "to_name": "Archbishop Oscar Roberto Dom\u00ednguez Couttolenc , M.G.",
+  "to_key": "oscar roberto dominguez couttolenc m g",
+  "role": "co_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Alejo Zavala Castro",
+  "from_key": "alejo zavala castro",
+  "to_name": "Archbishop Oscar Roberto Dom\u00ednguez Couttolenc , M.G.",
+  "to_key": "oscar roberto dominguez couttolenc m g",
+  "role": "co_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Florencio Armando Col\u00edn Cruz",
+  "to_key": "florencio armando colin cruz",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Jes\u00fas Antonio Lerma Nolasco",
+  "to_key": "jesus antonio lerma nolasco",
+  "role": "co_consecrator",
+  "consec_year": 2009.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Andr\u00e9s Vargas Pe\u00f1a",
+  "to_key": "andres vargas pena",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Morales Reyes",
+  "from_key": "luis morales reyes",
+  "to_name": "Bishop Andr\u00e9s Vargas Pe\u00f1a",
+  "to_key": "andres vargas pena",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Adolfo Miguel Casta\u00f1o Fonseca",
+  "to_key": "adolfo miguel castano fonseca",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Luis Morales Reyes",
+  "from_key": "luis morales reyes",
+  "to_name": "Bishop Adolfo Miguel Casta\u00f1o Fonseca",
+  "to_key": "adolfo miguel castano fonseca",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Crispin Ojeda M\u00e1rquez",
+  "to_key": "crispin ojeda marquez",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Luis Amezcua Melgoza",
+  "from_key": "jose luis amezcua melgoza",
+  "to_name": "Bishop Crispin Ojeda M\u00e1rquez",
+  "to_key": "crispin ojeda marquez",
+  "role": "co_consecrator",
+  "consec_year": 2011.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Jorge Estrada Sol\u00f3rzano",
+  "to_key": "jorge estrada solorzano",
+  "role": "co_consecrator",
+  "consec_year": 2013.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Francisco Clavel Gil",
+  "from_key": "francisco clavel gil",
+  "to_name": "Bishop Jorge Estrada Sol\u00f3rzano",
+  "to_key": "jorge estrada solorzano",
+  "role": "co_consecrator",
+  "consec_year": 2013.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Marcelino Hern\u00e1ndez Rodr\u00edguez",
+  "from_key": "marcelino hernandez rodriguez",
+  "to_name": "Bishop Jorge Estrada Sol\u00f3rzano",
+  "to_key": "jorge estrada solorzano",
+  "role": "co_consecrator",
+  "consec_year": 2013.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Jorge Estrada Sol\u00f3rzano",
+  "to_key": "jorge estrada solorzano",
+  "role": "co_consecrator",
+  "consec_year": 2013.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jos\u00e9 Miguel \u00c1ngel Giles V\u00e1zquez",
+  "to_key": "jose miguel angel giles vazquez",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Felipe Aguirre Franco",
+  "from_key": "felipe aguirre franco",
+  "to_name": "Bishop Jos\u00e9 Miguel \u00c1ngel Giles V\u00e1zquez",
+  "to_key": "jose miguel angel giles vazquez",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Archbishop Alfonso Cort\u00e9s Contreras",
+  "to_key": "alfonso cortes contreras",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Archbishop Alfonso Cort\u00e9s Contreras",
+  "to_key": "alfonso cortes contreras",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop H\u00e9ctor Gonz\u00e1lez Mart\u00ednez",
+  "from_key": "hector gonzalez martinez",
+  "to_name": "Archbishop Ruy Rend\u00f3n Leal",
+  "to_key": "ruy rendon leal",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Manuel Mireles Vaquera",
+  "from_key": "manuel mireles vaquera",
+  "to_name": "Archbishop Ruy Rend\u00f3n Leal",
+  "to_key": "ruy rendon leal",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Ruy Rend\u00f3n Leal",
+  "from_key": "ruy rendon leal",
+  "to_name": "Bishop Jos\u00e9 Luis Cerra Luna",
+  "to_key": "jose luis cerra luna",
+  "role": "principal_consecrator",
+  "consec_year": 2025.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Archbishop Jorge Alberto Cavazos Arizpe",
+  "to_key": "jorge alberto cavazos arizpe",
+  "role": "co_consecrator",
+  "consec_year": 2009.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Miguel Angel Alba D\u00edaz",
+  "from_key": "miguel angel alba diaz",
+  "to_name": "Archbishop Jorge Alberto Cavazos Arizpe",
+  "to_key": "jorge alberto cavazos arizpe",
+  "role": "co_consecrator",
+  "consec_year": 2009.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Juan Odil\u00f3n Mart\u00ednez Garc\u00eda",
+  "to_key": "juan odilon martinez garcia",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Juan Manuel Mu\u00f1oz Curiel , O.F.M.",
+  "to_key": "juan manuel munoz curiel o f m",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop H\u00e9ctor L\u00f3pez Alvarado",
+  "to_key": "hector lopez alvarado",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Engelberto Polino S\u00e1nchez",
+  "to_key": "engelberto polino sanchez",
+  "role": "co_consecrator",
+  "consec_year": 2018.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Manuel Gonz\u00e1lez Villase\u00f1or",
+  "to_key": "manuel gonzalez villasenor",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "from_key": "jose leopoldo gonzalez gonzalez",
+  "to_name": "Bishop Manuel Gonz\u00e1lez Villase\u00f1or",
+  "to_key": "manuel gonzalez villasenor",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Eduardo Mu\u00f1oz Ochoa",
+  "to_key": "eduardo munoz ochoa",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "from_key": "jose leopoldo gonzalez gonzalez",
+  "to_name": "Bishop Eduardo Mu\u00f1oz Ochoa",
+  "to_key": "eduardo munoz ochoa",
+  "role": "co_consecrator",
+  "consec_year": 2020.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Franco Coppola",
+  "from_key": "franco coppola",
+  "to_name": "Bishop Ram\u00f3n Salazar Estrada",
+  "to_key": "ramon salazar estrada",
+  "role": "co_consecrator",
+  "consec_year": 2021.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Ram\u00f3n Salazar Estrada",
+  "to_key": "ramon salazar estrada",
+  "role": "co_consecrator",
+  "consec_year": 2021.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Bishop H\u00e9ctor Luis Morales S\u00e1nchez",
+  "to_key": "hector luis morales sanchez",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Bishop \u00d3scar Armando Campos Contreras",
+  "to_key": "oscar armando campos contreras",
+  "role": "principal_consecrator",
+  "consec_year": 2006.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Bishop H\u00e9ctor Guerrero C\u00f3rdova",
+  "to_key": "hector guerrero cordova",
+  "role": "principal_consecrator",
+  "consec_year": 2007.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Bishop Gonzalo Alonso Calzada Guerrero",
+  "to_key": "gonzalo alonso calzada guerrero",
+  "role": "principal_consecrator",
+  "consec_year": 2013.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Bishop Adolfo Hern\u00e1ndez Hurtado",
+  "from_key": "adolfo hernandez hurtado",
+  "to_name": "Bishop Jos\u00e9 Trinidad Gonz\u00e1lez Rodr\u00edguez",
+  "to_key": "jose trinidad gonzalez rodriguez",
+  "role": "co_consecrator",
+  "consec_year": 1997.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Manuel Romero Arvizu",
+  "from_key": "manuel romero arvizu",
+  "to_name": "Bishop Alberto Campos Hern\u00e1ndez , O.F.M.",
+  "to_key": "alberto campos hernandez o f m",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Lorenzo Rodolfo (Laurent-Rodolphe) Guibord L\u00e9vesque",
+  "from_key": "lorenzo rodolfo laurent rodolphe guibord levesque",
+  "to_name": "Bishop Alberto Campos Hern\u00e1ndez , O.F.M.",
+  "to_key": "alberto campos hernandez o f m",
+  "role": "co_consecrator",
+  "consec_year": 1998.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Justo Mullor Garc\u00eda",
+  "from_key": "justo mullor garcia",
+  "to_name": "Bishop Jos\u00e9 Benjam\u00edn Castillo Plascencia",
+  "to_key": "jose benjamin castillo plascencia",
+  "role": "co_consecrator",
+  "consec_year": 1999.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Jos\u00e9 Benjam\u00edn Castillo Plascencia",
+  "to_key": "jose benjamin castillo plascencia",
+  "role": "co_consecrator",
+  "consec_year": 1999.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Miguel Romano G\u00f3mez",
+  "to_key": "miguel romano gomez",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jacinto Guerrero Torres",
+  "from_key": "jacinto guerrero torres",
+  "to_name": "Bishop Miguel Romano G\u00f3mez",
+  "to_key": "miguel romano gomez",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Miguel Romano G\u00f3mez",
+  "to_key": "miguel romano gomez",
+  "role": "co_consecrator",
+  "consec_year": 2000.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Rafael Francisco Mart\u00ednez S\u00e1inz",
+  "to_key": "rafael francisco martinez sainz",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Rafael Francisco Mart\u00ednez S\u00e1inz",
+  "to_key": "rafael francisco martinez sainz",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda de la Torre Mart\u00edn",
+  "to_key": "jose maria de la torre martin",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Jos\u00e9 Mar\u00eda de la Torre Mart\u00edn",
+  "to_key": "jose maria de la torre martin",
+  "role": "co_consecrator",
+  "consec_year": 2002.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jos\u00e9 Refugio Mercado D\u00edaz",
+  "to_key": "jose refugio mercado diaz",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Felipe Padilla Cardona",
+  "from_key": "felipe padilla cardona",
+  "to_name": "Bishop Jos\u00e9 Refugio Mercado D\u00edaz",
+  "to_key": "jose refugio mercado diaz",
+  "role": "co_consecrator",
+  "consec_year": 2003.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Gonzalo Galv\u00e1n Castillo",
+  "to_key": "gonzalo galvan castillo",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop L\u00e1zaro P\u00e9rez Jim\u00e9nez",
+  "from_key": "lazaro perez jimenez",
+  "to_name": "Bishop Gonzalo Galv\u00e1n Castillo",
+  "to_key": "gonzalo galvan castillo",
+  "role": "co_consecrator",
+  "consec_year": 2004.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Giuseppe Bertello",
+  "from_key": "giuseppe bertello",
+  "to_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose leopoldo gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Guadalupe Mart\u00edn R\u00e1bago",
+  "from_key": "jose guadalupe martin rabago",
+  "to_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose leopoldo gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2005.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Leopoldo Gonz\u00e1lez Gonz\u00e1lez",
+  "from_key": "jose leopoldo gonzalez gonzalez",
+  "to_name": "Bishop Trinidad Antonio M\u00e1rquez Guerrero",
+  "to_key": "trinidad antonio marquez guerrero",
+  "role": "principal_consecrator",
+  "consec_year": 2026.0,
+  "source": "gen3_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Juan Humberto Guti\u00e9rrez Valencia",
+  "to_key": "juan humberto gutierrez valencia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Bishop Juan Humberto Guti\u00e9rrez Valencia",
+  "to_key": "juan humberto gutierrez valencia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Miguel Romano G\u00f3mez",
+  "from_key": "miguel romano gomez",
+  "to_name": "Bishop Juan Humberto Guti\u00e9rrez Valencia",
+  "to_key": "juan humberto gutierrez valencia",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Archbishop Jos\u00e9 Francisco Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose francisco gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Archbishop Jos\u00e9 Francisco Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose francisco gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Miguel Romano G\u00f3mez",
+  "from_key": "miguel romano gomez",
+  "to_name": "Archbishop Jos\u00e9 Francisco Gonz\u00e1lez Gonz\u00e1lez",
+  "to_key": "jose francisco gonzalez gonzalez",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Javier Navarro Rodr\u00edguez",
+  "from_key": "javier navarro rodriguez",
+  "to_name": "Bishop Felipe Salazar Villagrana",
+  "to_key": "felipe salazar villagrana",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Mar\u00eda de la Torre Mart\u00edn",
+  "from_key": "jose maria de la torre martin",
+  "to_name": "Bishop Felipe Salazar Villagrana",
+  "to_key": "felipe salazar villagrana",
+  "role": "co_consecrator",
+  "consec_year": 2008.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Christophe Louis Yves Georges Pierre",
+  "from_key": "christophe louis yves georges pierre",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Gonz\u00e1lez Hern\u00e1ndez , O.F.M.",
+  "to_key": "jose de jesus gonzalez hernandez o f m",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Jos\u00e9 Antonio P\u00e9rez S\u00e1nchez",
+  "from_key": "jose antonio perez sanchez",
+  "to_name": "Bishop Jos\u00e9 de Jes\u00fas Gonz\u00e1lez Hern\u00e1ndez , O.F.M.",
+  "to_key": "jose de jesus gonzalez hernandez o f m",
+  "role": "co_consecrator",
+  "consec_year": 2010.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Jos\u00e9 Luis Ch\u00e1vez Botello",
+  "from_key": "jose luis chavez botello",
+  "to_name": "Archbishop Pedro V\u00e1zquez Villalobos",
+  "to_key": "pedro vazquez villalobos",
+  "role": "co_consecrator",
+  "consec_year": 2012.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Bishop Felipe Salazar Villagrana",
+  "from_key": "felipe salazar villagrana",
+  "to_name": "Archbishop Pedro V\u00e1zquez Villalobos",
+  "to_key": "pedro vazquez villalobos",
+  "role": "co_consecrator",
+  "consec_year": 2012.0,
+  "source": "gen2_scrape"
+ },
+ {
+  "from_name": "Archbishop Pedro V\u00e1zquez Villalobos",
+  "from_key": "pedro vazquez villalobos",
+  "to_name": "Bishop Luis Alfonso Tut Tun",
+  "to_key": "luis alfonso tut tun",
+  "role": "principal_consecrator",
+  "consec_year": 2024.0,
+  "source": "gen3_scrape"
+ }
+]

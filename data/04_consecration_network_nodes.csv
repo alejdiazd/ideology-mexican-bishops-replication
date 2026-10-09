@@ -1,0 +1,382 @@
+﻿node_key,node,deceased,n_consecrated,n_principal_consecrations,n_consecrators,is_mexican,in_main_component,betweenness,pagerank,hits_hub,hits_authority,betweenness_main_component,pagerank_main_component,cluster
+girolamo prigione,Archbishop Girolamo Prigione,True,56,53,3,False,True,0.424388,0.007786,0.299291,0.0,0.465126,0.008133,Prigione
+norberto rivera carrera,Archbishop Norberto Rivera Carrera,False,30,18,3,True,True,0.122576,0.004643,0.013001,0.003883,0.134342,0.00485,Rivera Carrera
+juan sandoval iniguez,Juan Cardinal Sandoval Íñiguez,False,21,15,3,True,True,0.108835,0.007926,0.020123,0.014771,0.119282,0.00828,Sandoval
+giuseppe bertello,Archbishop Giuseppe Bertello,False,21,1,3,False,True,0.085391,0.005855,0.011574,-0.0,0.093587,0.006116,Other
+jose francisco robles ortega,Archbishop José Francisco Robles Ortega,False,21,12,3,True,True,0.082956,0.003986,0.011884,0.000527,0.090919,0.004164,Robles Ortega
+carlos aguiar retes,Carlos Cardinal Aguiar Retes,False,21,12,3,True,True,0.062411,0.003897,0.005431,0.002786,0.068402,0.00407,Aguiar
+adolfo antonio suarez rivera,Archbishop Adolfo Antonio Suárez Rivera,False,17,7,3,True,True,0.095469,0.010533,0.052072,0.0,0.104633,0.011003,Suárez Rivera
+ernesto corripio y ahumada,Ernesto Cardinal Corripio y Ahumada,True,15,7,3,True,True,0.086009,0.00516,0.007582,0.0,0.094265,0.00539,Corripio
+alberto suarez inda,Archbishop Alberto Suárez Inda,False,15,8,3,True,True,0.061857,0.002622,0.034008,0.014556,0.067795,0.002739,Prigione
+rogelio cabrera lopez,Archbishop Rogelio Cabrera López,False,15,12,3,True,True,0.060549,0.002639,0.001553,0.016114,0.066361,0.002757,Prigione
+christophe louis yves georges pierre,Archbishop Christophe Louis Yves Georges Pierre,False,15,1,3,False,True,0.029026,0.00551,0.005313,-0.0,0.031812,0.005755,Other
+javier navarro rodriguez,Bishop Javier Navarro Rodríguez,False,10,0,3,True,True,0.017131,0.003255,0.004731,0.001347,0.018776,0.0034,Posadas
+emilio carlos berlie belaunzaran,Archbishop Emilio Carlos Berlie Belaunzarán,False,9,3,3,True,True,0.030967,0.003743,0.031463,0.014771,0.03394,0.00391,Prigione
+jose guadalupe martin rabago,Archbishop José Guadalupe Martín Rábago,False,9,2,3,True,True,0.017511,0.003255,0.002617,0.001347,0.019192,0.0034,Posadas
+rosendo huesca pacheco,Archbishop Rosendo Huesca Pacheco,False,8,0,0,True,True,0.012599,0.001453,0.025022,-0.0,0.013809,0.001518,
+justo mullor garcia,Archbishop Justo Mullor García,True,7,3,3,False,True,0.037558,0.003924,0.002122,-0.0,0.041164,0.004099,Mullor
+jose luis chavez botello,Archbishop José Luis Chávez Botello,False,7,4,3,True,True,0.028661,0.002509,0.001537,0.015194,0.031413,0.002621,Sandoval
+franco coppola,Archbishop Franco Coppola,False,7,0,0,False,True,0.00343,0.001453,0.000856,-0.0,0.003759,0.001518,
+arturo antonio szymanski ramirez,Archbishop Arturo Antonio Szymanski Ramírez,True,6,2,3,False,True,0.023154,0.003723,0.012594,0.000604,0.025376,0.003889,Corripio
+jose victor manuel valentin sanchez espinosa,Archbishop José Víctor Manuel Valentín Sánchez Espinosa,False,6,6,3,False,True,0.010978,0.001976,0.002077,0.002283,0.012032,0.002064,Rivera Carrera
+juan jesus posadas ocampo,Archbishop Juan Jesús Posadas Ocampo,False,5,2,3,True,True,0.032971,0.00551,0.016411,0.0,0.036136,0.005755,Posadas
+rodolfo quezada toruno,Rodolfo Cardinal Quezada Toruño,True,5,5,3,False,True,0.032405,0.003425,-0.0,0.014478,0.035516,0.003577,Prigione
+manuel perez gil y gonzalez,Archbishop Manuel Pérez-Gil y González,False,5,0,0,False,True,0.00969,0.001453,0.011899,-0.0,0.01062,0.001518,
+anselmo zarza bernal,Bishop Anselmo Zarza Bernal,False,5,0,0,False,True,0.00051,0.001453,0.027229,-0.0,0.000559,0.001518,
+javier lozano barragan,Archbishop Javier Lozano Barragán,False,4,1,3,True,True,0.05213,0.003199,0.005488,0.000388,0.057134,0.003342,Corripio
+miguel dario miranda y gomez,Archbishop Miguel Darío Miranda y Gómez,False,4,1,3,True,True,0.040544,0.003935,0.000576,0.0,0.044436,0.00411,Other
+leopoldo ruiz y flores,Archbishop Leopoldo Ruiz y Flores,True,4,3,3,False,True,0.023771,0.003924,0.0,0.0,0.026053,0.004099,Other
+mario de gasperin gasperin,Bishop Mario de Gasperín Gasperín,False,4,1,3,True,True,0.022525,0.004329,0.016769,0.014384,0.024688,0.004522,Prigione
+sergio obeso rivera,Archbishop Sergio Obeso Rivera,False,4,1,3,True,True,0.018249,0.007166,0.00814,0.0,0.02,0.007485,Other
+bartolome carrasco briseno,Archbishop Bartolomé Carrasco Briseño,False,4,0,0,True,True,0.01541,0.001453,0.011618,-0.0,0.016889,0.001518,
+hector gonzalez martinez,Archbishop Héctor González Martínez,False,4,0,3,True,True,0.013298,0.004799,0.006796,0.001668,0.014575,0.005013,Other
+jose fernandez arteaga,Archbishop José Fernández Arteaga,False,4,0,0,True,True,0.008177,0.001453,0.010884,-0.0,0.008962,0.001518,
+luis morales reyes,Archbishop Luis Morales Reyes,False,4,0,0,False,True,0.006723,0.001453,0.011604,-0.0,0.007368,0.001518,
+ricardo guizar diaz,Archbishop Ricardo Guízar Díaz,False,4,0,0,True,True,0.00189,0.001453,0.01156,-0.0,0.002072,0.001518,
+luis rojas mena,Bishop Luis Rojas Mena,False,4,0,0,True,True,0.000903,0.001453,0.02237,-0.0,0.00099,0.001518,
+manuel castro ruiz,Archbishop Manuel Castro Ruiz,False,4,0,0,True,True,0.000783,0.001453,0.016371,-0.0,0.000858,0.001518,
+antonio lopez avina,Archbishop Antonio López Aviña,True,3,2,3,True,True,0.059743,0.00886,0.007261,0.0,0.065477,0.009256,Other
+jose garibi y rivera,Archbishop José Garibi y Rivera,False,3,2,3,True,True,0.034989,0.006919,0.0,-0.0,0.038348,0.007227,Other
+manuel martin del campo padilla,Archbishop Manuel Martín del Campo Padilla,True,3,2,3,False,True,0.030397,0.005596,0.0,-0.0,0.033314,0.005846,Other
+alfonso humberto robles cota,Bishop Alfonso Humberto Robles Cota,True,3,0,3,False,True,0.028176,0.002407,0.007466,0.017204,0.030881,0.002514,Prigione
+gustavo rodriguez vega,Archbishop Gustavo Rodriguez Vega,False,3,3,3,True,True,0.019936,0.003496,0.0,0.002993,0.02185,0.003652,Suárez Rivera
+alfredo torres romero,Bishop Alfredo Torres Romero,True,3,1,3,True,True,0.017918,0.002948,0.000451,0.000839,0.019638,0.00308,Other
+onesimo cepeda silva,Bishop Onésimo Cepeda Silva,True,3,0,3,False,True,0.017048,0.002873,0.001252,0.014798,0.018684,0.003001,Prigione
+miguel angel alba diaz,Bishop Miguel Angel Alba Díaz,True,3,1,3,True,True,0.014597,0.00452,0.001372,0.003084,0.015998,0.004721,Suárez Rivera
+jose leopoldo gonzalez gonzalez,Bishop José Leopoldo González González,False,3,1,3,True,True,0.012668,0.002318,0.000492,0.00158,0.013884,0.002421,Sandoval
+rafael romo munoz,Archbishop Rafael Romo Muñoz,False,3,2,3,True,True,0.011832,0.002234,0.000823,0.015759,0.012968,0.002333,Prigione
+renato ascencio leon,Bishop Renato Ascencio León,True,3,2,3,True,True,0.009899,0.002696,0.005468,0.015281,0.010849,0.002817,Prigione
+maximino ruiz y flores,Bishop Maximino Ruiz y Flores,False,3,0,0,False,True,0.004614,0.001453,0.0,-0.0,0.005057,0.001518,
+antonio samore,Archbishop Antonio Samorè,False,3,2,0,False,True,0.003152,0.001453,0.0,-0.0,0.003455,0.001518,Other
+victorino alvarez tena,Bishop Victorino Alvarez Tena,False,3,0,0,True,True,0.003022,0.001453,0.005749,-0.0,0.003312,0.001518,
+ricardo manuel watty urquidi,Bishop Ricardo Manuel Watty Urquidi,False,3,0,0,False,True,0.000751,0.001453,0.000549,-0.0,0.000823,0.001518,Corripio
+rafael bello ruiz,Archbishop Rafael Bello Ruiz,False,3,0,0,True,True,0.000191,0.001453,0.016005,-0.0,0.000209,0.001518,
+francis arinze,Archbishop Francis Arinze,False,3,0,0,False,True,8.3e-05,0.001453,0.015505,-0.0,9.1e-05,0.001518,
+luis reynoso cervantes,Bishop Luis Reynoso Cervantes,True,2,0,3,True,True,0.029265,0.002481,0.010282,0.014601,0.032075,0.002592,Prigione
+agostino casaroli,Archbishop Agostino Casaroli,False,2,1,3,False,True,0.022307,0.004542,-0.0,-0.0,0.024449,0.004744,Other
+jose de jesus martinez zepeda,Bishop José de Jesús Martínez Zepeda,False,2,1,3,True,True,0.021468,0.00425,0.000375,0.000963,0.023528,0.004439,Rivera Carrera
+luis maria altamirano y bulnes,Archbishop Luis María Altamirano y Bulnes,True,2,2,3,False,True,0.019554,0.003935,-0.0,0.0,0.021431,0.00411,Other
+luis robles diaz,Archbishop Luis Robles Díaz,True,2,2,3,False,True,0.016261,0.00329,0.0,0.000864,0.017822,0.003437,Corripio
+jose maria hernandez gonzalez,Bishop José María Hernández González,True,2,0,3,False,True,0.015557,0.002395,0.005513,0.014778,0.01705,0.002502,Prigione
+francisco clavel gil,Bishop Francisco Clavel Gil,False,2,0,3,False,True,0.01527,0.002635,0.000391,0.001189,0.016736,0.002753,Rivera Carrera
+raffaele carlo rossi,Archbishop Raffaele Carlo Rossi,False,2,1,0,False,True,0.014998,0.001453,0.0,-0.0,0.016438,0.001518,Other
+octaviano marquez y toriz,Archbishop Octaviano Márquez y Tóriz,True,2,2,3,False,True,0.013759,0.004361,0.0,-0.0,0.01508,0.004556,Other
+juan manuel mancilla sanchez,Bishop Juan Manuel Mancilla Sánchez,False,2,0,3,True,True,0.012741,0.002375,0.000284,0.001362,0.013964,0.002481,Corripio
+jose ulises macias salcedo,Archbishop José Ulises Macías Salcedo,True,2,1,3,False,True,0.008701,0.002066,0.00545,0.015578,0.009536,0.002158,Prigione
+miguel romano gomez,Bishop Miguel Romano Gómez,False,2,0,4,True,True,0.008299,0.003593,0.001082,0.001285,0.009095,0.003753,Sandoval
+estanislao alcaraz y figueroa,Archbishop Estanislao Alcaraz y Figueroa,False,2,0,1,True,True,0.007225,0.001746,0.00532,0.000349,0.007919,0.001823,
+andres vargas pena,Bishop Andrés Vargas Peña,False,2,0,3,False,True,0.006378,0.002206,0.00021,0.001377,0.006991,0.002304,Rivera Carrera
+st karol jozef wojty a,St. Karol Józef Wojty&#322;a,False,2,2,0,False,True,0.004999,0.001453,-0.0,-0.0,0.005479,0.001518,Other
+eduardo martinez somalo,Archbishop Eduardo Martínez Somalo,False,2,0,0,False,True,0.004999,0.001453,-0.0,-0.0,0.005479,0.001518,
+francisco maria aguilera gonzalez,Bishop Francisco Maria Aguilera González,True,2,0,3,False,True,0.004531,0.003199,0.000263,0.000388,0.004966,0.003342,Corripio
+luis guizar y barragan,Bishop Luis Guízar y Barragán,False,2,0,0,False,True,0.004424,0.001453,-0.0,-0.0,0.004849,0.001518,
+francisco javier nuno y guerrero,Archbishop Francisco Javier Nuño y Guerrero,False,2,0,0,True,True,0.002409,0.001453,0.0,-0.0,0.00264,0.001518,
+antonio guizar y valencia,Bishop Antonio Guízar y Valencia,False,2,0,0,False,True,0.002058,0.001453,-0.0,-0.0,0.002256,0.001518,
+serafin vasquez elizalde,Bishop Serafín Vásquez Elizalde,False,2,0,0,True,True,0.00198,0.001453,0.005278,-0.0,0.00217,0.001518,
+lucio torreblanca y tapia,Archbishop Lucio Torreblanca y Tapia,False,2,0,0,False,True,0.001089,0.001453,-0.0,-0.0,0.001194,0.001518,
+francisco raul villalobos padilla,Bishop Francisco Raúl Villalobos Padilla,False,2,0,0,False,True,0.00017,0.001453,0.000945,-0.0,0.000186,0.001518,
+jose ramiro pellecer samayoa,Bishop José Ramiro Pellecer Samayoa,False,2,0,0,False,True,0.000146,0.001453,0.010161,-0.0,0.00016,0.001518,
+jose esaul robles jimenez,Bishop José Esaúl Robles Jiménez,False,2,0,0,True,True,0.000138,0.001453,0.000272,-0.0,0.000152,0.001518,
+luis chavez y gonzalez,Archbishop Luis Chávez y González,False,2,0,0,False,True,2.8e-05,0.001453,0.010161,-0.0,3e-05,0.001518,
+manuel romero arvizu,Bishop Manuel Romero Arvizu,False,2,0,0,True,False,2.8e-05,0.001453,0.0,-0.0,,,
+adolfo hernandez hurtado,Bishop Adolfo Hernández Hurtado,False,2,0,0,False,True,2.3e-05,0.001453,0.010663,-0.0,2.5e-05,0.001518,
+jose de jesus sahagun de la parra,Bishop José de Jesús Sahagún de la Parra,False,2,0,0,False,True,9e-06,0.001453,0.011127,-0.0,1e-05,0.001518,
+jose de jesus tirado pedraza,Archbishop José de Jesús Tirado Pedraza,False,2,0,0,True,True,7e-06,0.001453,0.010328,-0.0,8e-06,0.001518,
+leonardo sandri,Archbishop Leonardo Sandri,False,2,0,0,False,True,5e-06,0.001453,0.00201,-0.0,5e-06,0.001518,
+st giovanni battista enrico antonio maria montini,St. Giovanni Battista Enrico Antonio Maria Montini,False,2,2,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,Other
+manuel pio lopez estrada,Archbishop Manuel Pío López Estrada,False,2,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+prospero maria alarcon y sanchez de la barquera,Archbishop Próspero María Alarcón y Sánchez de la Barquera,False,2,2,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,Other
+francisco plancarte y navarrete,Bishop Francisco Plancarte y Navarrete,False,2,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+alfonso espino y silva,Archbishop Alfonso Espino y Silva,False,2,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+amleto giovanni cicognani,Amleto Giovanni Cardinal Cicognani,True,1,1,3,False,True,0.029871,0.004542,0.0,0.0,0.032738,0.004744,Other
+manuel mireles vaquera,Bishop Manuel Mireles Vaquera,True,1,0,3,False,True,0.026191,0.004389,0.000307,0.015141,0.028705,0.004585,Prigione
+manuel talamas camandari,Bishop Manuel Talamás Camandari,True,1,1,3,True,True,0.021392,0.006375,0.005183,-0.0,0.023446,0.00666,Other
+felipe arizmendi esquivel,Felipe Cardinal Arizmendi Esquivel,False,1,1,3,True,True,0.019031,0.002407,0.000748,0.016709,0.020858,0.002514,Prigione
+francis folorunsho clement alonge,Bishop Francis Folorunsho Clement Alonge,False,1,1,3,False,True,0.01504,0.004042,0.0,0.014237,0.016483,0.004223,Prigione
+carlo martini,Archbishop Carlo Martini,True,1,1,3,False,True,0.014931,0.004336,0.0,0.0,0.016364,0.004529,Other
+samuel ruiz garcia,Bishop Samuel Ruiz García,True,1,0,3,True,True,0.014287,0.004892,0.0,0.0,0.015659,0.00511,Other
+victor hugo martinez contreras,Archbishop Victor Hugo Martínez Contreras,True,1,1,3,False,True,0.012491,0.003425,0.0,0.014478,0.01369,0.003577,Prigione
+felipe aguirre franco,Archbishop Felipe Aguirre Franco,False,1,0,3,True,True,0.012294,0.007758,0.000385,0.0,0.013474,0.008104,Other
+juan guillermo lopez soto,Bishop Juan Guillermo López Soto,True,1,0,3,False,True,0.012009,0.002644,0.000225,0.01453,0.013162,0.002762,Prigione
+jose maria gonzalez y valencia,Archbishop José María González y Valencia,True,1,1,3,False,True,0.011753,0.004542,0.0,-0.0,0.012881,0.004744,Other
+lazaro perez jimenez,Bishop Lázaro Pérez Jiménez,True,1,0,3,True,True,0.011545,0.002042,0.000373,0.015077,0.012653,0.002133,Prigione
+luigi raimondi,Archbishop Luigi Raimondi,False,1,1,3,False,True,0.01123,0.004336,-0.0,0.0,0.012308,0.004529,Other
+luis maria martinez y rodriguez,Archbishop Luis María Martínez y Rodríguez,True,1,1,3,False,True,0.010328,0.004758,1e-05,0.0,0.011319,0.00497,Other
+carlos briseno arch,Bishop Carlos Briseño Arch,False,1,0,1,True,True,0.010026,0.001585,-0.0,0.000598,0.010989,0.001655,Rivera Carrera
+francisco javier chavolla ramos,Archbishop Francisco Javier Chavolla Ramos,False,1,0,3,False,True,0.009109,0.002451,0.000385,0.017622,0.009984,0.002561,Prigione
+manuel jeronimo yerena y camarena,Bishop Manuel Jerónimo Yerena y Camarena,True,1,1,3,False,True,0.008648,0.00506,0.000277,-0.0,0.009478,0.005286,Other
+jose antonio perez sanchez,Bishop José Antonio Pérez Sánchez,False,1,0,2,False,True,0.007682,0.002508,8.7e-05,0.014532,0.008419,0.00262,Prigione
+octavio villegas aguilar,Bishop Octavio Villegas Aguilar,False,1,1,3,False,True,0.007527,0.002338,0.0,0.015854,0.008249,0.002442,Prigione
+ruy rendon leal,Archbishop Ruy Rendón Leal,False,1,1,3,True,True,0.007099,0.006358,0.0,0.000874,0.00778,0.006642,Robles Ortega
+francisco orozco y jimenez,Archbishop Francisco Orozco y Jiménez,True,1,1,3,False,True,0.006788,0.003523,-0.0,0.0,0.00744,0.00368,Other
+jose trinidad medel perez,Archbishop José Trinidad Medel Pérez,True,1,0,3,False,True,0.006556,0.002035,0.000199,0.015461,0.007186,0.002125,Prigione
+benjamin jimenez hernandez,Bishop Benjamín Jiménez Hernández,True,1,1,3,False,True,0.005991,0.002234,0.0,0.016255,0.006566,0.002333,Prigione
+mario pio gaspari,Archbishop Mario Pio Gaspari,True,1,1,3,False,True,0.005609,0.005237,0.0,-0.0,0.006147,0.005471,Other
+marcelino hernandez rodriguez,Bishop Marcelino Hernández Rodríguez,False,1,0,3,True,True,0.00558,0.002182,0.000385,0.001743,0.006116,0.002279,Rivera Carrera
+juvencio gonzalez alvarez,Bishop Juvencio González Alvarez,True,1,0,3,False,True,0.005135,0.002717,0.005769,0.014832,0.005628,0.002838,Prigione
+pedro vazquez villalobos,Archbishop Pedro Vázquez Villalobos,False,1,1,3,True,True,0.005084,0.005472,-0.0,0.001013,0.005572,0.005715,Sandoval
+felipe padilla cardona,Bishop Felipe Padilla Cardona,False,1,0,3,True,True,0.004778,0.001973,0.00052,0.016182,0.005236,0.002061,Prigione
+carlos garfias merlos,Archbishop Carlos Garfias Merlos,False,1,0,3,True,True,0.004628,0.002132,0.000279,0.016079,0.005072,0.002227,Prigione
+jose maria de la torre martin,Bishop José María de la Torre Martín,True,1,0,3,False,True,0.004439,0.002287,0.000408,0.001677,0.004865,0.002389,Sandoval
+emilio abascal y salmeron,Archbishop Emilio Abascal y Salmerón,True,1,1,3,False,True,0.004343,0.004542,0.0,-0.0,0.00476,0.004744,Other
+jose luis amezcua melgoza,Bishop José Luis Amezcua Melgoza,False,1,0,3,False,True,0.004017,0.004388,0.000301,0.015475,0.004403,0.004583,Prigione
+alejo zavala castro,Bishop Alejo Zavala Castro,True,1,0,3,True,True,0.003916,0.004315,0.000411,0.014752,0.004292,0.004508,Prigione
+mario espinosa contreras,Bishop Mario Espinosa Contreras,False,1,0,3,True,True,0.00302,0.002793,0.000338,0.003339,0.00331,0.002917,Suárez Rivera
+carlos suarez cazares,Bishop Carlos Suárez Cázares,False,1,0,3,False,True,0.002886,0.002899,0.00543,0.014843,0.003163,0.003028,Prigione
+efren ramos salazar,Bishop Efrén Ramos Salazar,True,1,0,3,True,True,0.002479,0.002744,0.005177,0.015182,0.002717,0.002866,Prigione
+hermenegildo ramirez sanchez,Bishop Hermenegildo Ramírez Sánchez,False,1,0,1,False,True,0.001994,0.001746,0.00019,0.000349,0.002186,0.001823,
+angelo sodano,Angelo Cardinal Sodano,True,1,1,1,False,True,0.001815,0.001865,-0.0,-0.0,0.001989,0.001948,Other
+felipe salazar villagrana,Bishop Felipe Salazar Villagrana,False,1,0,3,False,True,0.000698,0.003994,0.000356,0.001163,0.000765,0.004172,Sandoval
+eugeniusz baziak,Archbishop Eugeniusz Baziak,True,1,1,3,False,False,0.000167,0.005159,-0.0,-0.0,,,Other
+jose gabriel anaya y diez de bonilla,Bishop José Gabriel Anaya y Diez de Bonilla,False,1,0,0,False,True,0.0,0.001453,1e-05,-0.0,0.0,0.001518,
+jose trinidad sepulveda ruiz velasco,Bishop José Trinidad Sepúlveda Ruiz-Velasco,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+jose de jesus clemens alba palacios,Bishop José de Jesús Clemens Alba Palacios,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+magin camerino torreblanca reyes,Bishop Magín Camerino Torreblanca Reyes,False,1,0,0,False,True,0.0,0.001453,0.000977,-0.0,0.0,0.001518,
+giovanni battista re,Archbishop Giovanni Battista Re,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+luis cabrera cruz,Bishop Luis Cabrera Cruz,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+jose de jesus madera uribe,Bishop José de Jesús Madera Uribe,False,1,0,0,False,True,0.0,0.001453,0.000132,-0.0,0.0,0.001518,
+jorge bernal vargas,Bishop Jorge Bernal Vargas,False,1,0,0,True,True,0.0,0.001453,0.000707,-0.0,0.0,0.001518,
+rafael garcia gonzalez,Bishop Rafael Garcia González,False,1,0,0,True,True,0.0,0.001453,0.005189,-0.0,0.0,0.001518,
+ignacio lehonor arroyo,Bishop Ignacio Lehonor Arroyo,False,1,0,0,False,True,0.0,0.001453,0.005047,-0.0,0.0,0.001518,
+rafael munoz nunez,Bishop Rafael Muñoz Núñez,False,1,0,0,True,True,0.0,0.001453,0.000125,-0.0,0.0,0.001518,
+anastasio hurtado y robles,Bishop Anastasio Hurtado y Robles,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+giovanni benelli,Archbishop Giovanni Benelli,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+giuseppe almici,Bishop Giuseppe Almici,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+francisco banegas y galvan,Bishop Francisco Banegas y Galván,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+leopoldo lara y torres,Bishop Leopoldo Lara y Torres,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+bernardin gantin,Archbishop Bernardin Gantin,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+ferdinando ruiz y solozarno,Archbishop Ferdinando Ruiz y Solózarno,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+jose abraham martinez betancourt,Bishop José Abraham Martínez Betancourt,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+adeodato giovanni piazza,Adeodato Giovanni Cardinal Piazza,False,1,1,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,Other
+giuseppe dell rsquo omo,Bishop Giuseppe Dell&rsquo;Omo,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+jose salazar lopez,Archbishop José Salazar López,False,1,0,0,True,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+franciszek jop,Bishop Franciszek Jop,False,1,0,0,False,False,0.0,0.001453,-0.0,-0.0,,,
+boles aw kominek,Bishop Boles&#322;aw Kominek,False,1,0,0,False,False,0.0,0.001453,-0.0,-0.0,,,
+alfredo galindo mendoza,Bishop Alfredo Galindo Mendoza,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+roman acevedo rojas,Bishop Román Acevedo Rojas,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+miguel maria de la mora y mora,Bishop Miguel María de la Mora y Mora,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+ignacio placencia y moreira,Bishop Ignacio Placencia y Moreira,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+serafin maria armora y gonzalez,Bishop Serafín María Armora y González,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+duraisamy simon lourdusamy,Archbishop Duraisamy Simon Lourdusamy,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+fidel cortes perez,Bishop Fidel Cortés Pérez,False,1,0,0,True,True,0.0,0.001453,0.000212,-0.0,0.0,0.001518,
+albino mensa,Archbishop Albino Mensa,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+luigi bettazzi,Bishop Luigi Bettazzi,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+guillermo ranzahuer gonzalez,Bishop Guillermo Ranzahuer González,False,1,0,0,True,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+salvador quezada limon,Bishop Salvador Quezada Limón,False,1,0,0,False,True,0.0,0.001453,0.005183,-0.0,0.0,0.001518,
+giuseppe pizzardo,Archbishop Giuseppe Pizzardo,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+carlo salotti,Archbishop Carlo Salotti,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+santiago de los santos garza zambrano,Archbishop Santiago de los Santos Garza Zambrano,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+eugene gabriel gervais laurent tisserant,Eugène-Gabriel-Gervais-Laurent Cardinal Tisserant,False,1,1,0,False,False,0.0,0.001453,0.0,-0.0,,,Other
+giacinto tredici,Bishop Giacinto Tredici,False,1,0,0,False,False,0.0,0.001453,0.0,-0.0,,,
+domenico bernareggi,Bishop Domenico Bernareggi,False,1,0,0,False,False,0.0,0.001453,0.0,-0.0,,,
+manuel fulcheri y pietrasanta,Bishop Manuel Fulcheri y Pietrasanta,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+basilio pompilj,Basilio Cardinal Pompilj,False,1,1,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,Other
+pio marcello bagnoli,Bishop Pio Marcello Bagnoli,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+jose othon nunez y zarate,Archbishop José Othón Núñez y Zárate,False,1,1,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,Other
+st raphael guizar valencia,Bishop St. Raphael Guizar Valencia,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+antonio bergamaschi,Bishop Antonio Bergamaschi,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+artemio prati,Bishop Artemio Prati,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+boles aw twardowski,Archbishop Boles&#322;aw Twardowski,False,1,1,0,False,False,0.0,0.001453,-0.0,-0.0,,,Other
+franciszek lisowski,Bishop Franciszek Lisowski,False,1,0,0,False,False,0.0,0.001453,-0.0,-0.0,,,
+edward komar,Bishop Edward Komar,False,1,0,0,False,False,0.0,0.001453,-0.0,-0.0,,,
+jose ignacio marquez y toriz,Archbishop José Ignacio Márquez y Tóriz,False,1,0,0,False,True,0.0,0.001453,0.0,-0.0,0.0,0.001518,
+augusto gianfranceschi,Bishop Augusto Gianfranceschi,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+jacques paul martin,Bishop Jacques-Paul Martin,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+paul joseph marie gouyon,Paul Joseph Marie Cardinal Gouyon,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+jacques andre marie jullien,Archbishop Jacques André Marie Jullien,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+jose maclovio vasquez silos,Bishop José Maclovio Vásquez Silos,False,1,0,0,False,True,0.0,0.001453,0.000303,-0.0,0.0,0.001518,
+jorge martinez martinez,Bishop Jorge Martínez Martínez,False,1,0,0,False,True,0.0,0.001453,0.000129,-0.0,0.0,0.001518,
+arturo rivera damas,Bishop Arturo Rivera Damas,False,1,0,0,False,True,0.0,0.001453,0.005081,-0.0,0.0,0.001518,
+hugo mark gerbermann,Bishop Hugo Mark Gerbermann,False,1,0,0,False,True,0.0,0.001453,0.005081,-0.0,0.0,0.001518,
+rafael gonzalez estrada,Bishop Rafael González Estrada,False,1,0,0,False,True,0.0,0.001453,0.004996,-0.0,0.0,0.001518,
+prospero penados del barrio,Bishop Próspero Penados del Barrio,False,1,0,0,False,True,0.0,0.001453,0.004996,-0.0,0.0,0.001518,
+costantino cristiano luna pianegonda,Bishop Costantino Cristiano Luna Pianegonda,False,1,0,0,False,True,0.0,0.001453,0.005081,-0.0,0.0,0.001518,
+benjamin barrera y reyes,Bishop Benjamin Barrera y Reyes,False,1,0,0,False,True,0.0,0.001453,0.005081,-0.0,0.0,0.001518,
+william richard field,Bishop William Richard Field,False,1,0,0,False,True,0.0,0.001453,0.004996,-0.0,0.0,0.001518,
+patrick ebosele ekpu,Bishop Patrick Ebosele Ekpu,False,1,0,0,False,True,0.0,0.001453,0.004996,-0.0,0.0,0.001518,
+thomas mcgettrick,Bishop Thomas McGettrick,False,1,0,0,False,True,0.0,0.001453,0.005168,-0.0,0.0,0.001518,
+mark onwuha unegbu,Bishop Mark Onwuha Unegbu,False,1,0,0,False,True,0.0,0.001453,0.005168,-0.0,0.0,0.001518,
+anthony gogo nwedo,Bishop Anthony Gogo Nwedo,False,1,0,0,False,True,0.0,0.001453,0.005168,-0.0,0.0,0.001518,
+hilario chavez joya,Bishop Hilario Chávez Joya,False,1,0,0,False,True,0.0,0.001453,0.000191,-0.0,0.0,0.001518,
+manuel samaniego barriga,Bishop Manuel Samaniego Barriga,False,1,0,0,False,True,0.0,0.001453,0.005,-0.0,0.0,0.001518,
+jose lopez lara,Bishop José López Lara,False,1,0,0,True,True,0.0,0.001453,0.005361,-0.0,0.0,0.001518,
+alfonso de jesus hinojosa berrones,Bishop Alfonso de Jesús Hinojosa Berrones,False,1,0,0,False,False,0.0,0.001453,-0.0,-0.0,,,
+rafael gallardo garcia,Bishop Rafael Gallardo García,False,1,0,0,False,True,0.0,0.001453,0.005769,-0.0,0.0,0.001518,
+gilberto valbuena sanchez,Bishop Gilberto Valbuena Sánchez,False,1,0,0,False,True,0.0,0.001453,0.005361,-0.0,0.0,0.001518,
+jose raul vera lopez,Bishop José Raúl Vera López,False,1,0,0,False,True,0.0,0.001453,0.001045,-0.0,0.0,0.001518,Other
+oscar andres rodriguez maradiaga,Óscar Andrés Cardinal Rodríguez Maradiaga,False,1,0,0,True,True,0.0,0.001453,0.000176,-0.0,0.0,0.001518,
+joseph spiteri,Archbishop Joseph Spiteri,False,1,0,0,False,True,0.0,0.001453,-0.0,-0.0,0.0,0.001518,
+angel san casimiro fernandez,Bishop Angel San Casimiro Fernández,False,1,0,0,False,True,0.0,0.001453,6e-06,-0.0,0.0,0.001518,
+lorenzo rodolfo laurent rodolphe guibord levesque,Bishop Lorenzo Rodolfo (Laurent-Rodolphe) Guibord Lévesque,False,1,0,0,False,False,0.0,0.001453,0.0,-0.0,,,
+jacinto guerrero torres,Bishop Jacinto Guerrero Torres,False,1,0,0,False,True,0.0,0.001453,0.000451,-0.0,0.0,0.001518,
+vicente garcia bernal,Bishop Vicente García Bernal,True,0,0,3,False,True,0.022337,0.003306,-0.0,0.014503,0.024481,0.003453,Prigione
+jose miguel angel giles vazquez,Bishop José Miguel Ángel Giles Vázquez,True,0,0,3,False,True,0.018414,0.008442,-0.0,0.001098,0.020181,0.008818,Robles Ortega
+rodrigo aguilar martinez,Bishop Rodrigo Aguilar Martínez,False,0,0,3,True,True,0.011324,0.002606,-0.0,0.002243,0.012411,0.002722,Mullor
+jose lizares estrada,Bishop José Lizares Estrada,False,0,0,3,True,True,0.011233,0.003425,-0.0,0.01425,0.012311,0.003577,Prigione
+fernando mario chavez ruvalcaba,Bishop Fernando Mario Chávez Ruvalcaba,True,0,0,3,True,True,0.010376,0.003845,-0.0,0.000356,0.011372,0.004017,Mullor
+jose benjamin castillo plascencia,Bishop José Benjamín Castillo Plascencia,True,0,0,3,True,True,0.010193,0.002527,-0.0,0.001242,0.011172,0.00264,Sandoval
+adeodato giovanni piazza o c d,"Adeodato Giovanni Cardinal Piazza , O.C.D.",True,0,0,3,False,True,0.01004,0.004542,-0.0,-0.0,0.011004,0.004744,
+mister jose julio aguilar garcia,Mister José Julio Aguilar García,True,0,0,3,False,True,0.01004,0.004042,-0.0,0.014237,0.011004,0.004223,Prigione
+enrique diaz diaz,Bishop Enrique Díaz Díaz,False,0,0,3,True,True,0.010031,0.003883,-0.0,0.002133,0.010994,0.004057,Prigione
+sergio mendez arceo,Bishop Sergio Méndez Arceo,True,0,0,3,True,True,0.00971,0.00757,-0.0,2.7e-05,0.010643,0.007908,Other
+ramon calderon batres,Bishop Ramón Calderón Batres,False,0,0,3,False,True,0.009692,0.003333,-0.0,0.016439,0.010623,0.003482,Prigione
+jose luis fletes santana,Bishop José Luis Fletes Santana,False,0,0,3,False,True,0.008233,0.002473,-0.0,0.000721,0.009024,0.002583,Rivera Carrera
+guillermo rodrigo teodoro ortiz mondragon,Bishop Guillermo Rodrigo Teodoro Ortiz Mondragón,True,0,0,3,False,True,0.008233,0.002473,-0.0,0.000721,0.009024,0.002583,Rivera Carrera
+juan odilon martinez garcia,Bishop Juan Odilón Martínez García,False,0,0,3,False,True,0.008066,0.002058,-0.0,0.00139,0.008841,0.00215,Robles Ortega
+jose luis dibildox martinez,Bishop José Luis Dibildox Martínez,True,0,0,3,True,True,0.008021,0.002408,-0.0,0.014858,0.008791,0.002515,Prigione
+juan humberto gutierrez valencia,Bishop Juan Humberto Gutiérrez Valencia,False,0,0,5,True,True,0.007771,0.004075,-0.0,0.001541,0.008517,0.004257,Sandoval
+jose francisco gonzalez gonzalez,Archbishop José Francisco González González,False,0,0,5,True,True,0.007771,0.004075,-0.0,0.001541,0.008517,0.004257,Sandoval
+alonso gerardo garza trevino,Bishop Alonso Gerardo Garza Treviño,False,0,0,3,False,True,0.007652,0.003452,-0.0,0.002978,0.008387,0.003606,Suárez Rivera
+carlos quintero arce,Archbishop Carlos Quintero Arce,True,0,0,3,True,True,0.007648,0.005266,-0.0,0.0,0.008382,0.005501,Other
+st oscar arnulfo romero y galdamez,Archbishop St. Oscar Arnulfo Romero y Galdamez,True,0,0,3,False,True,0.00752,0.003425,-0.0,0.014478,0.008242,0.003577,Prigione
+marco rene revelo contreras,Bishop Marco René Revelo Contreras,True,0,0,3,False,True,0.00752,0.003425,-0.0,0.014478,0.008242,0.003577,Prigione
+luis miguel canton marin,Bishop Luis Miguel Cantón Marín,True,0,0,3,True,True,0.007364,0.002189,-0.0,0.015065,0.008071,0.002287,Prigione
+pedro pablo elizondo cardenas l c,"Bishop Pedro Pablo Elizondo Cárdenas , L.C.",True,0,0,3,False,True,0.006889,0.003279,-0.0,0.002014,0.00755,0.003425,Other
+jorge alberto cavazos arizpe,Archbishop Jorge Alberto Cavazos Arizpe,False,0,0,3,True,True,0.00679,0.003206,-0.0,0.000855,0.007442,0.003349,Robles Ortega
+michael nnachi okoro,Bishop Michael Nnachi Okoro,False,0,0,3,False,True,0.00668,0.003219,-0.0,0.014728,0.007321,0.003362,Prigione
+albert kanene obiefuna,Archbishop Albert Kanene Obiefuna,True,0,0,3,False,True,0.00668,0.003219,-0.0,0.014728,0.007321,0.003362,Prigione
+michael ugwu eneja,Bishop Michael Ugwu Eneja,True,0,0,3,False,True,0.00668,0.003219,-0.0,0.014728,0.007321,0.003362,Prigione
+antonio gonzalez sanchez,Bishop Antonio González Sánchez,False,0,0,3,True,True,0.006131,0.002451,-0.0,0.017622,0.006719,0.002561,Prigione
+jose guadalupe galvan galindo,Bishop José Guadalupe Galván Galindo,True,0,0,3,True,True,0.005731,0.004407,-0.0,0.016439,0.006282,0.004604,Prigione
+jose de jesus aguilera rodriguez,Bishop José de Jesús Aguilera Rodriguez,True,0,0,3,True,True,0.005685,0.003054,-0.0,0.015277,0.00623,0.00319,Prigione
+braulio rafael leon villegas,Bishop Braulio Rafael León Villegas,True,0,0,3,False,True,0.005685,0.003054,-0.0,0.015277,0.00623,0.00319,Prigione
+ricardo manuel watty urquidi m sp s,"Bishop Ricardo Manuel Watty Urquidi , M.Sp.S.",True,0,0,3,False,True,0.005581,0.003816,-0.0,0.000376,0.006117,0.003986,
+jose guadalupe torres campos,Bishop José Guadalupe Torres Campos,False,0,0,3,True,True,0.005405,0.004261,-0.0,0.000802,0.005924,0.004451,Prigione
+guillermo francisco escobar galicia,Bishop Guillermo Francisco Escobar Galicia,False,0,0,3,True,True,0.005313,0.003159,-0.0,0.000503,0.005823,0.0033,Aguiar
+jorge estrada solorzano,Bishop Jorge Estrada Solórzano,False,0,0,5,True,True,0.005181,0.005147,-0.0,0.001097,0.005678,0.005376,Rivera Carrera
+jose raul vera lopez o p,"Bishop José Raúl Vera López , O.P.",False,0,0,3,False,True,0.005034,0.003924,-0.0,-0.0,0.005517,0.004099,
+florencio olvera ochoa,Bishop Florencio Olvera Ochoa,True,0,0,3,True,True,0.005027,0.003726,-0.0,0.014788,0.00551,0.003892,Prigione
+abelardo alvarado alcantara,Bishop Abelardo Alvarado Alcántara,True,0,0,3,False,True,0.005027,0.00434,-0.0,0.000367,0.00551,0.004534,Corripio
+jose de jesus castillo renteria m n m,"Bishop José de Jesús Castillo Rentería , M.N.M.",True,0,0,2,False,True,0.005027,0.002998,-0.0,0.000544,0.00551,0.003131,
+francisco javier acero perez o a r,"Bishop Francisco Javier Acero Pérez , O.A.R.",False,0,0,2,False,True,0.005027,0.004036,-0.0,-0.0,0.00551,0.004216,
+carlos briseno arch o a r,"Bishop Carlos Briseño Arch , O.A.R.",False,0,0,2,False,True,0.005027,0.003809,-0.0,1.8e-05,0.00551,0.003978,
+alfonso cortes contreras,Archbishop Alfonso Cortés Contreras,False,0,0,3,False,True,0.004934,0.002159,-0.0,0.0012,0.005408,0.002255,Robles Ortega
+arturo lona reyes,Bishop Arturo Lona Reyes,True,0,0,3,True,True,0.00481,0.00668,-0.0,0.00079,0.005271,0.006978,Other
+raymundo lopez mateos,Bishop Raymundo López Mateos,False,0,0,2,True,True,0.004665,0.002098,-0.0,0.016174,0.005113,0.002191,Prigione
+constancio miranda wechmann,Archbishop Constancio Miranda Wechmann,False,0,0,3,False,True,0.004493,0.004486,-0.0,0.00064,0.004924,0.004686,Mullor
+faustino armendariz jimenez,Archbishop Faustino Armendáriz Jiménez,False,0,0,3,True,True,0.004319,0.003934,-0.0,0.001098,0.004734,0.004109,Robles Ortega
+raul gomez gonzalez,Archbishop Raúl Gómez González,False,0,0,2,True,True,0.0043,0.001746,-0.0,0.001146,0.004713,0.001824,
+luis artemio flores calzada,Bishop Luis Artemio Flores Calzada,False,0,0,3,True,True,0.004291,0.00366,-0.0,0.000796,0.004703,0.003823,Aguiar
+hipolito reyes larios,Archbishop Hipólito Reyes Larios,True,0,0,3,True,True,0.003909,0.004119,-0.0,0.002864,0.004285,0.004303,Other
+eduardo porfirio patino leal,Bishop Eduardo Porfirio Patiño Leal,False,0,0,3,False,True,0.003909,0.004119,-0.0,0.002864,0.004285,0.004303,Suárez Rivera
+jose refugio mercado diaz,Bishop José Refugio Mercado Díaz,True,0,0,3,False,True,0.003753,0.003688,-0.0,0.001483,0.004113,0.003852,Sandoval
+rafael francisco martinez sainz,Bishop Rafael Francisco Martínez Sáinz,True,0,0,3,False,True,0.003723,0.002287,-0.0,0.001677,0.004081,0.002389,Sandoval
+rogelio esquivel medina,Bishop Rogelio Esquivel Medina,True,0,0,3,False,True,0.003695,0.002635,-0.0,0.001189,0.00405,0.002753,Rivera Carrera
+jonas guerrero corona,Bishop Jonás Guerrero Corona,False,0,0,3,True,True,0.003695,0.002635,-0.0,0.001189,0.00405,0.002753,Rivera Carrera
+tomas lopez duran,Bishop Tomás López Durán,False,0,0,3,False,True,0.003653,0.002185,-0.0,0.00162,0.004004,0.002282,Rivera Carrera
+rutilo felipe pozos lorenzini,Bishop Rutilo Felipe Pozos Lorenzini,False,0,0,3,True,True,0.003653,0.002185,-0.0,0.00162,0.004004,0.002282,Rivera Carrera
+ramon salazar estrada,Bishop Ramón Salazar Estrada,False,0,0,3,False,True,0.003651,0.002098,-0.0,0.000707,0.004002,0.002192,Robles Ortega
+hector mario perez villarreal,Bishop Héctor Mario Pérez Villarreal,False,0,0,3,False,True,0.003622,0.001937,-0.0,0.000361,0.003969,0.002023,Aguiar
+luis manuel perez raygoza,Bishop Luis Manuel Pérez Raygoza,False,0,0,3,False,True,0.003622,0.001937,-0.0,0.000361,0.003969,0.002023,Aguiar
+salvador martinez perez,Bishop Salvador Martínez Pérez,True,0,0,3,False,True,0.003527,0.002035,-0.0,0.015461,0.003865,0.002125,Prigione
+ramon castro castro,Bishop Ramón Castro Castro,False,0,0,3,True,True,0.003503,0.002677,-0.0,0.002019,0.003839,0.002796,Prigione
+crispin ojeda marquez,Bishop Crispin Ojeda Márquez,False,0,0,3,True,True,0.003406,0.00563,-0.0,0.000857,0.003733,0.005881,Rivera Carrera
+victor rene rodriguez gomez,Bishop Víctor René Rodríguez Gómez,False,0,0,3,True,True,0.002996,0.002051,-0.0,0.001381,0.003284,0.002143,Aguiar
+adolfo miguel castano fonseca,Bishop Adolfo Miguel Castaño Fonseca,False,0,0,3,True,True,0.002877,0.002206,-0.0,0.001377,0.003153,0.002304,Rivera Carrera
+hector lopez alvarado,Bishop Héctor López Alvarado,False,0,0,3,False,True,0.002572,0.002212,-0.0,0.001691,0.002819,0.00231,Robles Ortega
+engelberto polino sanchez,Bishop Engelberto Polino Sánchez,False,0,0,3,True,True,0.002572,0.002212,-0.0,0.001691,0.002819,0.00231,Robles Ortega
+salvador flores huerta,Bishop Salvador Flores Huerta,True,0,0,3,False,True,0.0025,0.002338,-0.0,0.015854,0.00274,0.002442,Prigione
+roberto octavio balmori cinta m j,"Bishop Roberto Octavio Balmori Cinta , M.J.",False,0,0,2,False,True,0.002331,0.003174,-0.0,0.000542,0.002554,0.003315,
+jose trinidad gonzalez rodriguez,Bishop José Trinidad González Rodríguez,True,0,0,3,False,True,0.0022,0.002509,-0.0,0.015194,0.002411,0.002621,Sandoval
+enrique sanchez martinez,Bishop Enrique Sánchez Martínez,False,0,0,3,True,True,0.002184,0.004514,-0.0,0.000567,0.002394,0.004715,Other
+gonzalo galvan castillo,Bishop Gonzalo Galván Castillo,True,0,0,3,False,True,0.001856,0.003816,-0.0,0.001064,0.002034,0.003986,Sandoval
+efrain mendoza cruz,Bishop Efraín Mendoza Cruz,False,0,0,3,True,True,0.001792,0.002055,-0.0,0.001093,0.001964,0.002146,Aguiar
+florencio armando colin cruz,Bishop Florencio Armando Colín Cruz,False,0,0,3,True,True,0.001792,0.002055,-0.0,0.001093,0.001964,0.002146,Rivera Carrera
+jesus antonio lerma nolasco,Bishop Jesús Antonio Lerma Nolasco,True,0,0,3,False,True,0.001792,0.002055,-0.0,0.001093,0.001964,0.002146,Rivera Carrera
+francisco gonzalez ramos,Bishop Francisco González Ramos,False,0,0,2,True,True,0.001606,0.003418,-0.0,0.000267,0.00176,0.00357,Rivera Carrera
+juan armando perez talamantes,Bishop Juan Armando Pérez Talamantes,False,0,0,2,False,True,0.001463,0.001764,-0.0,0.000619,0.001604,0.001843,Prigione
+alfonso gerardo miranda guardiola,Bishop Alfonso Gerardo Miranda Guardiola,False,0,0,2,True,True,0.001463,0.001764,-0.0,0.000619,0.001604,0.001843,Prigione
+heriberto cavazos perez,Bishop Heriberto Cavazos Pérez,False,0,0,2,False,True,0.001463,0.001764,-0.0,0.000619,0.001604,0.001843,Prigione
+oscar efrain tamez villarreal,Bishop Oscar Efraín Tamez Villarreal,False,0,0,2,True,True,0.001463,0.001764,-0.0,0.000619,0.001604,0.001843,Prigione
+jose eugenio ramos delgado,Bishop José Eugenio Ramos Delgado,False,0,0,2,False,True,0.001463,0.001764,-0.0,0.000619,0.001604,0.001843,Prigione
+juan manuel munoz curiel,Bishop Juan Manuel Muñoz Curiel,False,0,0,2,False,True,0.001391,0.001935,-0.0,0.001473,0.001525,0.002021,Robles Ortega
+manuel gonzalez villasenor,Bishop Manuel González Villaseñor,False,0,0,3,False,True,0.001145,0.002578,-0.0,0.00069,0.001255,0.002693,Robles Ortega
+eduardo munoz ochoa,Bishop Eduardo Muñoz Ochoa,False,0,0,3,True,True,0.001145,0.002578,-0.0,0.00069,0.001255,0.002693,Robles Ortega
+dagoberto sosa arriaga,Bishop Dagoberto Sosa Arriaga,False,0,0,3,True,True,0.001134,0.002022,-0.0,0.000944,0.001243,0.002112,Rivera Carrera
+eugenio andres lira rugarcia,Bishop Eugenio Andrés Lira Rugarcía,False,0,0,3,True,True,0.001134,0.002022,-0.0,0.000944,0.001243,0.002112,Rivera Carrera
+jorge cuapio bautista,Bishop Jorge Cuapio Bautista,False,0,0,3,True,True,0.001111,0.002933,-0.0,0.000508,0.001218,0.003063,Aguiar
+jose de jesus gonzalez hernandez o f m,"Bishop José de Jesús González Hernández , O.F.M.",False,0,0,2,False,True,0.001029,0.003896,-0.0,0.000249,0.001128,0.00407,
+andres luis garcia jasso,Bishop Andrés Luis García Jasso,False,0,0,3,False,True,0.000877,0.002797,-0.0,0.000302,0.000961,0.002922,Aguiar
+salvador gonzalez morales,Bishop Salvador González Morales,False,0,0,3,True,True,0.000855,0.002725,-0.0,0.000299,0.000937,0.002846,Aguiar
+carlos enrique samaniego lopez,Bishop Carlos Enrique Samaniego López,False,0,0,3,False,True,0.000855,0.002725,-0.0,0.000299,0.000937,0.002846,Aguiar
+sigifredo noriega barcelo,Bishop Sigifredo Noriega Barceló,False,0,0,2,True,True,0.000822,0.002244,-0.0,0.000288,0.000901,0.002344,Prigione
+carlos talavera ramirez,Bishop Carlos Talavera Ramírez,True,0,0,3,True,True,0.000802,0.00394,-0.0,0.000382,0.000879,0.004116,Corripio
+antonio ortega franco c o,"Bishop Antonio Ortega Franco , C.O.",True,0,0,2,False,True,0.00078,0.001845,-0.0,0.001685,0.000855,0.001927,
+francisco daniel rivera sanchez m sp s,"Bishop Francisco Daniel Rivera Sánchez , M.Sp.S.",True,0,0,2,False,True,0.000761,0.001779,-0.0,0.000111,0.000834,0.001859,
+jesus humberto velazquez garay,Bishop Jesús Humberto Velázquez Garay,True,0,0,3,False,True,0.000677,0.002562,-0.0,0.01515,0.000742,0.002676,Prigione
+luis gabriel cuara mendez,Bishop Luis Gabriel Cuara Méndez,True,0,0,3,False,True,0.000547,0.002639,-0.0,0.016114,0.0006,0.002757,Prigione
+felipe tejeda garcia m sp s,"Bishop Felipe Tejeda García , M.Sp.S.",True,0,0,2,False,True,0.000366,0.002342,-0.0,0.000123,0.000401,0.002446,
+miguel patino velazquez m s f,"Bishop Miguel Patiño Velázquez , M. S. F.",True,0,0,2,False,True,0.000255,0.002174,-0.0,0.000766,0.00028,0.002271,
+oscar roberto dominguez couttolenc m g,"Archbishop Oscar Roberto Domínguez Couttolenc , M.G.",False,0,0,2,True,True,0.00022,0.005274,-0.0,0.001171,0.000241,0.00551,
+pope john paul ii,Pope John Paul II,False,0,0,3,False,False,0.000125,0.008311,-0.0,-0.0,,,
+pope paul vi,Pope Paul VI,False,0,0,3,False,False,4.2e-05,0.005159,-0.0,0.0,,,
+alberto campos hernandez o f m,"Bishop Alberto Campos Hernández , O.F.M.",False,0,0,2,False,False,2.8e-05,0.003306,-0.0,0.0,,,
+braulio sanchez fuentes,Bishop Braulio Sánchez Fuentes,False,0,0,1,False,True,0.0,0.001746,-0.0,0.000349,0.0,0.001823,
+genaro alamilla arteaga,Bishop Genaro Alamilla Arteaga,False,0,0,1,False,True,0.0,0.001746,-0.0,0.000349,0.0,0.001823,
+domingo jafet herrera castillo,Bishop Domingo Jafet Herrera Castillo,False,0,0,1,False,True,0.0,0.001746,-0.0,0.000349,0.0,0.001823,
+lorenzo cardenas aregullin,Bishop Lorenzo Cárdenas Aregullín,False,0,0,2,False,True,0.0,0.002273,-0.0,0.000929,0.0,0.002374,Corripio
+jose de jesus castillo renteria,Bishop José de Jesús Castillo Rentería,False,0,0,1,False,True,0.0,0.001571,-0.0,0.013777,0.0,0.001641,Prigione
+miguel patino velazquez,Bishop Miguel Patiño Velázquez,False,0,0,1,True,True,0.0,0.001571,-0.0,0.013777,0.0,0.001641,Prigione
+roberto octavio balmori cinta,Bishop Roberto Octavio Balmori Cinta,False,0,0,1,True,True,0.0,0.00198,-0.0,0.002397,0.0,0.002068,Suárez Rivera
+jose andres corral arredondo,Bishop José Andrés Corral Arredondo,False,0,0,2,False,True,0.0,0.002111,-0.0,0.002995,0.0,0.002205,
+francisco daniel rivera sanchez,Bishop Francisco Daniel Rivera Sánchez,False,0,0,1,False,True,0.0,0.001611,-0.0,0.00025,0.0,0.001683,Aguiar
+francisco javier acero perez,Bishop Francisco Javier Acero Pérez,False,0,0,1,False,True,0.0,0.001611,-0.0,0.00025,0.0,0.001683,Aguiar
+felipe tejeda garcia,Bishop Felipe Tejeda García,False,0,0,1,False,True,0.0,0.001585,-0.0,0.000598,0.0,0.001655,Rivera Carrera
+antonio ortega franco,Bishop Antonio Ortega Franco,False,0,0,1,False,True,0.0,0.001585,-0.0,0.000598,0.0,0.001655,Rivera Carrera
+oscar roberto dominguez couttolenc,Archbishop Oscar Roberto Domínguez Couttolenc,False,0,0,1,True,True,0.0,0.001585,-0.0,0.000598,0.0,0.001655,Rivera Carrera
+rafael sandoval sandoval,Bishop Rafael Sandoval Sandoval,False,0,0,1,True,True,0.0,0.001585,-0.0,0.000598,0.0,0.001655,
+francisco javier martinez castillo,Bishop Francisco Javier Martínez Castillo,False,0,0,2,False,True,0.0,0.001864,-0.0,0.000694,0.0,0.001948,Rivera Carrera
+javier herrera corona,Archbishop Javier Herrera Corona,False,0,0,1,False,True,0.0,0.001615,-0.0,0.000547,0.0,0.001686,
+andres sainz marquez,Bishop Andrés Sáinz Márquez,False,0,0,1,False,True,0.0,0.001615,-0.0,0.000547,0.0,0.001686,
+alberto campos hernandez,Bishop Alberto Campos Hernández,False,0,0,1,False,True,0.0,0.001774,-0.0,0.000926,0.0,0.001853,Sandoval
+jose de jesus gonzalez hernandez,Bishop José de Jesús González Hernández,False,0,0,1,True,True,0.0,0.001774,-0.0,0.000926,0.0,0.001853,Sandoval
+jesus carlos cabrero romero,Archbishop Jesús Carlos Cabrero Romero,False,0,0,1,False,True,0.0,0.002133,-0.0,0.000253,0.0,0.002228,Corripio
+macram max gassis,Bishop Macram Max Gassis,False,0,0,1,False,True,0.0,0.002852,-0.0,0.0,0.0,0.002979,Corripio
+deogratias muganwa byabazaire,Bishop Deogratias Muganwa Byabazaire,False,0,0,1,False,True,0.0,0.002852,-0.0,0.0,0.0,0.002979,Corripio
+pablo vizcaino prado,Bishop Pablo Vizcaino Prado,False,0,0,1,False,True,0.0,0.004365,-0.0,0.0,0.0,0.004559,Prigione
+jose anibal casasola sosa,Bishop José Aníbal Casasola Sosa,False,0,0,1,False,True,0.0,0.002036,-0.0,-0.0,0.0,0.002126,Prigione
+gustavo rodolfo mendoza hernandez,Bishop Gustavo Rodolfo Mendoza Hernández,False,0,0,1,False,True,0.0,0.002036,-0.0,-0.0,0.0,0.002126,Prigione
+gonzalo de villa y vasquez,Archbishop Gonzalo de Villa y Vásquez,False,0,0,1,False,True,0.0,0.002036,-0.0,-0.0,0.0,0.002126,Prigione
+bernabe de jesus sagastume lemus,Bishop Bernabé de Jesús Sagastume Lemus,False,0,0,1,False,True,0.0,0.002036,-0.0,-0.0,0.0,0.002126,Prigione
+mario fiandri,Bishop Mario Fiandri,False,0,0,1,False,True,0.0,0.002036,-0.0,-0.0,0.0,0.002126,Prigione
+jude ayodeji arogundade,Bishop Jude Ayodeji Arogundade,False,0,0,1,False,True,0.0,0.00489,-0.0,0.0,0.0,0.005108,Prigione
+jose rafael palma capetillo,Bishop José Rafael Palma Capetillo,False,0,0,1,False,True,0.0,0.001807,-0.0,0.001448,0.0,0.001887,Prigione
+fabio martinez castilla,Archbishop Fabio Martínez Castilla,False,0,0,1,True,True,0.0,0.001807,-0.0,0.001448,0.0,0.001887,Prigione
+domingo diaz martinez,Archbishop Domingo Díaz Martínez,False,0,0,1,False,True,0.0,0.002373,-0.0,0.000772,0.0,0.002478,Prigione
+teodoro enrique pino miranda,Bishop Teodoro Enrique Pino Miranda,False,0,0,1,True,True,0.0,0.002331,-0.0,0.000251,0.0,0.002435,Prigione
+leopoldo gonzalez gonzalez,Archbishop Leopoldo González González,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+francisco moreno barron,Archbishop Francisco Moreno Barrón,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+salvador rangel mendoza,Bishop Salvador Rangel Mendoza,False,0,0,1,False,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+juan espinoza jimenez,Bishop Juan Espinoza Jiménez,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+victor alejandro aguilar ledesma,Bishop Víctor Alejandro Aguilar Ledesma,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+herculano medina garfias,Bishop Herculano Medina Garfias,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+salvador cleofas murguia villalobos,Bishop Salvador Cleofás Murguía Villalobos,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+joel ocampo gorostieta,Bishop Joel Ocampo Gorostieta,False,0,0,1,True,True,0.0,0.001602,-0.0,0.001565,0.0,0.001673,Prigione
+raymundo lopez mateos o f m,"Bishop Raymundo López Mateos , O.F.M.",True,0,0,1,False,False,0.0,0.002689,-0.0,-0.0,,,
+gerardo de jesus rojas lopez,Bishop Gerardo de Jesús Rojas López,False,0,0,1,True,True,0.0,0.002217,-0.0,0.000252,0.0,0.002316,Prigione
+emigdio duarte figueroa,Bishop Emigdio Duarte Figueroa,False,0,0,1,False,True,0.0,0.003352,-0.0,0.0,0.0,0.003501,Prigione
+jose antonio perez sanchez o f m,"Bishop José Antonio Pérez Sánchez , O.F.M.",True,0,0,1,False,False,0.0,0.002071,-0.0,0.0,,,
+jose antonio fernandez hurtado,Archbishop José Antonio Fernández Hurtado,False,0,0,1,True,True,0.0,0.00344,-0.0,0.0,0.0,0.003594,Prigione
+juan maria huerta muro,Bishop Juan María Huerta Muro,False,0,0,1,True,True,0.0,0.002086,-0.0,3.8e-05,0.0,0.002179,Prigione
+jose luis mendoza corzo,Bishop José Luis Mendoza Corzo,False,0,0,1,False,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+roberto yenny garcia,Bishop Roberto Yenny García,False,0,0,1,False,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+cesar garza miranda,Bishop César Garza Miranda,False,0,0,1,False,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+juan carlos arcq guzman,Bishop Juan Carlos Arcq Guzmán,False,0,0,1,True,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+jose manuel garza madero,Bishop José Manuel Garza Madero,False,0,0,1,False,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+cesar alfonso ortega diaz,Bishop César Alfonso Ortega Díaz,False,0,0,1,True,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+carlos alberto santos garcia,Bishop Carlos Alberto Santos García,False,0,0,1,False,True,0.0,0.001603,-0.0,7.1e-05,0.0,0.001674,Prigione
+miguel angel espinoza garza,Bishop Miguel Ángel Espinoza Garza,False,0,0,1,True,True,0.0,0.002732,-0.0,6.3e-05,0.0,0.002854,Suárez Rivera
+pedro sergio de jesus mena diaz,Bishop Pedro Sergio de Jesús Mena Díaz,False,0,0,1,False,True,0.0,0.002445,-0.0,0.0,0.0,0.002553,Suárez Rivera
+mario medina balam,Bishop Mario Medina Balam,False,0,0,1,False,True,0.0,0.002445,-0.0,0.0,0.0,0.002553,Suárez Rivera
+victor carabes chavez,Bishop Víctor Carabés Chávez,False,0,0,1,True,True,0.0,0.002445,-0.0,0.0,0.0,0.002553,Suárez Rivera
+juan frausto pallares,Bishop Juan Frausto Pallares,False,0,0,1,False,True,0.0,0.001761,-0.0,0.00012,0.0,0.001839,Posadas
+armando antonio ortiz aguirre,Bishop Armando António Ortíz Aguirre,False,0,0,1,True,True,0.0,0.001761,-0.0,0.00012,0.0,0.001839,Posadas
+miguel angel castro munoz,Bishop Miguel Ángel Castro Muñoz,False,0,0,1,True,True,0.0,0.001733,-0.0,9.6e-05,0.0,0.00181,Rivera Carrera
+jose luis cerra luna,Bishop José Luis Cerra Luna,False,0,0,1,False,True,0.0,0.006853,-0.0,0.0,0.0,0.007156,Robles Ortega
+juan manuel munoz curiel o f m,"Bishop Juan Manuel Muñoz Curiel , O.F.M.",False,0,0,1,False,True,0.0,0.00173,-0.0,0.000218,0.0,0.001807,
+hector luis morales sanchez,Bishop Héctor Luis Morales Sánchez,False,0,0,1,True,True,0.0,0.001758,-0.0,7.1e-05,0.0,0.001836,Sandoval
+oscar armando campos contreras,Bishop Óscar Armando Campos Contreras,False,0,0,1,False,True,0.0,0.001758,-0.0,7.1e-05,0.0,0.001836,Sandoval
+hector guerrero cordova,Bishop Héctor Guerrero Córdova,False,0,0,1,False,True,0.0,0.001758,-0.0,7.1e-05,0.0,0.001836,Sandoval
+gonzalo alonso calzada guerrero,Bishop Gonzalo Alonso Calzada Guerrero,False,0,0,1,True,True,0.0,0.001758,-0.0,7.1e-05,0.0,0.001836,Sandoval
+trinidad antonio marquez guerrero,Bishop Trinidad Antonio Márquez Guerrero,False,0,0,1,False,True,0.0,0.00211,-0.0,2.3e-05,0.0,0.002204,Sandoval
+luis alfonso tut tun,Bishop Luis Alfonso Tut Tun,False,0,0,1,False,True,0.0,0.006101,-0.0,-0.0,0.0,0.006373,Sandoval

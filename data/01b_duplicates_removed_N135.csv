@@ -1,0 +1,267 @@
+﻿dup_cluster,doc_id,source,subsource,bishop,date,title,token_count,decision
+72,DOC_00073,diocesis,boletin,Hipólito Reyes Larios,2011-06-14,1 xalapa el-padre-martin-del-campo-se-queda-en-coatepec,181,KEPT
+72,DOC_00970,CEM,bishops_cem,Hipólito Reyes Larios,2011-06-14,b1.txt,181,removed
+73,DOC_00074,diocesis,boletin,José Luis Chávez Botello,2011-05-29,10 oaxaca un-acontecimiento-historico-para-nuestra-arquidiocesis,183,KEPT
+73,DOC_00971,CEM,bishops_cem,José Luis Chávez Botello,2011-05-29,b10.txt,183,removed
+74,DOC_00075,diocesis,boletin,Javier Navarro Rodríguez,2010-01-12,100 zamora los-primeros-25-anos-del-periodico-diocesano-mensaje,462,KEPT
+74,DOC_00972,CEM,bishops_cem,Javier Navarro Rodríguez,2010-01-12,b100.txt,462,removed
+75,DOC_00076,diocesis,boletin,Javier Navarro Rodríguez,2010-01-12,101 zamora carta-del-director-del-periodico-diocesano-mensaje-zamora,488,KEPT
+75,DOC_00973,CEM,bishops_cem,Javier Navarro Rodríguez,2010-01-12,b101.txt,488,removed
+76,DOC_00077,diocesis,boletin,Javier Navarro Rodríguez,2010-01-12,102 zamora a-los-25-anos-del-periodico-mensaje-de-la-diocesis-de-zamora,125,KEPT
+76,DOC_00974,CEM,bishops_cem,Javier Navarro Rodríguez,2010-01-12,b102.txt,125,removed
+77,DOC_00078,diocesis,boletin,Héctor González Martínez,2010-01-11,103 durango desarrollo-humano-integral-migracion-pobreza-desocupacion-finanzas-y-sindicatos,391,KEPT
+77,DOC_00975,CEM,bishops_cem,Héctor González Martínez,2010-01-11,b103.txt,391,removed
+78,DOC_00079,diocesis,boletin,José Luis Chávez Botello,2010-01-11,104 oaxaca emprenderemos-el-2010-entre-la-angustia-y-la-esperanza,217,KEPT
+78,DOC_00976,CEM,bishops_cem,José Luis Chávez Botello,2010-01-11,b104.txt,217,removed
+79,DOC_00080,diocesis,boletin,CEM,2010-01-11,105 oaxaca bienvenida-la-arquidiocesis-de-antequera-oaxaca-en-la-web,39,KEPT
+79,DOC_00977,CEM,bishops_cem,CEM,2010-01-11,b105.txt,39,removed
+80,DOC_00081,diocesis,boletin,Mario De Gasperín Gasperín,2010-01-06,106 queretaro mensaje-de-ano-nuevo-2010-de-la-diocesis-de-queretaro,153,KEPT
+80,DOC_00978,CEM,bishops_cem,Mario De Gasperín Gasperín,2010-01-06,b106.txt,153,removed
+81,DOC_00082,diocesis,boletin,Carlos Quintero Arce,2009-12-31,107 hermosillo el-ano-nuevo-2010,216,KEPT
+81,DOC_00979,CEM,bishops_cem,Carlos Quintero Arce,2009-12-31,b107.txt,216,removed
+82,DOC_00083,diocesis,boletin,Faustino Armendáriz Jiménez,2009-12-31,108 matamoros mensaje-de-ano-nuevo-de-la-diocesis-de-matamoros,394,KEPT
+82,DOC_00980,CEM,bishops_cem,Faustino Armendáriz Jiménez,2009-12-31,b108.txt,394,removed
+83,DOC_00084,diocesis,boletin,Ramón Castro Castro,2009-12-31,109 campeche un-ano-termina-un-ano-comienza,188,KEPT
+83,DOC_00981,CEM,bishops_cem,Ramón Castro Castro,2009-12-31,b109.txt,188,removed
+84,DOC_00085,diocesis,boletin,Juan Sandoval Íñiguez,2011-05-29,11 guadalajara xv-aniversario-del-cardenalato,68,KEPT
+84,DOC_00982,CEM,bishops_cem,Juan Sandoval Íñiguez,2011-05-29,b11.txt,68,removed
+85,DOC_00086,diocesis,boletin,Rodrigo Aguilar Martínez,2009-12-31,110 tehuacan fin-de-ano--ano-nuevo,273,KEPT
+85,DOC_00983,CEM,bishops_cem,Rodrigo Aguilar Martínez,2009-12-31,b110.txt,273,removed
+86,DOC_00087,diocesis,boletin,Felipe Arizmendi Esquivel,2009-12-30,111 san cristobal navidad-es-dios-con-nosotros,295,KEPT
+86,DOC_00984,CEM,bishops_cem,Felipe Arizmendi Esquivel,2009-12-30,b111.txt,295,removed
+87,DOC_00088,diocesis,boletin,Mario Espinosa Contreras,2009-12-30,112 mazatlan mensaje-de-ano-nuevo-2010-de-la-diocesis-de-mazatlan-,360,KEPT
+87,DOC_00985,CEM,bishops_cem,Mario Espinosa Contreras,2009-12-30,b112.txt,360,removed
+88,DOC_00089,diocesis,boletin,Víctor Sánchez Espinosa,2009-12-30,113 puebla mensaje-de-ano-nuevo-2010-de-la-arquidiocesis-de-puebla,215,KEPT
+88,DOC_00986,CEM,bishops_cem,Víctor Sánchez Espinosa,2009-12-30,b113.txt,215,removed
+89,DOC_00090,diocesis,boletin,"Roberto Octavio Balmori Cinta,",2009-12-30,114 ciudad valles mensaje-de-ano-nuevo-2010-de-la-diocesis-de-ciudad-valles,179,KEPT
+89,DOC_00987,CEM,bishops_cem,"Roberto Octavio Balmori Cinta,",2009-12-30,b114.txt,179,removed
+90,DOC_00091,diocesis,boletin,Rogelio Cabrera López,2009-12-29,115 tuxtla la-familia,326,KEPT
+90,DOC_00988,CEM,bishops_cem,Rogelio Cabrera López,2009-12-29,b115.txt,326,removed
+91,DOC_00092,diocesis,boletin,Héctor González Martínez,2009-12-28,116 durango adoramos-al-hijo-de-dios-vivo-que-se-hizo-hijo-en-una-familia-humana,329,KEPT
+91,DOC_00989,CEM,bishops_cem,Héctor González Martínez,2009-12-28,b116.txt,329,removed
+92,DOC_00093,diocesis,boletin,Rogelio Cabrera López,2009-12-28,117 tuxtla la-familia-es-un-tesoro-que-viene-de-dios,211,KEPT
+92,DOC_00990,CEM,bishops_cem,Rogelio Cabrera López,2009-12-28,b117.txt,211,removed
+93,DOC_00094,diocesis,boletin,Carlos Quintero Arce,2009-12-18,118 hermosillo la-corrupcion,231,KEPT
+93,DOC_00991,CEM,bishops_cem,Carlos Quintero Arce,2009-12-18,b118.txt,231,removed
+94,DOC_00095,diocesis,boletin,Mario Espinosa Contreras,2009-12-17,119 mazatlan mensaje-de-navidad-honrar-y-amar-a-cristo-en-los-hermanos,359,KEPT
+94,DOC_00992,CEM,bishops_cem,Mario Espinosa Contreras,2009-12-17,b119.txt,359,removed
+95,DOC_00096,diocesis,boletin,Felipe Arizmendi Esquivel,2011-05-29,12 san cristobal iglesia-inseguridad-y-violencia,300,KEPT
+95,DOC_00993,CEM,bishops_cem,Felipe Arizmendi Esquivel,2011-05-29,b12.txt,300,removed
+96,DOC_00097,diocesis,boletin,Rodrigo Aguilar Martínez,2009-12-17,120 tehuacan juan-bautista-y-la-navidad,223,KEPT
+96,DOC_00994,CEM,bishops_cem,Rodrigo Aguilar Martínez,2009-12-17,b120.txt,223,removed
+97,DOC_00098,diocesis,boletin,Felipe Arizmendi Esquivel,2009-12-16,121 san cristobal de-anglicanos-a-catolicos,295,KEPT
+97,DOC_00995,CEM,bishops_cem,Felipe Arizmendi Esquivel,2009-12-16,b121.txt,295,removed
+98,DOC_00099,diocesis,boletin,Carlos Quintero Arce,2009-12-15,122 hermosillo la-caracteristica,248,KEPT
+98,DOC_00996,CEM,bishops_cem,Carlos Quintero Arce,2009-12-15,b122.txt,248,removed
+99,DOC_00100,diocesis,boletin,Gustavo Rodríguez Vega,2009-12-15,123 nuevo laredo mensaje-de-navidad-2009,290,KEPT
+99,DOC_00997,CEM,bishops_cem,Gustavo Rodríguez Vega,2009-12-15,b123.txt,290,removed
+100,DOC_00101,diocesis,boletin,Héctor González Martínez,2009-12-14,124 durango ley-natural-base-de-toda-colaboracion-social-constructiva-y-desarrollo-economico,296,KEPT
+100,DOC_00998,CEM,bishops_cem,Héctor González Martínez,2009-12-14,b124.txt,296,removed
+101,DOC_00102,diocesis,boletin,Rogelio Cabrera López,2009-12-14,125 tuxtla esten-siempre-alegres-en-el-senor-el-esta-cerca,165,KEPT
+101,DOC_00999,CEM,bishops_cem,Rogelio Cabrera López,2009-12-14,b125.txt,165,removed
+102,DOC_00103,diocesis,boletin,Rogelio Cabrera López,2009-12-14,126 tuxtla jesus-es-nuestro-hermano,233,KEPT
+102,DOC_01000,CEM,bishops_cem,Rogelio Cabrera López,2009-12-14,b126.txt,233,removed
+103,DOC_00104,diocesis,boletin,José Luis Chávez Botello,2009-12-14,127 oaxaca cultivemos-semillas-de-reconciliacion-y-de-paz,239,KEPT
+103,DOC_01001,CEM,bishops_cem,José Luis Chávez Botello,2009-12-14,b127.txt,239,removed
+104,DOC_00105,diocesis,boletin,Felipe Aguirre Franco,2009-12-14,128 acapulco el-reto-del-cambio-climatico,234,KEPT
+104,DOC_01002,CEM,bishops_cem,Felipe Aguirre Franco,2009-12-14,b128.txt,234,removed
+106,DOC_00107,diocesis,boletin,José Luis Chávez Botello,2011-05-29,13 tehuantepec un-adviento-que-anuncia-vida-para-tehuantepec,628,KEPT
+106,DOC_01004,CEM,bishops_cem,José Luis Chávez Botello,2011-05-29,b13.txt,628,removed
+107,DOC_00108,diocesis,boletin,José Lizáres Estrada,2009-12-10,130 monterrey bodas-de-oro-sacerdotales-de-mons-jose-lizares-estrada,389,KEPT
+107,DOC_01005,CEM,bishops_cem,José Lizares Estrada,2009-12-10,b130.txt,389,removed
+108,DOC_00109,diocesis,boletin,Rodrigo Aguilar Martínez,2009-12-10,131 tehuacan la-virgen-maria-en-el-adviento,160,KEPT
+108,DOC_01006,CEM,bishops_cem,Rodrigo Aguilar Martínez,2009-12-10,b131.txt,160,removed
+116,DOC_00117,diocesis,boletin,Carlos Quintero Arce,2011-05-29,14 hermosillo el-sacerdote-hombre-indispensable,243,KEPT
+116,DOC_01007,CEM,bishops_cem,Carlos Quintero Arce,2011-05-29,b14.txt,243,removed
+126,DOC_00127,diocesis,boletin,Carlos Quintero Arce,2011-05-29,15 hermosillo los-fieles-difuntos,233,KEPT
+126,DOC_01008,CEM,bishops_cem,Carlos Quintero Arce,2011-05-29,b15.txt,233,removed
+136,DOC_00137,diocesis,boletin,Rafael Romo Muñoz,2011-05-29,16 provincia baja california  1er-encuentro-pastoral-de-la-provincia-eclesiastica-baja-california,166,KEPT
+136,DOC_01009,CEM,bishops_cem,Rafael Romo Muñoz,2011-05-29,b16.txt,166,removed
+147,DOC_00148,diocesis,boletin,Rogelio Cabrera López,2011-05-29,17 tuxtla la-ceguera-del-mundo-no-ver-a-dios,186,KEPT
+147,DOC_01010,CEM,bishops_cem,Rogelio Cabrera López,2011-05-29,b17.txt,186,removed
+157,DOC_00158,diocesis,boletin,Rodrigo Aguilar Martínez,2011-05-26,18 tehuacan domund--domingo-mundial-de-las-misiones,188,KEPT
+157,DOC_01011,CEM,bishops_cem,Rodrigo Aguilar Martínez,2011-05-26,b18.txt,188,removed
+168,DOC_00169,diocesis,boletin,Mario Espinosa Contreras,2011-05-26,19 mazatlan solidarios-con-la-evangelizacion-del-mundo,228,KEPT
+168,DOC_01012,CEM,bishops_cem,Mario Espinosa Contreras,2011-05-26,b19.txt,228,removed
+178,DOC_00179,diocesis,boletin,Rodrigo Aguilar Martínez,2011-06-14,2 tehuacan dia-del-amor-y-la-amistad,200,KEPT
+178,DOC_01013,CEM,bishops_cem,Rodrigo Aguilar Martínez,2011-06-14,b2.txt,200,removed
+179,DOC_00180,diocesis,boletin,Rogelio Cabrera López,2011-05-26,20 tuxtla que-nos-falta-para-alcanzar-la-vida-eterna,183,KEPT
+179,DOC_01014,CEM,bishops_cem,Rogelio Cabrera López,2011-05-26,b20.txt,183,removed
+190,DOC_00191,diocesis,boletin,Héctor González Martínez,2011-05-25,21 durango la-caridad-en-la-verdad-xi,283,KEPT
+190,DOC_01015,CEM,bishops_cem,Héctor González Martínez,2011-05-25,b21.txt,283,removed
+201,DOC_00202,diocesis,boletin,Gustavo Rodríguez Vega,2011-06-08,22 guadalajara la-falta-de-fe-vuelve-a-las-personas-indefensas-ante-la-enfermedad,176,KEPT
+201,DOC_01016,CEM,bishops_cem,Juan Sandoval Íñiguez,2011-06-08,b22.txt,176,removed
+212,DOC_00213,diocesis,boletin,Christophe Pierre,2011-05-25,23 cem letras-apostolicas-palabras-del-senor-nuncio-apostolico-en-mexico-don-christophe-pierre,121,KEPT
+212,DOC_01017,CEM,bishops_cem,Juan Manuel Mancilla Sánchez,2011-05-25,b23.txt,121,removed
+223,DOC_00224,diocesis,boletin,Alberto Suárez Inda,2011-05-20,24 morelia mensaje-de-mons-alberto-suarez-inda,135,KEPT
+223,DOC_01018,CEM,bishops_cem,Alberto Suárez Inda,2011-05-20,b24.txt,135,removed
+234,DOC_00235,diocesis,boletin,Rosendo Huesca,2011-05-18,25 puebla entrevista-a-mons-victor-sanchez-espinosa,549,KEPT
+234,DOC_01019,CEM,bishops_cem,Víctor Sánchez Espinosa,2011-05-18,b25.txt,549,removed
+240,DOC_00241,diocesis,boletin,Oscar A. Campos Contreras,2009-09-01,255 tehuantepec desastres-naturales,500,KEPT
+240,DOC_00478,diocesis,boletin,Oscar A. Campos Contreras,2009-09-01,tehuantepec desastres-naturales sept 1 2009,500,removed
+255,DOC_00256,diocesis,boletin,Carlos Garfias Merlos,2011-03-08,27 acapulco mujer-imagen-y-semejanza-de-dios,535,KEPT
+255,DOC_00475,diocesis,boletin,Carlos Garfias Merlos,2011-03-08,acapulco mujer-imagen-y-semejanza-de-dios mar 8 2011,535,removed
+255,DOC_01021,CEM,bishops_cem,Carlos Garfias Merlos,2011-03-08,b27.txt,535,removed
+264,DOC_00265,diocesis,boletin,Carlos Garfias Merlos,2011-03-07,28 acapulco dia-internacional-de-la-mujer,139,KEPT
+264,DOC_01022,CEM,bishops_cem,Carlos Garfias Merlos,2011-03-07,b28.txt,139,removed
+267,DOC_00268,diocesis,boletin,Rafael Romo Muñoz,2009-08-04,283 tijuana apertura-del-ano-sacerdotal-en-la-arquidiocesis-de-tijuana,229,KEPT
+267,DOC_00272,diocesis,boletin,Rafael Romo Muñoz,2009-08-04,287 tijuana apertura-del-ano-sacerdotal-en-la-arquidiocesis-de-tijuana,229,removed
+268,DOC_00269,diocesis,boletin,Rodrigo Aguilar Martínez,2009-08-04,284 tehuacan 4-de-agosto-fiesta-de-san-juan-maria-vianney-el-santo-cura-de-ars,265,KEPT
+268,DOC_00273,diocesis,boletin,Rodrigo Aguilar Martínez,2009-08-03,288 tehuacan 4-de-agosto-fiesta-de-san-juan-maria-vianney-el-santo-cura-de-ars,265,removed
+272,DOC_00275,diocesis,boletin,Felipe Arizmendi Esquivel,2010-12-09,29 san cristobal migrantes-pendulares,309,KEPT
+272,DOC_01023,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-12-09,b29.txt,309,removed
+282,DOC_00285,diocesis,boletin,Teodoro Enrique Pino Miranda,2011-06-12,3 guadalajara iii-jornada-iglesia-e-independencia,149,KEPT
+282,DOC_01024,CEM,bishops_cem,José Guadalupe Martín Rábago,2011-06-12,b3.txt,149,removed
+283,DOC_00286,diocesis,boletin,Felipe Aguirre Franco,2010-03-18,30 acapulco la-iglesia-entre-la-confianza-y-la-desconfianza,198,KEPT
+283,DOC_01025,CEM,bishops_cem,Felipe Aguirre Franco,2010-03-18,b30.txt,198,removed
+288,DOC_00291,diocesis,boletin,José Luis Dibildox Martínez,2009-07-17,304 tampico la-libertad-de-expresion-en-mexico,414,KEPT
+288,DOC_00477,diocesis,boletin,José Luis Dibildox Martínez,2009-07-17,tampico la-libertad-de-expresion-en-mexico jul 17 2009,416,removed
+293,DOC_00296,diocesis,boletin,Rodrigo Aguilar Martínez,2010-02-18,31 tehuacan hemos-iniciado-la-cuaresma,266,KEPT
+293,DOC_01026,CEM,bishops_cem,Rodrigo Aguilar Martínez,2010-02-18,b31.txt,266,removed
+296,DOC_00299,diocesis,boletin,Héctor González Martínez,2009-06-29,312 durango ano-sacerdotal,247,KEPT
+296,DOC_00300,diocesis,boletin,Héctor González Martínez,2009-06-29,314 durango episcopeo-ano-sacerdotal,249,removed
+300,DOC_00304,diocesis,boletin,Francisco Escobar Galicia,2010-02-18,32 teotihuacan que-en-cristo-nuestra-paz-mexico-tenga-vida-digna-diocesis-de-teotihuacan-,951,KEPT
+300,DOC_01027,CEM,bishops_cem,Francisco Escobar Galicia,2010-02-18,b32.txt,951,removed
+309,DOC_00313,diocesis,boletin,Alberto Suárez Inda,2010-02-18,33 morelia mensaje-de-cuaresma-2010,227,KEPT
+309,DOC_01028,CEM,bishops_cem,Alberto Suárez Inda,2010-02-18,b33.txt,227,removed
+312,DOC_00316,diocesis,boletin,Alberto Suárez Inda,2009-06-18,334 morelia ano-sacerdotal-2009-2010,196,KEPT
+312,DOC_00319,diocesis,boletin,Alberto Suárez Inda,2009-06-18,337 morelia ano-sacerdotal-2009-2010,196,removed
+317,DOC_00322,diocesis,boletin,José Guadalupe Martín Rábago,2010-02-17,34 leon la-conversion-cuaresmal,201,KEPT
+317,DOC_01029,CEM,bishops_cem,José Guadalupe Martín Rábago,2010-02-17,b34.txt,201,removed
+320,DOC_00325,diocesis,boletin,Mauro Piacenza,2009-06-16,342 gomez palacio diocesis-de-gomez-palacio-de-fiesta-por-la-apertura-del-ano-sacerdotal-,285,KEPT
+320,DOC_00327,diocesis,boletin,Mauro Piacenza,2009-06-16,344 gomez palacio diocesis-de-gomez-palacio-de-fiesta-por-la-apertura-del-ano-sacerdotal,280,removed
+327,DOC_00333,diocesis,boletin,Felipe Arizmendi Esquivel,2010-02-17,35 san cristobal mexico-conviertete,294,KEPT
+327,DOC_01030,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-02-17,b35.txt,294,removed
+337,DOC_00343,diocesis,boletin,Jorge Bernal Vargas,2010-02-17,36 cancun chetumal inician-las-jornadas-por-el-ano-sacerdotal-en-la-prelatura-de-cancun-chetumal,104,KEPT
+337,DOC_01031,CEM,bishops_cem,Jorge Bernal Vargas,2010-02-17,b36.txt,104,removed
+348,DOC_00354,diocesis,boletin,Pedro Pablo Elizondo Cárdenas,2010-02-17,37 cancun chetumal la-prelatura-de-cancun-chetumal-se-compromete-al-cuidado-ecologico,131,KEPT
+348,DOC_01032,CEM,bishops_cem,Pedro Pablo Elizondo Cárdenas,2010-02-17,b37.txt,131,removed
+357,DOC_00363,diocesis,boletin,Constancio Miranda Weckmann,2010-02-17,38 chihuahua la-cuaresma-y-la-pascua-tiempo-de-gracia,169,KEPT
+357,DOC_01033,CEM,bishops_cem,Constancio Miranda Weckmann,2010-02-17,b38.txt,169,removed
+368,DOC_00374,diocesis,boletin,Raúl Vera López,2010-02-17,39 saltillo primer-encuentro-voces-clamores-y-alternativas-populares-ante-la-crisis,337,KEPT
+368,DOC_01034,CEM,bishops_cem,Raúl Vera López,2010-02-17,b39.txt,337,removed
+369,DOC_00375,diocesis,boletin,Rafael Romo Muñoz,2009-02-27,390 tijuana la-arquidiocesis-de-tijuana-inicia-la-mision-permanente-con-la-asamblea-diocesana-de-pastoral,173,KEPT
+369,DOC_00445,diocesis,boletin,Rafael Romo Muñoz,2010-01-27,70 tijuana la-arquidiocesis-de-tijuana-inicia-la-mision-permanente-con-la-asamblea-diocesana-de-pastoral,173,removed
+369,DOC_00447,diocesis,boletin,Rafael Romo Muñoz,2010-01-27,72 tijuana la-arquidiocesis-de-tijuana-inicia-la-mision-permanente-con-la-asamblea-diocesana-de-pastoral,173,removed
+369,DOC_01068,CEM,bishops_cem,Rafael Romo Muñoz,2010-01-27,b70.txt,173,removed
+369,DOC_01070,CEM,bishops_cem,Rafael Romo Muñoz,2010-01-27,b72.txt,173,removed
+370,DOC_00376,diocesis,boletin,Carlos Aguiar Retes,2009-02-25,391 tlane homilia-de-mons-carlos-aguiar-retes-en-la-ereccion-canonica-de-teotihuacan,438,KEPT
+370,DOC_00378,diocesis,boletin,Carlos Aguiar Retes,2009-02-25,395 tlane homilia-de-mons-carlos-aguiar-retes-en-la-ereccion-canonica-de-teotihuacan,443,removed
+376,DOC_00383,diocesis,boletin,Mario Espinosa Contreras,2011-06-12,4 mazatlan solicitud-por-los-enfermos,174,KEPT
+376,DOC_01035,CEM,bishops_cem,Mario Espinosa Contreras,2011-06-12,b4.txt,174,removed
+377,DOC_00384,diocesis,boletin,José Guadalupe Galván Galindo,2010-02-17,40 torreon institutos-religiosos-celebran-jornada-mundial-de-la-vida-consagrada,112,KEPT
+377,DOC_01036,CEM,bishops_cem,José Guadalupe Galván Galindo,2010-02-17,b40.txt,112,removed
+386,DOC_00393,diocesis,boletin,Felipe Aguirre Franco,2010-02-17,41 acapulco las-enfermedades-desafio-a-la-justicia,200,KEPT
+386,DOC_01037,CEM,bishops_cem,Felipe Aguirre Franco,2010-02-17,b41.txt,200,removed
+405,DOC_00412,diocesis,boletin,Raúl Vera López,2010-02-16,43 saltillo que-en-cristo-nuestra-paz-mexico-tenga-vida-digna,807,KEPT
+405,DOC_01038,CEM,bishops_cem,Raúl Vera López,2010-02-16,b43.txt,807,removed
+410,DOC_00417,diocesis,boletin,José Guadalupe Martín Rábago,2010-02-16,44 leon saludo-y-bienvenida-en-la-iii-jornada-iglesia-e-independencia,359,KEPT
+410,DOC_01039,CEM,bishops_cem,José Guadalupe Martín Rábago,2010-02-16,b44.txt,359,removed
+411,DOC_00418,diocesis,boletin,Rogelio Cabrera López,2010-02-15,45 tuxtla iay-de-aquellos-que-son-indiferentes,155,KEPT
+411,DOC_01040,CEM,bishops_cem,Rogelio Cabrera López,2010-02-15,b45.txt,155,removed
+412,DOC_00419,diocesis,boletin,José Luis Chávez Botello,2010-02-14,46 oaxaca nos-urge-salir-de-la-mediocridad-y-de-la-violencia,241,KEPT
+412,DOC_01041,CEM,bishops_cem,José Luis Chávez Botello,2010-02-14,b46.txt,241,removed
+413,DOC_00420,diocesis,boletin,Enrique Sánchez Martínez,2010-02-14,47 durango doctrina-social-de-la-iglesia-servicio-de-la-caridad-pero-en-la-verdad,644,KEPT
+413,DOC_01042,CEM,bishops_cem,Enrique Sánchez Martínez,2010-02-14,b47.txt,644,removed
+414,DOC_00421,diocesis,boletin,Juan Sandoval Íñiguez,2010-02-12,48 guadalajara lamentable-propuesta-de-sancionar-a-ministros-de-culto,209,KEPT
+414,DOC_01043,CEM,bishops_cem,Juan Sandoval Íñiguez,2010-02-12,b48.txt,209,removed
+415,DOC_00422,diocesis,boletin,Carlos Quintero Arce,2010-02-11,49 hermosillo urge-una-solidaridad,191,KEPT
+415,DOC_01044,CEM,bishops_cem,Carlos Quintero Arce,2010-02-11,b49.txt,191,removed
+416,DOC_00423,diocesis,boletin,Carlos Quintero Arce,2011-06-12,5 hermosillo denuncias-del-magisterio,185,KEPT
+416,DOC_01045,CEM,bishops_cem,Carlos Quintero Arce,2011-06-12,b5.txt,185,removed
+417,DOC_00424,diocesis,boletin,CEM,2010-02-11,50 cem vive-la-semana-santa,72,KEPT
+417,DOC_01046,CEM,bishops_cem,CEM,2010-02-11,b50.txt,72,removed
+418,DOC_00425,diocesis,boletin,Felipe Arizmendi Esquivel,2010-02-10,51 san cristobal hacia-una-laicidad-positiva,285,KEPT
+418,DOC_01047,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-02-10,b51.txt,285,removed
+419,DOC_00426,diocesis,boletin,Mario Espinosa Contreras,2010-02-10,52 mazatlan procesion-penitencial-y-por-la-paz,183,KEPT
+419,DOC_01048,CEM,bishops_cem,Mario Espinosa Contreras,2010-02-10,b52.txt,183,removed
+420,DOC_00427,diocesis,boletin,CEM,2010-02-10,53 texcoco bienvenido-el-nuevo-diseno-web-de-la-diocesis-de-texcoco,42,KEPT
+420,DOC_01049,CEM,bishops_cem,CEM,2010-02-10,b53.txt,42,removed
+421,DOC_00428,diocesis,boletin,Rogelio Cabrera López,2010-02-09,54 san cristobal carta-sobre-conflictos-con-incidencia-religiosa-en-san-cristobal-de-las-casas,248,KEPT
+421,DOC_01050,CEM,bishops_cem,Rogelio Cabrera López,2010-02-09,b54.txt,248,removed
+422,DOC_00429,diocesis,boletin,Felipe Arizmendi Esquivel,2010-02-09,55 san cristobal carta-sobre-conflictos-con-incidencia-religiosa-en-san-cristobal-de-las-casas,223,KEPT
+422,DOC_01051,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-02-09,b55.txt,224,removed
+423,DOC_00430,diocesis,boletin,José Guadalupe Martín Rábago,2010-02-09,56 leon mexico-republica-representativa-democratica-federal-y-laica,306,KEPT
+423,DOC_01052,CEM,bishops_cem,José Guadalupe Martín Rábago,2010-02-09,b56.txt,306,removed
+424,DOC_00431,diocesis,boletin,José Luis Chávez Botello,2010-02-08,57 oaxaca madres-que-si-luchan-por-la-vida-y-por-mexico,242,KEPT
+424,DOC_01053,CEM,bishops_cem,José Luis Chávez Botello,2010-02-08,b57.txt,242,removed
+425,DOC_00432,diocesis,boletin,Enrique Sánchez Martínez,2010-02-08,58 durango la-iglesia-afirma-su-propia-competencia-y-su-propio-derecho-a-ensenar-su-doctrina,411,KEPT
+425,DOC_01054,CEM,bishops_cem,Enrique Sánchez Martínez,2010-02-08,b58.txt,411,removed
+426,DOC_00433,diocesis,boletin,Rogelio Cabrera López,2010-02-08,59 tuxtla subir-a-la-barca-de-pedro,187,KEPT
+426,DOC_01055,CEM,bishops_cem,Rogelio Cabrera López,2010-02-08,b59.txt,187,removed
+427,DOC_00434,diocesis,boletin,Juan Sandoval Íñiguez,2011-06-12,6 guadalajara avances-de-la-encuesta-parroquial-en-la-arquidiocesis-de-guadalajara,184,KEPT
+427,DOC_01056,CEM,bishops_cem,Juan Sandoval Íñiguez,2011-06-12,b6.txt,184,removed
+428,DOC_00435,diocesis,boletin,Mario De Gasperín Gasperín,2010-02-04,60 queretaro el-diezmo,99,KEPT
+428,DOC_01057,CEM,bishops_cem,Mario De Gasperín Gasperín,2010-02-04,b60.txt,99,removed
+429,DOC_00436,diocesis,boletin,Felipe Arizmendi Esquivel,2010-02-03,61 san cristobal laicismo-o-laicidad,288,KEPT
+429,DOC_01058,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-02-03,b61.txt,288,removed
+430,DOC_00437,diocesis,boletin,Rafael Sandoval Sandoval,2010-02-02,62 tarahumara con-el-contentos-trabajando,233,KEPT
+430,DOC_01059,CEM,bishops_cem,Rafael Sandoval Sandoval,2010-02-02,b62.txt,233,removed
+431,DOC_00438,diocesis,boletin,Rogelio Cabrera López,2010-02-01,63 tuxtla ipor-que-sacar-a-dios-de-la-vida,186,KEPT
+431,DOC_01060,CEM,bishops_cem,Rogelio Cabrera López,2010-02-01,b63.txt,186,removed
+432,DOC_00439,diocesis,boletin,José Luis Chávez Botello,2010-02-01,64 oaxaca dia-mundial-contra-el-cancer,217,KEPT
+432,DOC_01061,CEM,bishops_cem,José Luis Chávez Botello,2010-02-01,b64.txt,217,removed
+433,DOC_00440,diocesis,boletin,Enrique Sánchez Martínez,2010-02-01,65 durango la-iglesia-como-madre-y-maestra-su-doctrina-social,420,KEPT
+433,DOC_01062,CEM,bishops_cem,Enrique Sánchez Martínez,2010-02-01,b65.txt,420,removed
+434,DOC_00441,diocesis,boletin,Giuseppe Liberto,2010-01-29,66 guadalajara entrevista-con-el-director-del-coro-del-papa-en-guadalajara,159,KEPT
+434,DOC_01063,CEM,bishops_cem,Giuseppe Liberto,2010-01-29,b66.txt,159,removed
+435,DOC_00442,diocesis,boletin,Fabio Martínez Castilla,2010-01-29,67 ciudad lazaro cardenas xxxiii-aniversario-de-ordenacion-sacerdotal,369,KEPT
+435,DOC_01064,CEM,bishops_cem,Fabio Martínez Castilla,2010-01-29,b67.txt,369,removed
+436,DOC_00443,diocesis,boletin,Rodrigo Aguilar Martínez,2010-01-28,69 tehuacan el-derecho-y-el-valor-de-la-vida,314,KEPT
+436,DOC_01066,CEM,bishops_cem,Rodrigo Aguilar Martínez,2010-01-28,b69.txt,314,removed
+437,DOC_00444,diocesis,boletin,Rafael Martínez Sáinz,2011-06-12,7 guadalajara encuentro-anual-de-superiores-mayores-y-locales-de-vida-consagrada-en-guadalajara,171,KEPT
+437,DOC_01067,CEM,bishops_cem,Rafael Martínez Sáinz,2011-06-12,b7.txt,171,removed
+438,DOC_00446,diocesis,boletin,Felipe Arizmendi Esquivel,2010-01-27,71 san cristobal la-iglesia-no-es-enemiga,291,KEPT
+438,DOC_01069,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-01-27,b71.txt,291,removed
+439,DOC_00448,diocesis,boletin,Rogelio Cabrera López,2010-01-25,74 tuxtla el-espiritu-del-senor-tambien-esta-sobre-ti,158,KEPT
+439,DOC_01072,CEM,bishops_cem,Rogelio Cabrera López,2010-01-25,b74.txt,158,removed
+440,DOC_00449,diocesis,boletin,José Luis Chávez Botello,2010-01-25,75 oaxaca el-coro-del-papa-se-presenta-en-oaxaca,233,KEPT
+440,DOC_01073,CEM,bishops_cem,José Luis Chávez Botello,2010-01-25,b75.txt,233,removed
+441,DOC_00451,diocesis,boletin,Carlos Quintero Arce,2010-01-22,78 hermosillo la-actividad-politica,286,KEPT
+441,DOC_01076,CEM,bishops_cem,Carlos Quintero Arce,2010-01-22,b78.txt,286,removed
+442,DOC_00452,diocesis,boletin,Giuseppe Liberto,2010-01-22,79 guadalajara la-belleza-del-canto-con-que-se-alaba-a-dios-en-guadalajara,242,KEPT
+442,DOC_01077,CEM,bishops_cem,Giuseppe Liberto,2010-01-22,b79.txt,242,removed
+443,DOC_00453,diocesis,boletin,Felipe Arizmendi Esquivel,2011-06-11,8 san cristobal colecta-para-haiti,101,KEPT
+443,DOC_01078,CEM,bishops_cem,Felipe Arizmendi Esquivel,2011-06-11,b8.txt,101,removed
+444,DOC_00454,diocesis,boletin,José Guadalupe Martín Rábago,2010-01-22,80 leon la-droga-nos-invade-ique-debemos-hacer,435,KEPT
+444,DOC_01079,CEM,bishops_cem,José Guadalupe Martín Rábago,2010-01-22,b80.txt,435,removed
+445,DOC_00455,diocesis,boletin,Rodrigo Aguilar Martínez,2010-01-21,81 tehuacan dios-te-ama,166,KEPT
+445,DOC_01080,CEM,bishops_cem,Rodrigo Aguilar Martínez,2010-01-21,b81.txt,166,removed
+446,DOC_00456,diocesis,boletin,Felipe Arizmendi Esquivel,2010-01-20,82 san cristobal bodas-de-oro-episcopales,305,KEPT
+446,DOC_01081,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-01-20,b82.txt,305,removed
+447,DOC_00457,diocesis,boletin,Carlos Quintero Arce,2010-01-20,83 hermosillo la-templaza,451,KEPT
+447,DOC_01082,CEM,bishops_cem,Carlos Quintero Arce,2010-01-20,b83.txt,451,removed
+448,DOC_00458,diocesis,boletin,Oscar Rodríguez Maradiaga,2010-01-20,84 acapulco solidaridad-con-haiti,178,KEPT
+448,DOC_01083,CEM,bishops_cem,Oscar Rodríguez Maradiaga,2010-01-20,b84.txt,178,removed
+449,DOC_00459,diocesis,boletin,Christophe Pierre,2010-01-19,85 acapulco inauguran-en-acapulco-el-primer-congreso-nacional-de-sacerdotes,167,KEPT
+449,DOC_01084,CEM,bishops_cem,Christophe Pierre,2010-01-19,b85.txt,167,removed
+450,DOC_00460,diocesis,boletin,Andrés Rodríguez Maradiaga,2010-01-19,86 acapulco propone-el-obispo-andres-rodriguez-maradiaga-la-adopcion-de-ninos-huerfanos-de-haiti,268,KEPT
+450,DOC_01085,CEM,bishops_cem,Andrés Rodríguez Maradiaga,2010-01-19,b86.txt,268,removed
+451,DOC_00461,diocesis,boletin,Marcelino Hernández,2010-01-19,87 acapulco la-legislacion-de-las-drogas-no-es-la-solucion-al-narcotrafico-y-a-la-violencia,204,KEPT
+451,DOC_01086,CEM,bishops_cem,Marcelino Hernández,2010-01-19,b87.txt,204,removed
+452,DOC_00462,diocesis,boletin,Jorge Carlos,2010-01-19,88 papantla la-diocesis-de-papantla-hace-historia-en-el-caminar-de-su-fe,460,KEPT
+452,DOC_01087,CEM,bishops_cem,Jorge Carlos,2010-01-19,b88.txt,454,removed
+453,DOC_00463,diocesis,boletin,José Luis Chávez Botello,2010-01-18,89 oaxaca la-caridad-de-cristo-nos-urge,341,KEPT
+453,DOC_01088,CEM,bishops_cem,José Luis Chávez Botello,2010-01-18,b89.txt,341,removed
+454,DOC_00464,diocesis,boletin,Francisco Robles Ortega,2011-05-29,9 monterrey qhoy-nos-ha-nacido-el-salvadorq,203,KEPT
+454,DOC_01089,CEM,bishops_cem,Francisco Robles Ortega,2011-05-29,b9.txt,203,removed
+455,DOC_00465,diocesis,boletin,Rogelio Cabrera López,2010-01-18,90 tuxtla ique-podemos-hacer-cuando-se-agotan-las-tinajas-en-la-vida,232,KEPT
+455,DOC_01090,CEM,bishops_cem,Rogelio Cabrera López,2010-01-18,b90.txt,232,removed
+456,DOC_00466,diocesis,boletin,Enrique Sánchez Martínez,2010-01-18,91 durango desarrollo-de-los-pueblos-la-persona-humana-la-tecnica-y-el-progreso-tecnologico,341,KEPT
+456,DOC_01091,CEM,bishops_cem,Enrique Sánchez Martínez,2010-01-18,b91.txt,341,removed
+457,DOC_00467,diocesis,boletin,Carlos Aguiar Retes,2010-01-15,92 tlane colecta-de-la-arquidiocesis-de-tlalnepantla-para-haiti,107,KEPT
+457,DOC_01092,CEM,bishops_cem,Carlos Aguiar Retes,2010-01-15,b92.txt,107,removed
+458,DOC_00468,diocesis,boletin,Juan Manuel Mancilla Sánchez,2010-01-15,93 texcoco comunicado-de-prensa-de-la-prelatura-de-cancun-chetumal-con-motivo-del-terremoto-en-haiti,124,KEPT
+458,DOC_01093,CEM,bishops_cem,Juan Manuel Mancilla Sánchez,2010-01-15,b93.txt,124,removed
+459,DOC_00469,diocesis,boletin,Rodrigo Aguilar Martínez,2010-01-14,95 tehuacan violencia-de-una-menor-al-interno-de-la-familia,173,KEPT
+459,DOC_01095,CEM,bishops_cem,Rodrigo Aguilar Martínez,2010-01-14,b95.txt,173,removed
+460,DOC_00470,diocesis,boletin,Rodrigo Aguilar Martínez,2010-01-14,96 haiti drama-en-haiti,156,KEPT
+460,DOC_01096,CEM,bishops_cem,Rodrigo Aguilar Martínez,2010-01-14,b96.txt,156,removed
+461,DOC_00471,diocesis,boletin,Carlos Quintero Arce,2010-01-14,97 hermosillo el-ano-sacerdotal,270,KEPT
+461,DOC_01097,CEM,bishops_cem,Carlos Quintero Arce,2010-01-14,b97.txt,270,removed
+462,DOC_00472,diocesis,boletin,Felipe Arizmendi Esquivel,2010-01-13,98 san cristobal moral-y-leyes-civiles,354,KEPT
+462,DOC_01098,CEM,bishops_cem,Felipe Arizmendi Esquivel,2010-01-13,b98.txt,354,removed
+463,DOC_00473,diocesis,boletin,Francisco Robles Ortega,2010-01-13,99 monterrey dios-nos-manifiesta-su-amor,250,KEPT
+463,DOC_01099,CEM,bishops_cem,Francisco Robles Ortega,2010-01-13,b99.txt,250,removed
+1944,DOC_02095,jornada,jornada.com.mx,juan pablo,1996-12-01,premiojrulfo.html,517,KEPT
+1944,DOC_02096,jornada,jornada.com.mx,juan pablo,1996-12-01,monteroso.html,514,removed

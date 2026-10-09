@@ -1,0 +1,377 @@
+[
+ {
+  "territory": "Acapulco",
+  "state": "Guerrero",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Aguascalientes",
+  "state": "Aguascalientes",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Antequera",
+  "state": "Oaxaca",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Apatzingan",
+  "state": "Michoacan",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Archdiocese of Jalapa (Xalapa)",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Archdiocese of Puebla de los \u00c1ngeles",
+  "state": "Puebla",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Atlacomulco",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Campeche",
+  "state": "Campeche",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Cancun Chetumal",
+  "state": "Quintana Roo",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Cancun-Chetumal",
+  "state": "Quintana Roo",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Celaya",
+  "state": "Guanajuato",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Chalco",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Chihuahua",
+  "state": "Chihuahua",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Chilpancingo",
+  "state": "Guerrero",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Altamirano",
+  "state": "Guerrero",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Juarez",
+  "state": "Chihuahua",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Lazaro Cardenas",
+  "state": "Michoacan",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Obregon",
+  "state": "Sonora",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Valles",
+  "state": "San Luis Potosi",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ciudad Victoria",
+  "state": "Tamaulipas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Cordoba",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Cuernavaca",
+  "state": "Morelos",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Culiacan",
+  "state": "Sinaloa",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Diocese of Aguascalientes",
+  "state": "Aguascalientes",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Diocese of Chilpancingo-Chilapa, Diocese of Tlapa",
+  "state": "Guerrero",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Diocese of Ciudad Valles",
+  "state": "San Luis Potosi",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Diocese of Tapachula",
+  "state": "Chiapas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Durango",
+  "state": "Durango",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Ecatepec",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "El Nayar",
+  "state": "Nayarit",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "El Salto",
+  "state": "Durango",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Gomez Palacio",
+  "state": "Durango",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Guadalajara",
+  "state": "Jalisco",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Hermosillo",
+  "state": "Sonora",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Huejutla",
+  "state": "Hidalgo",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Irapuato",
+  "state": "Guanajuato",
+  "source": "added by hand 26 Aug 2026"
+ },
+ {
+  "territory": "La Paz",
+  "state": "Baja California Sur",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Leon",
+  "state": "Guanajuato",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Matamoros",
+  "state": "Tamaulipas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Mazatlan",
+  "state": "Sinaloa",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Mexicali",
+  "state": "Baja California",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Mexico City",
+  "state": "Distrito Federal",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Monterrey",
+  "state": "Nuevo Leon",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Morelia",
+  "state": "Michoacan",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Nezahualcoyotl",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Nuevo Casas Grandes",
+  "state": "Chihuahua",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Nuevo Laredo",
+  "state": "Tamaulipas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Orizaba",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Papantla",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Provincia Eclesiastica de Tlalnepantla",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Puebla",
+  "state": "Puebla",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Puerto Escondido",
+  "state": "Oaxaca",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Queretaro",
+  "state": "Queretaro",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Saltillo",
+  "state": "Coahuila",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "San Cristobal",
+  "state": "Chiapas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tampico",
+  "state": "Tamaulipas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tapachula",
+  "state": "Chiapas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tarahumara",
+  "state": "Chihuahua",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tehuacan",
+  "state": "Puebla",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tehuantepec",
+  "state": "Oaxaca",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tenancingo",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Teotihuacan",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tepic",
+  "state": "Nayarit",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Texcoco",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tijuana",
+  "state": "Baja California",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tlalnepantla",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tlapa",
+  "state": "Guerrero",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tlaxcala",
+  "state": "Tlaxcala",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Toluca",
+  "state": "Mexico",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Torreon",
+  "state": "Coahuila",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tuxpan",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Tuxtla",
+  "state": "Chiapas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Xalapa",
+  "state": "Veracruz",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Zacatecas",
+  "state": "Zacatecas",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ },
+ {
+  "territory": "Zamora",
+  "state": "Michoacan",
+  "source": "inverted from document_topics_with_state_recovered.csv"
+ }
+]

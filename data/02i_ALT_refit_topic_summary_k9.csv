@@ -1,0 +1,10 @@
+﻿topic,n_documents,mean_prob,first_year,last_year,share_of_corpus,top_terms
+1,62,0.538,1979.0,2026.0,0.0266,"méxico, sergio, carlos, presidente, política, historia, unidos, país, gobierno, nacional"
+2,10,0.6091,2011.0,2026.0,0.0043,"puebla, catedral, sánchez, espinosa, iglesia, arzobispo, arte, víctor, palabra, beato"
+3,348,0.56,1978.0,2026.0,0.1494,"paz, violencia, méxico, país, obispos, iglesia, sociedad, familias, social, personas"
+4,147,0.5233,1980.0,2026.0,0.0631,"gobierno, pri, méxico, presidente, política, partido, iglesia, educación, nacional, reforma"
+5,237,0.4613,2001.0,2026.0,0.1017,"pastoral, vida, dios, iglesia, diócesis, san, méxico, comunidad, familia, parroquia"
+6,582,0.7507,1977.0,2026.0,0.2498,"diócesis, méxico, papa, arzobispo, francisco, obispos, seminario, arquidiócesis, episcopal, pastoral"
+7,198,0.6351,1977.0,2026.0,0.085,"méxico, iglesia, papa, católica, arzobispo, arquidiócesis, cardenal, país, paz, santa"
+8,683,0.7093,1977.0,2026.0,0.2931,"dios, jesús, vida, cristo, amor, iglesia, tiempo, evangelio, hombre, mundo"
+9,63,0.5204,1976.0,2026.0,0.027,"gobierno, presidente, san, méxico, federal, unidos, personas, fox, jorge, investigación"
